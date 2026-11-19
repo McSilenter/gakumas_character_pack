@@ -1,0 +1,2 @@
+vertesan/gakumasu-diff@fc6afb8b5ba4b5b3e0f041edb5f33f53db2f6a64 (same commit as corpus\gakumas\master-jp), fetched 2026-10-30: CharacterDetail.yaml, CharacterColor.yaml
+official-temari.html: https://gakuen.idolmaster-official.jp/idol/temari/ fetched 2026-10-30 (user pointed to it). Profile matches master-dl/CharacterDetail.yaml; adds catchphrase 「夢？いいえ、必ず達成する目標です。」 and the longer 紹介文.

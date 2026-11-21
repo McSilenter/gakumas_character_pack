@@ -1,0 +1,670 @@
+序号	stem	path	类别	要写的偶像	世界线	已有笔记	台词合计
+1	adv_unit_01-01_04	主线 第1部 1章 欢迎来到初星学园/1章4话.csv	主线	fktn(ことね):24	fktn:主线	ttmr,hski	24
+2	adv_unit_01-01_05	主线 第1部 1章 欢迎来到初星学园/1章5话.csv	主线	fktn(ことね):43	fktn:主线	hski	43
+3	adv_unit_01-01_06	主线 第1部 1章 欢迎来到初星学园/1章6话.csv	主线	fktn(ことね):27	fktn:主线		27
+4	adv_unit_01-01_07	主线 第1部 1章 欢迎来到初星学园/1章7话.csv	主线	fktn(ことね):41	fktn:主线		41
+5	adv_unit_01-01_08	主线 第1部 1章 欢迎来到初星学园/1章8话.csv	主线	fktn(ことね):27	fktn:主线	hski	27
+6	adv_unit_01-01_09	主线 第1部 1章 欢迎来到初星学园/1章9话.csv	主线	fktn(ことね):29	fktn:主线	hski	29
+7	adv_unit_01-01_10	主线 第1部 1章 欢迎来到初星学园/1章10话.csv	主线	fktn(ことね):18	fktn:主线	ttmr,hski	18
+8	adv_unit_01-01_13	主线 第1部 1章 欢迎来到初星学园/1章13话.csv	主线	fktn(ことね):38	fktn:主线	ttmr,hmsz,hski	38
+9	adv_unit_01-01_14	主线 第1部 1章 欢迎来到初星学园/1章14话.csv	主线	fktn(ことね):22	fktn:主线	ttmr,hski	22
+10	adv_unit_01-02_01	主线 第1部 2章 偶像们的共同生活/2章1话.csv	主线	fktn(ことね):10	fktn:主线	ttmr,hski	10
+11	adv_unit_01-02_02	主线 第1部 2章 偶像们的共同生活/2章2话.csv	主线	fktn(ことね):20	fktn:主线	ttmr,hski	20
+12	adv_unit_01-02_03	主线 第1部 2章 偶像们的共同生活/2章3话.csv	主线	fktn(ことね):27	fktn:主线	ttmr,hski	27
+13	adv_unit_01-02_04	主线 第1部 2章 偶像们的共同生活/2章4话.csv	主线	fktn(ことね):27	fktn:主线	ttmr,hski	27
+14	adv_unit_01-02_05	主线 第1部 2章 偶像们的共同生活/2章5话.csv	主线	fktn(ことね):45	fktn:主线	ttmr,hski	45
+15	adv_unit_01-02_06	主线 第1部 2章 偶像们的共同生活/2章6话.csv	主线	fktn(ことね):29; ssmk(清夏):12	fktn:主线; ssmk:主线	ttmr,hski	41
+16	adv_unit_01-02_07	主线 第1部 2章 偶像们的共同生活/2章7话.csv	主线	fktn(ことね):41	fktn:主线	ttmr,hmsz,hski	41
+17	adv_unit_01-02_08	主线 第1部 2章 偶像们的共同生活/2章8话.csv	主线	fktn(ことね):13	fktn:主线	ttmr,hski,hume	13
+18	adv_unit_01-02_09	主线 第1部 2章 偶像们的共同生活/2章9话.csv	主线	fktn(ことね):33	fktn:主线	ttmr,hski	33
+19	adv_unit_01-02_10	主线 第1部 2章 偶像们的共同生活/2章10话.csv	主线	fktn(ことね):13	fktn:主线	ttmr,hski	13
+20	adv_unit_01-02_11	主线 第1部 2章 偶像们的共同生活/2章11话.csv	主线	fktn(ことね):15; kcna(千奈):21	fktn:主线; kcna:主线	ttmr,hski	36
+21	adv_unit_01-02_12	主线 第1部 2章 偶像们的共同生活/2章12话.csv	主线	fktn(ことね):17; amao(麻央):9	fktn:主线; amao:主线	ttmr,hski	26
+22	adv_unit_01-02_13	主线 第1部 2章 偶像们的共同生活/2章13话.csv	主线	fktn(ことね):39	fktn:主线	ttmr,hski	39
+23	adv_unit_01-02_14	主线 第1部 2章 偶像们的共同生活/2章14话.csv	主线	fktn(ことね):9; kllj(リーリヤ):10; ssmk(清夏):26	fktn:主线; kllj:主线; ssmk:主线	ttmr,hski	45
+24	adv_unit_01-02_15	主线 第1部 2章 偶像们的共同生活/2章15话.csv	主线	fktn(ことね):20	fktn:主线	ttmr,hski	20
+25	adv_unit_01-03_01	主线 第1部 3章 我们是Re;IRIS/3章1话.csv	主线	fktn(ことね):18	fktn:主线	ttmr,hski	18
+26	adv_unit_01-03_02	主线 第1部 3章 我们是Re;IRIS/3章2话.csv	主线	kcna(千奈):15	kcna:主线	hume	15
+27	adv_unit_01-03_03	主线 第1部 3章 我们是Re;IRIS/3章3话.csv	主线	kcna(千奈):8; shro(広):8	kcna:主线; shro:主线	hume	16
+28	adv_unit_01-03_04	主线 第1部 3章 我们是Re;IRIS/3章4话.csv	主线	hrnm(莉波):29+anon0006+anon0007; jsna(星南):9	hrnm:主线; jsna:主线	hume	40
+29	adv_unit_01-03_05	主线 第1部 3章 我们是Re;IRIS/3章5话.csv	主线	jsna(星南):30	jsna:主线	hume	30
+30	adv_unit_01-03_06	主线 第1部 3章 我们是Re;IRIS/3章6话.csv	主线	fktn(ことね):11	fktn:主线	ttmr,hski,hume	11
+31	adv_unit_01-03_07	主线 第1部 3章 我们是Re;IRIS/3章7话.csv	主线	fktn(ことね):10	fktn:主线	ttmr,hski,hume	10
+32	adv_unit_01-03_08	主线 第1部 3章 我们是Re;IRIS/3章8话.csv	主线	fktn(ことね):8	fktn:主线	ttmr,hski,hume	8
+33	adv_unit_01-03_09	主线 第1部 3章 我们是Re;IRIS/3章9话.csv	主线	fktn(ことね):21	fktn:主线	ttmr,hski,hume	21
+34	adv_unit_01-03_10	主线 第1部 3章 我们是Re;IRIS/3章10话.csv	主线	fktn(ことね):21	fktn:主线	ttmr,hski	21
+35	adv_unit_01-03_11	主线 第1部 3章 我们是Re;IRIS/3章11话.csv	主线	fktn(ことね):19	fktn:主线	ttmr,hski	19
+36	adv_unit_01-03_12	主线 第1部 3章 我们是Re;IRIS/3章12话.csv	主线	fktn(ことね):11; jsna(星南):16	fktn:主线; jsna:主线	ttmr,hmsz,hski,hume	27
+37	adv_unit_01-04_01	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章1话.csv	主线	fktn(ことね):22	fktn:主线	ttmr,hmsz,hski,hume	22
+38	adv_unit_01-04_02	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章2话.csv	主线	jsna(星南):19	jsna:主线	hmsz,hume	19
+39	adv_unit_01-04_03	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章3话.csv	主线	jsna(星南):43	jsna:主线	hmsz,hume	43
+40	adv_unit_01-04_04	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章4话.csv	主线	fktn(ことね):28	fktn:主线	ttmr,hski	28
+41	adv_unit_01-04_05	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章5话.csv	主线	fktn(ことね):16	fktn:主线	ttmr,hski	16
+42	adv_unit_01-04_06	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章6话.csv	主线	jsna(星南):20	jsna:主线	hmsz,hume	20
+43	adv_unit_01-04_09	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章9话.csv	主线	fktn(ことね):16	fktn:主线	ttmr,hski	16
+44	adv_unit_01-04_10	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章10话.csv	主线	fktn(ことね):22	fktn:主线	ttmr,hski	22
+45	adv_unit_01-04_12	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章12话.csv	主线	fktn(ことね):7	fktn:主线	ttmr,hski	7
+46	adv_unit_01-04_13	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章13话.csv	主线	fktn(ことね):22	fktn:主线	ttmr,hski,hume	22
+47	adv_unit_01-04_14	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章14话.csv	主线	jsna(星南):39	jsna:主线	hmsz,hume	39
+48	adv_unit_01-04_15	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章15话.csv	主线	fktn(ことね):35	fktn:主线	ttmr,hski	35
+49	adv_unit_01-04_16	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章16话.csv	主线	jsna(星南):38	jsna:主线	hski	38
+50	adv_unit_01-04_17	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章17话.csv	主线	fktn(ことね):20; jsna(星南):18	fktn:主线; jsna:主线	ttmr,hmsz	38
+51	adv_unit_01-04_18	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章18话.csv	主线	fktn(ことね):6	fktn:主线	ttmr,hski,hume	6
+52	adv_unit_01-04_19	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章19话.csv	主线	jsna(星南):14	jsna:主线	hmsz,hume	14
+53	adv_unit_01-04_20	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章20话.csv	主线	fktn(ことね):10	fktn:主线	ttmr,hmsz,hski,hume	10
+54	adv_unit_01-04_22	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章22话.csv	主线	fktn(ことね):19; jsna(星南):23	fktn:主线; jsna:主线	ttmr,hmsz	42
+55	adv_unit_01-04_23	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章23话.csv	主线	jsna(星南):32	jsna:主线	hmsz,hume	32
+56	adv_unit_01-04_24	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章24话.csv	主线	fktn(ことね):14	fktn:主线	ttmr,hski	14
+57	adv_event_001_main-01	活动 001 1年级1班的偶像们/main-01 第1话.csv	活动	kllj(リーリヤ):12; ssmk(清夏):24	kllj:活动 001; ssmk:活动 001	ttmr,hski	36
+58	adv_event_001_main-02	活动 001 1年级1班的偶像们/main-02 第2话.csv	活动	kllj(リーリヤ):23; ssmk(清夏):24+anon0054	kllj:活动 001; ssmk:活动 001	ttmr,hski	48
+59	adv_event_001_main-03	活动 001 1年级1班的偶像们/main-03 第3话.csv	活动	ssmk(清夏):20	ssmk:活动 001	ttmr,hski	20
+60	adv_event_001_main-04	活动 001 1年级1班的偶像们/main-04 第4话.csv	活动	fktn(ことね):19; ssmk(清夏):14	fktn:活动 001; ssmk:活动 001	ttmr,hski	33
+61	adv_event_001_main-05	活动 001 1年级1班的偶像们/main-05 第5话.csv	活动	fktn(ことね):13; kllj(リーリヤ):6; ssmk(清夏):11	fktn:活动 001; kllj:活动 001; ssmk:活动 001	ttmr,hski	30
+62	adv_event_002_main-01	活动 002 初星温泉～纷飞的凛冽寒风～/main-01 第1话.csv	活动	kcna(千奈):24; shro(広):15	kcna:活动 002; shro:活动 002	hmsz,hume	39
+63	adv_event_002_main-02	活动 002 初星温泉～纷飞的凛冽寒风～/main-02 第2话.csv	活动	kcna(千奈):25; shro(広):12	kcna:活动 002; shro:活动 002	hume	37
+64	adv_event_002_main-03	活动 002 初星温泉～纷飞的凛冽寒风～/main-03 第3话.csv	活动	kcna(千奈):21; shro(広):9	kcna:活动 002; shro:活动 002	hmsz,hume	30
+65	adv_event_002_main-04	活动 002 初星温泉～纷飞的凛冽寒风～/main-04 第4话.csv	活动	kcna(千奈):19; shro(広):16	kcna:活动 002; shro:活动 002	hmsz,hume	35
+66	adv_event_002_main-05	活动 002 初星温泉～纷飞的凛冽寒风～/main-05 第5话.csv	活动	kcna(千奈):6; shro(広):19	kcna:活动 002; shro:活动 002	hmsz,hume	25
+67	adv_event_003_main-01	活动 003 1年级2班的偶像们/main-01 第1话.csv	活动	fktn(ことね):10; amao(麻央):38; hrnm(莉波):29	fktn:活动 003; amao:活动 003; hrnm:活动 003		77
+68	adv_event_003_main-02	活动 003 1年级2班的偶像们/main-02 第2话.csv	活动	amao(麻央):38; ssmk(清夏):13+anon0054; hrnm(莉波):29	amao:活动 003; ssmk:活动 003; hrnm:活动 003		81
+69	adv_event_003_main-03	活动 003 1年级2班的偶像们/main-03 第3话.csv	活动	amao(麻央):39; ssmk(清夏):27; hrnm(莉波):19	amao:活动 003; ssmk:活动 003; hrnm:活动 003		85
+70	adv_event_003_main-04	活动 003 1年级2班的偶像们/main-04 第4话.csv	活动	amao(麻央):32; ssmk(清夏):22; hrnm(莉波):18	amao:活动 003; ssmk:活动 003; hrnm:活动 003		72
+71	adv_event_003_main-05	活动 003 1年级2班的偶像们/main-05 第5话.csv	活动	amao(麻央):33; ssmk(清夏):22; hrnm(莉波):20	amao:活动 003; ssmk:活动 003; hrnm:活动 003		75
+72	adv_event_004_main-01	活动 004 学生会的偶像们/main-01 夏夜FACE OFF 第1话.csv	活动	fktn(ことね):10; kllj(リーリヤ):8; ssmk(清夏):14	fktn:活动 004; kllj:活动 004; ssmk:活动 004	ttmr,hski	32
+73	adv_event_004_main-02	活动 004 学生会的偶像们/main-02 夏夜FACE OFF 第2话.csv	活动	fktn(ことね):26; kllj(リーリヤ):21	fktn:活动 004; kllj:活动 004	hski	47
+74	adv_event_004_main-03	活动 004 学生会的偶像们/main-03 夏夜FACE OFF 第3话.csv	活动	fktn(ことね):22; kllj(リーリヤ):14	fktn:活动 004; kllj:活动 004	hski	36
+75	adv_event_004_main-04	活动 004 学生会的偶像们/main-04 夏夜FACE OFF 第4话.csv	活动	fktn(ことね):26; kllj(リーリヤ):20	fktn:活动 004; kllj:活动 004	ttmr,hski	46
+76	adv_event_004_main-05	活动 004 学生会的偶像们/main-05 夏夜FACE OFF 第5话.csv	活动	fktn(ことね):13; kllj(リーリヤ):12; ssmk(清夏):18	fktn:活动 004; kllj:活动 004; ssmk:活动 004	ttmr,hski	43
+77	adv_event_005_main-01	活动 005/main-01 第1话.csv	活动	hrnm(莉波):9; jsna(星南):25; atbm(燕):12	hrnm:活动 005; jsna:活动 005; atbm:活动 005		46
+78	adv_event_005_main-02	活动 005/main-02 第2话.csv	活动	kcna(千奈):8; hrnm(莉波):6; jsna(星南):26; atbm(燕):8	kcna:活动 005; hrnm:活动 005; jsna:活动 005; atbm:活动 005		48
+79	adv_event_005_main-03	活动 005/main-03 第3话.csv	活动	hrnm(莉波):7; jsna(星南):39; atbm(燕):12	hrnm:活动 005; jsna:活动 005; atbm:活动 005	hmsz	58
+80	adv_event_005_main-04	活动 005/main-04 第4话.csv	活动	hrnm(莉波):7; jsna(星南):37; atbm(燕):10	hrnm:活动 005; jsna:活动 005; atbm:活动 005	ttmr,hski	54
+81	adv_event_005_main-05	活动 005/main-05 第5话.csv	活动	hrnm(莉波):6; jsna(星南):36; atbm(燕):13	hrnm:活动 005; jsna:活动 005; atbm:活动 005	hume	55
+82	adv_event_006_main-01	活动 006 班级对抗初星大运动会/main-01 第1话.csv	活动	kcna(千奈):13; hrnm(莉波):9	kcna:活动 006; hrnm:活动 006	hume	22
+83	adv_event_006_main-02	活动 006 班级对抗初星大运动会/main-02 第2话.csv	活动	kcna(千奈):16; hrnm(莉波):21	kcna:活动 006; hrnm:活动 006	hume	37
+84	adv_event_006_main-03	活动 006 班级对抗初星大运动会/main-03 第3话.csv	活动	kcna(千奈):23; hrnm(莉波):21	kcna:活动 006; hrnm:活动 006	hume	44
+85	adv_event_006_main-04	活动 006 班级对抗初星大运动会/main-04 第4话.csv	活动	kcna(千奈):20; shro(広):12; hrnm(莉波):15	kcna:活动 006; shro:活动 006; hrnm:活动 006	hume	47
+86	adv_event_006_main-05	活动 006 班级对抗初星大运动会/main-05 第5话.csv	活动	kcna(千奈):19; shro(広):21; hrnm(莉波):14	kcna:活动 006; shro:活动 006; hrnm:活动 006	hume	54
+87	adv_event_007_main-01	活动 007 好姐妹？三人组的日常/main-01 万圣节狂想曲 第1话.csv	活动	kcna(千奈):35	kcna:活动 007	ttmr,hmsz,hume	35
+88	adv_event_007_main-02	活动 007 好姐妹？三人组的日常/main-02 万圣节狂想曲 第2话.csv	活动	kcna(千奈):31; shro(広):15+anon0015	kcna:活动 007; shro:活动 007	ttmr	47
+89	adv_event_007_main-03	活动 007 好姐妹？三人组的日常/main-03 万圣节狂想曲 第3话.csv	活动	kcna(千奈):32; shro(広):6	kcna:活动 007; shro:活动 007	ttmr,hume	38
+90	adv_event_007_main-04	活动 007 好姐妹？三人组的日常/main-04 万圣节狂想曲 第4话.csv	活动	kcna(千奈):33; shro(広):8	kcna:活动 007; shro:活动 007	ttmr	41
+91	adv_event_007_main-05	活动 007 好姐妹？三人组的日常/main-05 万圣节狂想曲 第5话.csv	活动	kcna(千奈):32; shro(広):8	kcna:活动 007; shro:活动 007	ttmr	40
+92	adv_event_008_main-01	活动 008 3年级1班的日常/main-01 #Animate气氛活跃队 第1话.csv	活动	fktn(ことね):20	fktn:活动 008	ttmr,hski	20
+93	adv_event_008_main-02	活动 008 3年级1班的日常/main-02 #Animate气氛活跃队 第2话.csv	活动	fktn(ことね):19	fktn:活动 008	ttmr,hski	19
+94	adv_event_008_main-03	活动 008 3年级1班的日常/main-03 #Animate气氛活跃队 第3话.csv	活动	fktn(ことね):17	fktn:活动 008	ttmr,hski	17
+95	adv_event_008_main-04	活动 008 3年级1班的日常/main-04 #Animate气氛活跃队 第4话.csv	活动	fktn(ことね):31	fktn:活动 008	ttmr,hski	31
+96	adv_event_008_main-05	活动 008 3年级1班的日常/main-05 #Animate气氛活跃队 第5话.csv	活动	fktn(ことね):26	fktn:活动 008	ttmr,hski	26
+97	adv_event_009_main-01	活动 009 莉莉娅与清夏的日常/main-01 蛋糕系起的友情圣诞节 第1话.csv	活动	fktn(ことね):33	fktn:活动 009	ttmr,hski	33
+98	adv_event_009_main-02	活动 009 莉莉娅与清夏的日常/main-02 蛋糕系起的友情圣诞节 第2话.csv	活动	fktn(ことね):17; kllj(リーリヤ):12; ssmk(清夏):11; shro(広):10	fktn:活动 009; kllj:活动 009; ssmk:活动 009; shro:活动 009	hmsz,hume	50
+99	adv_event_009_main-03	活动 009 莉莉娅与清夏的日常/main-03 蛋糕系起的友情圣诞节 第3话.csv	活动	fktn(ことね):28; kllj(リーリヤ):23	fktn:活动 009; kllj:活动 009	hume	51
+100	adv_event_009_main-04	活动 009 莉莉娅与清夏的日常/main-04 蛋糕系起的友情圣诞节 第4话.csv	活动	fktn(ことね):28; kllj(リーリヤ):24	fktn:活动 009; kllj:活动 009	hume	52
+101	adv_event_009_main-05	活动 009 莉莉娅与清夏的日常/main-05 蛋糕系起的友情圣诞节 第5话.csv	活动	fktn(ことね):27; kllj(リーリヤ):17; ssmk(清夏):11	fktn:活动 009; kllj:活动 009; ssmk:活动 009	hski,hume	55
+102	adv_event_010_main-01	活动 010 星南与燕的日常/main-01 情人节协奏曲 第1话.csv	活动	kcna(千奈):11; shro(広):14	kcna:活动 010; shro:活动 010	hmsz,hume	25
+103	adv_event_010_main-02	活动 010 星南与燕的日常/main-02 情人节协奏曲 第2话.csv	活动	shro(広):31; hrnm(莉波):41	shro:活动 010; hrnm:活动 010		72
+104	adv_event_010_main-03	活动 010 星南与燕的日常/main-03 情人节协奏曲 第3话.csv	活动	shro(広):24; hrnm(莉波):20; jsna(星南):25	shro:活动 010; hrnm:活动 010; jsna:活动 010		69
+105	adv_event_010_main-04	活动 010 星南与燕的日常/main-04 情人节协奏曲 第4话.csv	活动	shro(広):42; hrnm(莉波):27	shro:活动 010; hrnm:活动 010		69
+106	adv_event_010_main-05	活动 010 星南与燕的日常/main-05 情人节协奏曲 第5话.csv	活动	kcna(千奈):11; shro(広):20; hrnm(莉波):9; jsna(星南):14	kcna:活动 010; shro:活动 010; hrnm:活动 010; jsna:活动 010	ttmr,hmsz,hski,hume	54
+107	adv_event_011_main-01	活动 011 琴音与麻央的日常/main-01 交换祈愿 女儿节 第1话.csv	活动	amao(麻央):16; kcna(千奈):17	amao:活动 011; kcna:活动 011	ttmr	33
+108	adv_event_011_main-02	活动 011 琴音与麻央的日常/main-02 交换祈愿 女儿节 第2话.csv	活动	amao(麻央):20; kcna(千奈):21	amao:活动 011; kcna:活动 011	ttmr	41
+109	adv_event_011_main-03	活动 011 琴音与麻央的日常/main-03 交换祈愿 女儿节 第3话.csv	活动	amao(麻央):6; kcna(千奈):24	amao:活动 011; kcna:活动 011	ttmr	30
+110	adv_event_011_main-04	活动 011 琴音与麻央的日常/main-04 交换祈愿 女儿节 第4话.csv	活动	amao(麻央):36; kcna(千奈):15	amao:活动 011; kcna:活动 011	ttmr	51
+111	adv_event_011_main-05	活动 011 琴音与麻央的日常/main-05 交换祈愿 女儿节 第5话.csv	活动	amao(麻央):22; kcna(千奈):14	amao:活动 011; kcna:活动 011	ttmr	36
+112	adv_event_012_main-01	活动 012 手毬与广的日常/main-01 樱花飞舞的起跑线 第1话.csv	活动	kllj(リーリヤ):17; ssmk(清夏):18	kllj:活动 012; ssmk:活动 012	hski	35
+113	adv_event_012_main-02	活动 012 手毬与广的日常/main-02 樱花飞舞的起跑线 第2话.csv	活动	kllj(リーリヤ):52; ssmk(清夏):11	kllj:活动 012; ssmk:活动 012	ttmr,hski	63
+114	adv_event_012_main-03	活动 012 手毬与广的日常/main-03 樱花飞舞的起跑线 第3话.csv	活动	kllj(リーリヤ):9; ssmk(清夏):48	kllj:活动 012; ssmk:活动 012	hski	57
+115	adv_event_012_main-04	活动 012 手毬与广的日常/main-04 樱花飞舞的起跑线 第4话.csv	活动	kllj(リーリヤ):22; ssmk(清夏):34	kllj:活动 012; ssmk:活动 012	hski,hume	56
+116	adv_event_012_main-05	活动 012 手毬与广的日常/main-05 樱花飞舞的起跑线 第5话.csv	活动	kllj(リーリヤ):19; ssmk(清夏):21	kllj:活动 012; ssmk:活动 012	hski,hume	40
+117	adv_event_013_main-01	活动 013 3年级1班的修学旅行/main-01 第1话.csv	活动	amao(麻央):16; hrnm(莉波):25; jsna(星南):16; atbm(燕):21	amao:活动 013; hrnm:活动 013; jsna:活动 013; atbm:活动 013		78
+118	adv_event_013_main-02	活动 013 3年级1班的修学旅行/main-02 第2话.csv	活动	amao(麻央):23; hrnm(莉波):20; jsna(星南):14; atbm(燕):14	amao:活动 013; hrnm:活动 013; jsna:活动 013; atbm:活动 013		71
+119	adv_event_013_main-03	活动 013 3年级1班的修学旅行/main-03 第3话.csv	活动	hrnm(莉波):34; jsna(星南):32; atbm(燕):8	hrnm:活动 013; jsna:活动 013; atbm:活动 013		74
+120	adv_event_013_main-04	活动 013 3年级1班的修学旅行/main-04 第4话.csv	活动	amao(麻央):30; hrnm(莉波):11; jsna(星南):19; atbm(燕):13	amao:活动 013; hrnm:活动 013; jsna:活动 013; atbm:活动 013		73
+121	adv_event_013_main-05	活动 013 3年级1班的修学旅行/main-05 第5话.csv	活动	amao(麻央):11; hrnm(莉波):15; jsna(星南):37; atbm(燕):17	amao:活动 013; hrnm:活动 013; jsna:活动 013; atbm:活动 013	hmsz	80
+122	adv_event_014_main-01	活动 014 学生会1年级的日常/main-01 第1话.csv	活动	kcna(千奈):18; shro(広):18	kcna:活动 014; shro:活动 014	hmsz,hume	36
+123	adv_event_014_main-02	活动 014 学生会1年级的日常/main-02 第2话.csv	活动	kcna(千奈):10; shro(広):7	kcna:活动 014; shro:活动 014	hmsz,hume	17
+124	adv_event_014_main-03	活动 014 学生会1年级的日常/main-03 第3话.csv	活动	shro(広):43	shro:活动 014	hmsz,hume	43
+125	adv_event_014_main-04	活动 014 学生会1年级的日常/main-04 第4话.csv	活动	kcna(千奈):19; shro(広):8	kcna:活动 014; shro:活动 014	ttmr,hmsz,hski,hume	27
+126	adv_event_014_main-05	活动 014 学生会1年级的日常/main-05 第5话.csv	活动	shro(広):30	shro:活动 014	ttmr,hmsz,hski,hume	30
+127	adv_event_015_main-01	活动 015/main-01 巡演活动 广岛篇 第1话.csv	活动	kllj(リーリヤ):16; kcna(千奈):12; hrnm(莉波):22	kllj:活动 015; kcna:活动 015; hrnm:活动 015		50
+128	adv_event_015_main-02	活动 015/main-02 巡演活动 广岛篇 第2话.csv	活动	kllj(リーリヤ):13; kcna(千奈):17; hrnm(莉波):24	kllj:活动 015; kcna:活动 015; hrnm:活动 015		54
+129	adv_event_015_main-03	活动 015/main-03 巡演活动 广岛篇 第3话.csv	活动	kllj(リーリヤ):17; kcna(千奈):13; hrnm(莉波):19	kllj:活动 015; kcna:活动 015; hrnm:活动 015		49
+130	adv_event_015_main-04	活动 015/main-04 巡演活动 广岛篇 第4话.csv	活动	kllj(リーリヤ):17; kcna(千奈):20; hrnm(莉波):31	kllj:活动 015; kcna:活动 015; hrnm:活动 015		68
+131	adv_event_015_main-05	活动 015/main-05 巡演活动 广岛篇 第5话.csv	活动	kllj(リーリヤ):11; kcna(千奈):16; hrnm(莉波):19	kllj:活动 015; kcna:活动 015; hrnm:活动 015		46
+132	adv_event_016_main-01	活动 016/main-01 第1话.csv	活动	fktn(ことね):12	fktn:活动 016	ttmr,hski,hume	12
+133	adv_event_016_main-02	活动 016/main-02 第2话.csv	活动	fktn(ことね):29	fktn:活动 016	ttmr,hski	29
+134	adv_event_016_main-04	活动 016/main-04 第4话.csv	活动	fktn(ことね):23	fktn:活动 016	ttmr,hski	23
+135	adv_event_016_main-05	活动 016/main-05 第5话.csv	活动	fktn(ことね):15	fktn:活动 016	ttmr,hski,hume	15
+136	adv_event_017_main-01	活动 017/main-01 第1话.csv	活动	amao(麻央):7; hrnm(莉波):25; jsna(星南):10; atbm(燕):9	amao:活动 017; hrnm:活动 017; jsna:活动 017; atbm:活动 017		51
+137	adv_event_017_main-02	活动 017/main-02 第2话.csv	活动	amao(麻央):14; hrnm(莉波):30; jsna(星南):16	amao:活动 017; hrnm:活动 017; jsna:活动 017	ttmr,hski	60
+138	adv_event_017_main-03	活动 017/main-03 第3话.csv	活动	fktn(ことね):9; amao(麻央):10; hrnm(莉波):9; jsna(星南):36; atbm(燕):6	fktn:活动 017; amao:活动 017; hrnm:活动 017; jsna:活动 017; atbm:活动 017		70
+139	adv_event_017_main-04	活动 017/main-04 第4话.csv	活动	amao(麻央):32; hrnm(莉波):15; jsna(星南):27; atbm(燕):7	amao:活动 017; hrnm:活动 017; jsna:活动 017; atbm:活动 017		81
+140	adv_event_017_main-05	活动 017/main-05 第5话.csv	活动	amao(麻央):9+anon0034+anon0065; hrnm(莉波):38; jsna(星南):7; atbm(燕):14	amao:活动 017; hrnm:活动 017; jsna:活动 017; atbm:活动 017		70
+141	adv_event_018_main-01	活动 018/main-01 第1话.csv	活动	amao(麻央):23; ssmk(清夏):15; shro(広):8	amao:活动 018; ssmk:活动 018; shro:活动 018		46
+142	adv_event_018_main-02	活动 018/main-02 第2话.csv	活动	amao(麻央):16; ssmk(清夏):18; shro(広):13	amao:活动 018; ssmk:活动 018; shro:活动 018		47
+143	adv_event_018_main-03	活动 018/main-03 第3话.csv	活动	amao(麻央):13; ssmk(清夏):19; shro(広):16	amao:活动 018; ssmk:活动 018; shro:活动 018		48
+144	adv_event_018_main-04	活动 018/main-04 第4话.csv	活动	amao(麻央):15; ssmk(清夏):17; shro(広):14	amao:活动 018; ssmk:活动 018; shro:活动 018		46
+145	adv_event_018_main-05	活动 018/main-05 第5话.csv	活动	amao(麻央):21; ssmk(清夏):25; shro(広):25	amao:活动 018; ssmk:活动 018; shro:活动 018		71
+146	adv_event_019_main-01	活动 019/main-01 巡演活动 名古屋篇 第1话.csv	活动	fktn(ことね):6; hrnm(莉波):6; jsna(星南):10; atbm(燕):8	fktn:活动 019; hrnm:活动 019; jsna:活动 019; atbm:活动 019	ttmr,hski	30
+147	adv_event_019_main-02	活动 019/main-02 巡演活动 名古屋篇 第2话.csv	活动	fktn(ことね):12	fktn:活动 019	ttmr,hmsz,hski,hume	12
+148	adv_event_019_main-03	活动 019/main-03 巡演活动 名古屋篇 第3话.csv	活动	fktn(ことね):23	fktn:活动 019	ttmr,hski	23
+149	adv_event_019_main-04	活动 019/main-04 巡演活动 名古屋篇 第4话.csv	活动	fktn(ことね):22	fktn:活动 019	ttmr,hski	22
+150	adv_event_019_main-05	活动 019/main-05 巡演活动 名古屋篇 第5话.csv	活动	fktn(ことね):19	fktn:活动 019	ttmr,hski	19
+151	adv_event_020_main-01	活动 020/main-01 第1话.csv	活动	kllj(リーリヤ):25; ssmk(清夏):33	kllj:活动 020; ssmk:活动 020		58
+152	adv_event_020_main-02	活动 020/main-02 第2话.csv	活动	kllj(リーリヤ):34; ssmk(清夏):30	kllj:活动 020; ssmk:活动 020		64
+153	adv_event_020_main-03	活动 020/main-03 第3话.csv	活动	kllj(リーリヤ):26; ssmk(清夏):38	kllj:活动 020; ssmk:活动 020		64
+154	adv_event_020_main-04	活动 020/main-04 第4话.csv	活动	kllj(リーリヤ):32; ssmk(清夏):32	kllj:活动 020; ssmk:活动 020		64
+155	adv_event_020_main-05	活动 020/main-05 第5话.csv	活动	kllj(リーリヤ):38; ssmk(清夏):38	kllj:活动 020; ssmk:活动 020		76
+156	adv_event_021_main-01	活动 021/main-01 第1话.csv	活动	hrnm(莉波):12; jsna(星南):24; atbm(燕):25	hrnm:活动 021; jsna:活动 021; atbm:活动 021		61
+157	adv_event_021_main-02	活动 021/main-02 第2话.csv	活动	jsna(星南):28; atbm(燕):29	jsna:活动 021; atbm:活动 021		57
+158	adv_event_021_main-03	活动 021/main-03 第3话.csv	活动	jsna(星南):28; atbm(燕):35	jsna:活动 021; atbm:活动 021		63
+159	adv_event_021_main-04	活动 021/main-04 第4话.csv	活动	amao(麻央):11; jsna(星南):14; atbm(燕):25	amao:活动 021; jsna:活动 021; atbm:活动 021		50
+160	adv_event_021_main-05	活动 021/main-05 第5话.csv	活动	jsna(星南):23; atbm(燕):25	jsna:活动 021; atbm:活动 021		48
+161	adv_event_022_main-01	活动 022/main-01 第1话.csv	活动	fktn(ことね):28; amao(麻央):24	fktn:活动 022; amao:活动 022		52
+162	adv_event_022_main-02	活动 022/main-02 第2话.csv	活动	fktn(ことね):38; amao(麻央):18	fktn:活动 022; amao:活动 022		56
+163	adv_event_022_main-03	活动 022/main-03 第3话.csv	活动	fktn(ことね):28; amao(麻央):31	fktn:活动 022; amao:活动 022	ttmr,hmsz,hski,hume	59
+164	adv_event_022_main-04	活动 022/main-04 第4话.csv	活动	fktn(ことね):39; amao(麻央):33	fktn:活动 022; amao:活动 022		72
+165	adv_event_022_main-05	活动 022/main-05 第5话.csv	活动	fktn(ことね):31; amao(麻央):38	fktn:活动 022; amao:活动 022		69
+166	adv_event_023_main-01	活动 023/main-01 第1话.csv	活动	shro(広):16	shro:活动 023	ttmr,hmsz	16
+167	adv_event_023_main-02	活动 023/main-02 第2话.csv	活动	shro(広):29	shro:活动 023	ttmr,hmsz	29
+168	adv_event_023_main-03	活动 023/main-03 第3话.csv	活动	shro(広):21	shro:活动 023	ttmr,hmsz	21
+169	adv_event_023_main-04	活动 023/main-04 第4话.csv	活动	shro(広):22	shro:活动 023	ttmr,hmsz	22
+170	adv_event_023_main-05	活动 023/main-05 第5话.csv	活动	shro(広):13	shro:活动 023	ttmr,hmsz,hume	13
+171	adv_event_024_main-01	活动 024/main-01 第1话.csv	活动	jsna(星南):26	jsna:活动 024	hmsz,hume	26
+172	adv_event_024_main-02	活动 024/main-02 第2话.csv	活动	jsna(星南):10	jsna:活动 024	hmsz,hume	10
+173	adv_event_024_main-03	活动 024/main-03 第3话.csv	活动	kcna(千奈):10; jsna(星南):11; atbm(燕):7	kcna:活动 024; jsna:活动 024; atbm:活动 024	hmsz,hume	28
+174	adv_event_024_main-04	活动 024/main-04 第4话.csv	活动	jsna(星南):25	jsna:活动 024	hmsz,hume	25
+175	adv_event_024_main-05	活动 024/main-05 第5话.csv	活动	jsna(星南):32	jsna:活动 024	hmsz,hume	32
+176	adv_event_025_main-01	活动 025/main-01 第1话.csv	活动	kcna(千奈):12; hrnm(莉波):10; atbm(燕):28	kcna:活动 025; hrnm:活动 025; atbm:活动 025	hmsz,hume	50
+177	adv_event_025_main-02	活动 025/main-02 第2话.csv	活动	kcna(千奈):21; shro(広):6	kcna:活动 025; shro:活动 025	hmsz,hume	27
+178	adv_event_025_main-03	活动 025/main-03 第3话.csv	活动	kcna(千奈):26	kcna:活动 025	hmsz,hume	26
+179	adv_event_025_main-04	活动 025/main-04 第4话.csv	活动	kcna(千奈):20; hrnm(莉波):9; jsna(星南):9; atbm(燕):12	kcna:活动 025; hrnm:活动 025; jsna:活动 025; atbm:活动 025	hmsz,hume	50
+180	adv_event_025_main-05	活动 025/main-05 第5话.csv	活动	kcna(千奈):18	kcna:活动 025	hmsz,hume	18
+181	adv_event_026_main-01	活动 026/main-01 ライブツアーイベント特別編 GO MY WAY!! 第1话.csv	活动	fktn(ことね):16	fktn:活动 026	ttmr,hski,hume	16
+182	adv_event_026_main-02	活动 026/main-02 ライブツアーイベント特別編 GO MY WAY!! 第2话.csv	活动	fktn(ことね):19	fktn:活动 026	ttmr,hski,hume	19
+183	adv_event_026_main-03	活动 026/main-03 ライブツアーイベント特別編 GO MY WAY!! 第3话.csv	活动	fktn(ことね):10	fktn:活动 026	hski,hume	10
+184	adv_event_026_main-04	活动 026/main-04 ライブツアーイベント特別編 GO MY WAY!! 第4话.csv	活动	fktn(ことね):11+anon0018	fktn:活动 026	hski,hume	12
+185	adv_event_026_main-05	活动 026/main-05 ライブツアーイベント特別編 GO MY WAY!! 第5话.csv	活动	fktn(ことね):19	fktn:活动 026	ttmr,hski,hume	19
+186	adv_event_027_main-01	活动 027/main-01 夏风连衣裙 第1话.csv	活动	jsna(星南):16	jsna:活动 027	ttmr,hmsz	16
+187	adv_event_027_main-02	活动 027/main-02 夏风连衣裙 第2话.csv	活动	jsna(星南):15	jsna:活动 027	ttmr,hmsz	15
+188	adv_event_027_main-03	活动 027/main-03 夏风连衣裙 第3话.csv	活动	jsna(星南):25	jsna:活动 027	ttmr,hmsz	25
+189	adv_event_027_main-04	活动 027/main-04 夏风连衣裙 第4话.csv	活动	jsna(星南):26	jsna:活动 027	ttmr,hmsz	26
+190	adv_event_027_main-05	活动 027/main-05 夏风连衣裙 第5话.csv	活动	jsna(星南):13	jsna:活动 027	ttmr,hmsz	13
+191	adv_event_028_main-01	活动 028/main-01 第1话.csv	活动	fktn(ことね):8; hrnm(莉波):17; atbm(燕):17	fktn:活动 028; hrnm:活动 028; atbm:活动 028		42
+192	adv_event_028_main-02	活动 028/main-02 第2话.csv	活动	amao(麻央):11; hrnm(莉波):21; atbm(燕):11	amao:活动 028; hrnm:活动 028; atbm:活动 028		43
+193	adv_event_028_main-03	活动 028/main-03 第3话.csv	活动	hrnm(莉波):32; jsna(星南):7; atbm(燕):27	hrnm:活动 028; jsna:活动 028; atbm:活动 028	hmsz,hume	66
+194	adv_event_028_main-04	活动 028/main-04 第4话.csv	活动	hrnm(莉波):38; atbm(燕):14	hrnm:活动 028; atbm:活动 028	ttmr	52
+195	adv_event_028_main-05	活动 028/main-05 第5话.csv	活动	hrnm(莉波):42; jsna(星南):6; atbm(燕):23	hrnm:活动 028; jsna:活动 028; atbm:活动 028	hski	71
+196	adv_event_030_main-01	活动 030/main-01 我是、小恶魔♡ 第1话.csv	活动	kllj(リーリヤ):30; jsna(星南):20	kllj:活动 030; jsna:活动 030	hski,hume	50
+197	adv_event_030_main-02	活动 030/main-02 我是、小恶魔♡ 第2话.csv	活动	kllj(リーリヤ):34	kllj:活动 030	hski,hume	34
+198	adv_event_030_main-03	活动 030/main-03 我是、小恶魔♡ 第3话.csv	活动	kllj(リーリヤ):21	kllj:活动 030	hski,hume	21
+199	adv_event_030_main-04	活动 030/main-04 我是、小恶魔♡ 第4话.csv	活动	kllj(リーリヤ):33	kllj:活动 030	hski,hume	33
+200	adv_event_030_main-05	活动 030/main-05 我是、小恶魔♡ 第5话.csv	活动	kllj(リーリヤ):25	kllj:活动 030	hski,hume	25
+201	adv_dear_hmsz_029	秦谷美鈴 亲爱度剧情/第29话.csv	别人亲爱度	jsna(星南):19	jsna:亲爱度（秦谷美鈴）	ttmr,hmsz	19
+202	adv_dear_hmsz_030	秦谷美鈴 亲爱度剧情/第30话.csv	别人亲爱度	jsna(星南):13	jsna:亲爱度（秦谷美鈴）	ttmr,hmsz	13
+203	adv_dear_hmsz_031	秦谷美鈴 亲爱度剧情/第31话.csv	别人亲爱度	jsna(星南):22	jsna:亲爱度（秦谷美鈴）	ttmr,hmsz	22
+204	adv_dear_hmsz_036	秦谷美鈴 亲爱度剧情/第36话.csv	别人亲爱度	jsna(星南):15	jsna:亲爱度（秦谷美鈴）	ttmr,hmsz	15
+205	adv_dear_hski_005	花海咲季 亲爱度剧情/第5话.csv	别人亲爱度	kcna(千奈):13	kcna:亲爱度（花海咲季）	hski,hume	13
+206	adv_dear_hski_024	花海咲季 亲爱度剧情/第24话.csv	别人亲爱度	jsna(星南):27	jsna:亲爱度（花海咲季）	hski	27
+207	adv_dear_hski_025	花海咲季 亲爱度剧情/第25话.csv	别人亲爱度	jsna(星南):35	jsna:亲爱度（花海咲季）	hski	35
+208	adv_dear_hski_026	花海咲季 亲爱度剧情/第26话.csv	别人亲爱度	jsna(星南):10	jsna:亲爱度（花海咲季）	hski	10
+209	adv_dear_hski_027	花海咲季 亲爱度剧情/第27话.csv	别人亲爱度	jsna(星南):10	jsna:亲爱度（花海咲季）	hski	10
+210	adv_dear_hski_029	花海咲季 亲爱度剧情/第29话.csv	别人亲爱度	atbm(燕):19	atbm:亲爱度（花海咲季）	hski	19
+211	adv_dear_hski_030	花海咲季 亲爱度剧情/第30话.csv	别人亲爱度	atbm(燕):43	atbm:亲爱度（花海咲季）	hski	43
+212	adv_dear_hski_031	花海咲季 亲爱度剧情/第31话.csv	别人亲爱度	atbm(燕):11	atbm:亲爱度（花海咲季）	hski	11
+213	adv_dear_hski_032	花海咲季 亲爱度剧情/第32话.csv	别人亲爱度	atbm(燕):40	atbm:亲爱度（花海咲季）	hski	40
+214	adv_dear_hski_034	花海咲季 亲爱度剧情/第34话.csv	别人亲爱度	jsna(星南):11	jsna:亲爱度（花海咲季）	hski	11
+215	adv_dear_hume_024	花海佑芽 亲爱度剧情/第24话.csv	别人亲爱度	kcna(千奈):6	kcna:亲爱度（花海佑芽）	ttmr,hume	6
+216	adv_dear_hume_025	花海佑芽 亲爱度剧情/第25话.csv	别人亲爱度	kcna(千奈):8; shro(広):11	kcna:亲爱度（花海佑芽）; shro:亲爱度（花海佑芽）	hume	19
+217	adv_dear_hume_026	花海佑芽 亲爱度剧情/第26话.csv	别人亲爱度	kcna(千奈):15; shro(広):18	kcna:亲爱度（花海佑芽）; shro:亲爱度（花海佑芽）	hume	33
+218	adv_dear_hume_032	花海佑芽 亲爱度剧情/第32话.csv	别人亲爱度	kcna(千奈):14; shro(広):17; jsna(星南):18	kcna:亲爱度（花海佑芽）; shro:亲爱度（花海佑芽）; jsna:亲爱度（花海佑芽）	hume	49
+219	adv_dear_hume_036	花海佑芽 亲爱度剧情/第36话.csv	别人亲爱度	jsna(星南):12	jsna:亲爱度（花海佑芽）	hume	12
+220	adv_dear_ttmr_013	月村手毬 亲爱度剧情/第13话.csv	别人亲爱度	fktn(ことね):9; kcna(千奈):12	fktn:亲爱度（月村手毬）; kcna:亲爱度（月村手毬）	ttmr,hski	21
+221	adv_dear_ttmr_027	月村手毬 亲爱度剧情/第27话.csv	别人亲爱度	jsna(星南):9	jsna:亲爱度（月村手毬）	ttmr,hmsz	9
+222	adv_dear_ttmr_029	月村手毬 亲爱度剧情/第29话.csv	别人亲爱度	kcna(千奈):9; shro(広):10	kcna:亲爱度（月村手毬）; shro:亲爱度（月村手毬）	ttmr	19
+223	adv_dear_ttmr_030	月村手毬 亲爱度剧情/第30话.csv	别人亲爱度	kcna(千奈):11; shro(広):11	kcna:亲爱度（月村手毬）; shro:亲爱度（月村手毬）	ttmr	22
+224	adv_dear_ttmr_036	月村手毬 亲爱度剧情/第36话.csv	别人亲爱度	jsna(星南):13	jsna:亲爱度（月村手毬）	ttmr	13
+225	adv_cidol-hmsz-3-010_01	P卡 秦谷美鈴【Star-mine】/第1话 Star-mine 第1话.csv	别人P卡	jsna(星南):13	jsna:亲爱度（秦谷美鈴）·P卡	hmsz,hume	13
+226	adv_cidol-hmsz-3-010_02	P卡 秦谷美鈴【Star-mine】/第2话 Star-mine 第2话.csv	别人P卡	jsna(星南):15	jsna:亲爱度（秦谷美鈴）·P卡	hmsz,hume	15
+227	adv_cidol-hmsz-3-010_03	P卡 秦谷美鈴【Star-mine】/第3话 Star-mine 第3话.csv	别人P卡	jsna(星南):16	jsna:亲爱度（秦谷美鈴）·P卡	hmsz,hume	16
+228	adv_cidol-hmsz-3-015_03	P卡 秦谷美鈴【ENDLESS DANCE】/第3话 ENDLESS DANCE 第3话.csv	别人P卡	jsna(星南):10	jsna:亲爱度（秦谷美鈴）·P卡	hmsz,hume	10
+229	adv_cidol-hski-3-012_02	P卡 花海咲季【雨后的鸢尾花】/第2话 雨后的鸢尾花 第2话.csv	别人P卡	fktn(ことね):13	fktn:亲爱度（花海咲季）·P卡	ttmr,hski	13
+230	adv_cidol-hski-3-015_03	P卡 花海咲季【全力以赴！】/第3话 全力以赴！ 第3话.csv	别人P卡	fktn(ことね):16	fktn:亲爱度（花海咲季）·P卡	ttmr,hski	16
+231	adv_cidol-hski-3-017_03	P卡 花海咲季【Wildest Flower】/第3话 Wildest Flower 第3话.csv	别人P卡	jsna(星南):9	jsna:亲爱度（花海咲季）·P卡	hski	9
+232	adv_cidol-hski-3-019_02	P卡 花海咲季【GO MY WAY!!】/第2话 GO MY WAY!! 第2话.csv	别人P卡	jsna(星南):27	jsna:亲爱度（花海咲季）·P卡	hski	27
+233	adv_cidol-hski-3-019_03	P卡 花海咲季【GO MY WAY!!】/第3话 GO MY WAY!! 第3话.csv	别人P卡	jsna(星南):15	jsna:亲爱度（花海咲季）·P卡	hski	15
+234	adv_cidol-hume-3-005_01	P卡 花海佑芽【White Night! White Wish!】/第1话 White Night! White Wish! 第1话.csv	别人P卡	kcna(千奈):15; shro(広):17	kcna:亲爱度（花海佑芽）·P卡; shro:亲爱度（花海佑芽）·P卡	hume	32
+235	adv_cidol-hume-3-006_02	P卡 花海佑芽【Campus mode!!】/第2话 Campus mode!! 第2话.csv	别人P卡	kcna(千奈):11; shro(広):16	kcna:亲爱度（花海佑芽）·P卡; shro:亲爱度（花海佑芽）·P卡	hume	27
+236	adv_cidol-hume-3-006_03	P卡 花海佑芽【Campus mode!!】/第3话 Campus mode!! 第3话.csv	别人P卡	shro(広):6	shro:亲爱度（花海佑芽）·P卡	hume	6
+237	adv_cidol-hume-3-009_02	P卡 花海佑芽【GUSUPI】/第2话 GUSUPI 第2话.csv	别人P卡	kcna(千奈):8; shro(広):21	kcna:亲爱度（花海佑芽）·P卡; shro:亲爱度（花海佑芽）·P卡	hski,hume	29
+238	adv_cidol-hume-3-012_01	P卡 花海佑芽【Star-mine】/第1话 Star-mine 第1话.csv	别人P卡	jsna(星南):16	jsna:亲爱度（花海佑芽）·P卡	hmsz,hume	16
+239	adv_cidol-hume-3-012_02	P卡 花海佑芽【Star-mine】/第2话 Star-mine 第2话.csv	别人P卡	jsna(星南):20	jsna:亲爱度（花海佑芽）·P卡	hmsz,hume	20
+240	adv_cidol-hume-3-012_03	P卡 花海佑芽【Star-mine】/第3话 Star-mine 第3话.csv	别人P卡	jsna(星南):22	jsna:亲爱度（花海佑芽）·P卡	hmsz,hume	22
+241	adv_cidol-hume-3-016_03	P卡 花海佑芽【ENDLESS DANCE】/第3话 ENDLESS DANCE 第3话.csv	别人P卡	jsna(星南):13	jsna:亲爱度（花海佑芽）·P卡	hmsz,hume	13
+242	adv_cidol-hume-3-017_02	P卡 花海佑芽【纯白画页与水彩绘就的主角】/第2话 纯白画页与水彩绘就的主角 第2话.csv	别人P卡	kcna(千奈):12; shro(広):15	kcna:亲爱度（花海佑芽）·P卡; shro:亲爱度（花海佑芽）·P卡	hume	27
+243	adv_cidol-ttmr-3-000_01	P卡 月村手毬【Luna say maybe】/第1话 Luna say maybe 第1话.csv	别人P卡	fktn(ことね):9	fktn:亲爱度（月村手毬）·P卡	ttmr	9
+244	adv_cidol-ttmr-3-000_02	P卡 月村手毬【Luna say maybe】/第2话 Luna say maybe 第2话.csv	别人P卡	fktn(ことね):8; amao(麻央):15	fktn:亲爱度（月村手毬）·P卡; amao:亲爱度（月村手毬）·P卡	ttmr	23
+245	adv_cidol-ttmr-3-016_02	P卡 月村手毬【究竟从何时起】/第2话 究竟从何时起 第2话.csv	别人P卡	kcna(千奈):14	kcna:亲爱度（月村手毬）·P卡	ttmr,hmsz	14
+246	adv_cidol-ttmr-3-016_03	P卡 月村手毬【究竟从何时起】/第3话 究竟从何时起 第3话.csv	别人P卡	kcna(千奈):10	kcna:亲爱度（月村手毬）·P卡	ttmr,hmsz	10
+247	adv_csprt-1-0000_01	S卡 1-0000【念入りにストレッチ】/第1话 拜托了？咲季教练！.csv	S卡	kcna(千奈):7	kcna:S卡	hski	7
+248	adv_csprt-1-0000_02	S卡 1-0000【念入りにストレッチ】/第2话 下次一定要赢！.csv	S卡	shro(広):7	shro:S卡	hski	7
+249	adv_csprt-1-0002_01	S卡 1-0002【枝毛をくるり】/第1话 注入活力的好方法.csv	S卡	fktn(ことね):11	fktn:S卡	hski	11
+250	adv_csprt-1-0002_02	S卡 1-0002【枝毛をくるり】/第2话 捉迷藏.csv	S卡	fktn(ことね):9; shro(広):7	fktn:S卡; shro:S卡		16
+251	adv_csprt-1-0003_01	S卡 1-0003【王子様のひと呼吸】/第1话 造型指导课.csv	S卡	amao(麻央):9	amao:S卡		9
+252	adv_csprt-1-0003_02	S卡 1-0003【王子様のひと呼吸】/第2话 街头追逐.csv	S卡	fktn(ことね):13; amao(麻央):7	fktn:S卡; amao:S卡		20
+253	adv_csprt-1-0004_01	S卡 1-0004【頼れる先輩お姉さん】/第1话 曾经的回忆.csv	S卡	hrnm(莉波):12	hrnm:S卡		12
+254	adv_csprt-1-0004_02	S卡 1-0004【頼れる先輩お姉さん】/第2话 电话.csv	S卡	hrnm(莉波):12	hrnm:S卡	hume	12
+255	adv_csprt-1-0005_01	S卡 1-0005【いめーじとれーにんぐ】/第1话 寻求！严厉的指导.csv	S卡	shro(広):9	shro:S卡	ttmr	9
+256	adv_csprt-1-0005_02	S卡 1-0005【いめーじとれーにんぐ】/第2话 永无止境的探索欲.csv	S卡	kcna(千奈):9; shro(広):8	kcna:S卡; shro:S卡		17
+257	adv_csprt-1-0006_01	S卡 1-0006【ひたむき居残りレッスン】/第1话 绕口令训练.csv	S卡	fktn(ことね):7; kllj(リーリヤ):7	fktn:S卡; kllj:S卡		14
+258	adv_csprt-1-0006_02	S卡 1-0006【ひたむき居残りレッスン】/第2话 赢得冰淇淋！.csv	S卡	kllj(リーリヤ):6; ssmk(清夏):6	kllj:S卡; ssmk:S卡		12
+259	adv_csprt-1-0007_01	S卡 1-0007【スイッチON！】/第1话 我喜欢，唱歌.csv	S卡	kllj(リーリヤ):9; ssmk(清夏):7	kllj:S卡; ssmk:S卡		16
+260	adv_csprt-1-0007_02	S卡 1-0007【スイッチON！】/第2话 提起干劲的方法.csv	S卡	fktn(ことね):8; ssmk(清夏):8	fktn:S卡; ssmk:S卡		16
+261	adv_csprt-1-0008_01	S卡 1-0008【憧れを目指して】/第1话 千奈，会加油的！.csv	S卡	kcna(千奈):8	kcna:S卡	hume	8
+262	adv_csprt-1-0008_02	S卡 1-0008【憧れを目指して】/第2话 千奈的宿舍体验.csv	S卡	kcna(千奈):7; shro(広):6	kcna:S卡; shro:S卡	hume	13
+263	adv_csprt-1-0009_01	S卡 1-0009【お姉ちゃん直伝メニュー】/第1话 训练项目表.csv	S卡	shro(広):9	shro:S卡	hume	9
+264	adv_csprt-1-0009_02	S卡 1-0009【お姉ちゃん直伝メニュー】/第2话 完全不行三人组出动！.csv	S卡	kcna(千奈):7	kcna:S卡	hume	7
+265	adv_csprt-1-0011_01	S卡 1-0011【完全無欠のプランニング】/第1话 启明星的气场.csv	S卡	jsna(星南):12	jsna:S卡		12
+266	adv_csprt-1-0011_02	S卡 1-0011【完全無欠のプランニング】/第2话 有潜力的新生们.csv	S卡	hrnm(莉波):6; jsna(星南):8	hrnm:S卡; jsna:S卡		14
+267	adv_csprt-1-0012_01	S卡 1-0012【謹厳実直】/第1话 备受期待的一年级生.csv	S卡	atbm(燕):14	atbm:S卡	hski	14
+268	adv_csprt-1-0012_02	S卡 1-0012【謹厳実直】/第2话 考试结果，发表！.csv	S卡	atbm(燕):7	atbm:S卡		7
+269	adv_csprt-2-0001_01	S卡 2-0001【今はあえて、背を向けて】/第1话 感性的回忆.csv	S卡	fktn(ことね):9	fktn:S卡	ttmr	9
+270	adv_csprt-2-0001_02	S卡 2-0001【今はあえて、背を向けて】/第2话 怀旧的回忆.csv	S卡	kcna(千奈):10	kcna:S卡	hmsz	10
+271	adv_csprt-2-0002_01	S卡 2-0002【のらりくらりしっかり】/第1话 即使着急也要脚踏实地.csv	S卡	fktn(ことね):6; amao(麻央):10	fktn:S卡; amao:S卡		16
+272	adv_csprt-2-0002_02	S卡 2-0002【のらりくらりしっかり】/第2话 食堂菜单的设计思路.csv	S卡	fktn(ことね):12; amao(麻央):8	fktn:S卡; amao:S卡		20
+273	adv_csprt-2-0003_01	S卡 2-0003【愛無き暗記は難しい】/第1话 这样就可以了吧……？.csv	S卡	amao(麻央):10; hrnm(莉波):10	amao:S卡; hrnm:S卡		20
+274	adv_csprt-2-0003_02	S卡 2-0003【愛無き暗記は難しい】/第2话 学习前的固定流程.csv	S卡	amao(麻央):11; hrnm(莉波):9	amao:S卡; hrnm:S卡		20
+275	adv_csprt-2-0004_01	S卡 2-0004【てとりあしとり】/第1话 手把手教学.csv	S卡	kcna(千奈):11; hrnm(莉波):9	kcna:S卡; hrnm:S卡		20
+276	adv_csprt-2-0004_02	S卡 2-0004【てとりあしとり】/第2话 拜师申请.csv	S卡	kcna(千奈):8; hrnm(莉波):8	kcna:S卡; hrnm:S卡		16
+277	adv_csprt-2-0005_01	S卡 2-0005【ほっぺた、ぷに】/第1话 报仇的时候！.csv	S卡	kllj(リーリヤ):11; ssmk(清夏):7	kllj:S卡; ssmk:S卡		18
+278	adv_csprt-2-0005_02	S卡 2-0005【ほっぺた、ぷに】/第2话 还在学习日语中.csv	S卡	kllj(リーリヤ):7; ssmk(清夏):9	kllj:S卡; ssmk:S卡		16
+279	adv_csprt-2-0006_01	S卡 2-0006【魅惑の大腿四頭筋】/第1话 咲季的肌肉训练建议.csv	S卡	ssmk(清夏):7	ssmk:S卡	hski	7
+280	adv_csprt-2-0006_02	S卡 2-0006【魅惑の大腿四頭筋】/第2话 妹属性开关.csv	S卡	ssmk(清夏):10	ssmk:S卡	hski	10
+281	adv_csprt-2-0007_01	S卡 2-0007【ふわふわでワクワク】/第1话 午休时的二人.csv	S卡	kcna(千奈):8; shro(広):6	kcna:S卡; shro:S卡		14
+282	adv_csprt-2-0007_02	S卡 2-0007【ふわふわでワクワク】/第2话 初次见面的二人.csv	S卡	kcna(千奈):10; shro(広):10	kcna:S卡; shro:S卡		20
+283	adv_csprt-2-0008_01	S卡 2-0008【嬉し恥ずかし夢心地】/第1话 单次培育.csv	S卡	kcna(千奈):10; jsna(星南):10	kcna:S卡; jsna:S卡		20
+284	adv_csprt-2-0008_02	S卡 2-0008【嬉し恥ずかし夢心地】/第2话 Future・Dream.csv	S卡	kcna(千奈):8	kcna:S卡	hume	8
+285	adv_csprt-2-0010_02	S卡 2-0010【マイペース、マイライフ】/第2话 累的时候就吃点甜的.csv	S卡	shro(広):9	shro:S卡	hmsz	9
+286	adv_csprt-2-0011_01	S卡 2-0011【思惑とガクガク】/第1话 琴音的情况.csv	S卡	fktn(ことね):11	fktn:S卡		11
+287	adv_csprt-2-0011_02	S卡 2-0011【思惑とガクガク】/第2话 制作人星南.csv	S卡	fktn(ことね):8; jsna(星南):8	fktn:S卡; jsna:S卡		16
+288	adv_csprt-2-0012_01	S卡 2-0012【ほっとけないクラスメイト】/第1话 让人放心不下的同学.csv	S卡	shro(広):11	shro:S卡	hmsz	11
+289	adv_csprt-2-0012_02	S卡 2-0012【ほっとけないクラスメイト】/第2话 迷路的二人.csv	S卡	shro(広):9	shro:S卡	hmsz	9
+290	adv_csprt-2-0013_01	S卡 2-0013【いつか、きっと花開く】/第1话 一年以后，一定会.csv	S卡	amao(麻央):9; hrnm(莉波):10	amao:S卡; hrnm:S卡		19
+291	adv_csprt-2-0013_02	S卡 2-0013【いつか、きっと花開く】/第2话 向往的偶像模样.csv	S卡	amao(麻央):6; hrnm(莉波):14	amao:S卡; hrnm:S卡		20
+292	adv_csprt-2-0015_01	S卡 2-0015【イヤホンはんぶんこ】/第1话 迅速拉近的距离.csv	S卡	fktn(ことね):9	fktn:S卡	ttmr	9
+293	adv_csprt-2-0015_02	S卡 2-0015【イヤホンはんぶんこ】/第2话 卡路里平分.csv	S卡	fktn(ことね):7	fktn:S卡	ttmr	7
+294	adv_csprt-2-0016_01	S卡 2-0016【どりゃぎゃ】/第1话 突如其来的惊喜.csv	S卡	fktn(ことね):8	fktn:S卡	hski	8
+295	adv_csprt-2-0016_02	S卡 2-0016【どりゃぎゃ】/第2话 自主训练后继续自主训练.csv	S卡	fktn(ことね):10	fktn:S卡	hski	10
+296	adv_csprt-2-0019_01	S卡 2-0019【パシャっとキメポ】/第1话 奇迹的一张.csv	S卡	kcna(千奈):10	kcna:S卡	hume	10
+297	adv_csprt-2-0019_02	S卡 2-0019【パシャっとキメポ】/第2话 模仿不来的姿势.csv	S卡	kcna(千奈):10	kcna:S卡	hume	10
+298	adv_csprt-2-0020_01	S卡 2-0020【海、楽しまなきゃ！】/第1话 不许分开！.csv	S卡	amao(麻央):9; hrnm(莉波):11	amao:S卡; hrnm:S卡		20
+299	adv_csprt-2-0020_02	S卡 2-0020【海、楽しまなきゃ！】/第2话 注意别买太多.csv	S卡	amao(麻央):8; hrnm(莉波):12	amao:S卡; hrnm:S卡		20
+300	adv_csprt-2-0021_01	S卡 2-0021【第五種接近遭遇】/第1话 亲切的朋友.csv	S卡	shro(広):10	shro:S卡	ttmr	10
+301	adv_csprt-2-0021_02	S卡 2-0021【第五種接近遭遇】/第2话 和看起来不一样.csv	S卡	shro(広):11	shro:S卡	ttmr	11
+302	adv_csprt-2-0022_01	S卡 2-0022【今日は見学なんです】/第1话 来吧，联合课程！.csv	S卡	jsna(星南):13	jsna:S卡	hmsz	13
+303	adv_csprt-2-0022_02	S卡 2-0022【今日は見学なんです】/第2话 不顺心的孩子们.csv	S卡	jsna(星南):13	jsna:S卡	hume	13
+304	adv_csprt-2-0023_01	S卡 2-0023【やさしさ、あったかい】/第1话 祭典里的王子大人.csv	S卡	kllj(リーリヤ):11; ssmk(清夏):6	kllj:S卡; ssmk:S卡		17
+305	adv_csprt-2-0023_02	S卡 2-0023【やさしさ、あったかい】/第2话 总有一天要像前辈一样.csv	S卡	amao(麻央):7; kllj(リーリヤ):10	amao:S卡; kllj:S卡		17
+306	adv_csprt-2-0024_01	S卡 2-0024【キュッと締めて】/第1话 穿和服就交给我吧！.csv	S卡	kcna(千奈):13; ssmk(清夏):7	kcna:S卡; ssmk:S卡		20
+307	adv_csprt-2-0024_02	S卡 2-0024【キュッと締めて】/第2话 高中出道！.csv	S卡	kcna(千奈):12; ssmk(清夏):8	kcna:S卡; ssmk:S卡		20
+308	adv_csprt-2-0025_01	S卡 2-0025【ふわふわなお面？】/第1话 意外的一面.csv	S卡	fktn(ことね):12	fktn:S卡		12
+309	adv_csprt-2-0025_02	S卡 2-0025【ふわふわなお面？】/第2话 即使受欢迎.csv	S卡	fktn(ことね):7; jsna(星南):11	fktn:S卡; jsna:S卡		18
+310	adv_csprt-2-0026_01	S卡 2-0026【ぐつぐつ、いいにおい♪】/第1话 请允许我和您一起.csv	S卡	hrnm(莉波):12	hrnm:S卡	hmsz	12
+311	adv_csprt-2-0026_02	S卡 2-0026【ぐつぐつ、いいにおい♪】/第2话 明天见.csv	S卡	hrnm(莉波):13	hrnm:S卡	hmsz	13
+312	adv_csprt-2-0027_01	S卡 2-0027【ブレイクタイムは珈琲で】/第1话 王子大人不知道的一面.csv	S卡	amao(麻央):8; hrnm(莉波):6; jsna(星南):6	amao:S卡; hrnm:S卡; jsna:S卡		20
+313	adv_csprt-2-0027_02	S卡 2-0027【ブレイクタイムは珈琲で】/第2话 学生会长激烈的一面.csv	S卡	jsna(星南):10	jsna:S卡		10
+314	adv_csprt-2-0028_01	S卡 2-0028【りっぱなすすき！】/第1话 芒草礼物.csv	S卡	fktn(ことね):11	fktn:S卡	hume	11
+315	adv_csprt-2-0029_01	S卡 2-0029【千奈の恩返し】/第1话 回礼的机会.csv	S卡	kcna(千奈):12	kcna:S卡	ttmr	12
+316	adv_csprt-2-0029_02	S卡 2-0029【千奈の恩返し】/第2话 刀子嘴豆腐心.csv	S卡	kcna(千奈):10	kcna:S卡	ttmr	10
+317	adv_csprt-2-0030_01	S卡 2-0030【興味深い飲み物】/第1话 你也要喝吗？.csv	S卡	shro(広):7	shro:S卡	hski	7
+318	adv_csprt-2-0030_02	S卡 2-0030【興味深い飲み物】/第2话 不服输.csv	S卡	shro(広):8	shro:S卡	hski	8
+319	adv_csprt-2-0031_01	S卡 2-0031【SSDのひみつ】/第1话 秘传配方.csv	S卡	hrnm(莉波):9	hrnm:S卡	hume	9
+320	adv_csprt-2-0031_02	S卡 2-0031【SSDのひみつ】/第2话 SSD的隐藏风味.csv	S卡	hrnm(莉波):7	hrnm:S卡	hski,hume	7
+321	adv_csprt-2-0032_01	S卡 2-0032【サンマ、パタパタ】/第1话 和星南姐姐大人一起.csv	S卡	kcna(千奈):13; jsna(星南):7	kcna:S卡; jsna:S卡		20
+322	adv_csprt-2-0032_02	S卡 2-0032【サンマ、パタパタ】/第2话 星南的个人训练.csv	S卡	kcna(千奈):11; jsna(星南):9	kcna:S卡; jsna:S卡		20
+323	adv_csprt-2-0033_01	S卡 2-0033【バズっちゃお！】/第1话 王子的招牌姿势.csv	S卡	amao(麻央):9; ssmk(清夏):11	amao:S卡; ssmk:S卡		20
+324	adv_csprt-2-0033_02	S卡 2-0033【バズっちゃお！】/第2话 王子的出其不意.csv	S卡	amao(麻央):9; ssmk(清夏):11	amao:S卡; ssmk:S卡		20
+325	adv_csprt-2-0035_01	S卡 2-0035【ディカプルエックスエル！】/第1话 圣诞节的正装.csv	S卡	shro(広):10	shro:S卡	hume	10
+326	adv_csprt-2-0035_02	S卡 2-0035【ディカプルエックスエル！】/第2话 传递梦想的工作.csv	S卡	shro(広):10	shro:S卡	hume	10
+327	adv_csprt-2-0036_01	S卡 2-0036【きゅる〜んωポーズッ☆】/第1话 印象深刻的笑容.csv	S卡	fktn(ことね):10; kllj(リーリヤ):10	fktn:S卡; kllj:S卡		20
+328	adv_csprt-2-0036_02	S卡 2-0036【きゅる〜んωポーズッ☆】/第2话 可爱的亲友.csv	S卡	fktn(ことね):6; kllj(リーリヤ):10	fktn:S卡; kllj:S卡		16
+329	adv_csprt-2-0037_01	S卡 2-0037【カロリー_2でハッピー×2】/第1话 寒冷日子里的美味佳肴.csv	S卡	ssmk(清夏):11	ssmk:S卡	ttmr	11
+330	adv_csprt-2-0037_02	S卡 2-0037【カロリー_2でハッピー×2】/第2话 一起吃火锅吧！.csv	S卡	ssmk(清夏):8	ssmk:S卡	ttmr,hmsz	8
+331	adv_csprt-2-0038_01	S卡 2-0038【目指すはテッペン】/第1话 对学生温柔的教练.csv	S卡	fktn(ことね):10	fktn:S卡		10
+332	adv_csprt-2-0038_02	S卡 2-0038【目指すはテッペン】/第2话 不愧是教练！.csv	S卡	fktn(ことね):10	fktn:S卡		10
+333	adv_csprt-2-0041_01	S卡 2-0041【SSCの爆誕】/第1话 引以为傲的姐姐！.csv	S卡	hrnm(莉波):7	hrnm:S卡	hski	7
+334	adv_csprt-2-0041_02	S卡 2-0041【SSCの爆誕】/第2话 传递的姐妹情.csv	S卡	hrnm(莉波):13	hrnm:S卡	hski	13
+335	adv_csprt-2-0042_01	S卡 2-0042【まごころを込めて】/第1话 完美再现的可爱感.csv	S卡	jsna(星南):13	jsna:S卡	hmsz	13
+336	adv_csprt-2-0042_02	S卡 2-0042【まごころを込めて】/第2话 饱含心意的巧思.csv	S卡	jsna(星南):8	jsna:S卡	hmsz	8
+337	adv_csprt-2-0043_01	S卡 2-0043【佑芽ソリレース、疾走！】/第1话 暴走雪橇滑行.csv	S卡	kllj(リーリヤ):11	kllj:S卡	hume	11
+338	adv_csprt-2-0043_02	S卡 2-0043【佑芽ソリレース、疾走！】/第2话 不服输的雪人.csv	S卡	kllj(リーリヤ):10	kllj:S卡	hume	10
+339	adv_csprt-2-0044_01	S卡 2-0044【ピューとシューの二重奏】/第1话 咕噜咕噜噗噗.csv	S卡	kcna(千奈):13	kcna:S卡	ttmr	13
+340	adv_csprt-2-0044_02	S卡 2-0044【ピューとシューの二重奏】/第2话 春眠不觉晓.csv	S卡	kcna(千奈):10	kcna:S卡	ttmr,hmsz	10
+341	adv_csprt-2-0045_01	S卡 2-0045【虫愛づる王子様】/第1话 有点奇怪的前辈.csv	S卡	amao(麻央):10	amao:S卡	ttmr	10
+342	adv_csprt-2-0045_02	S卡 2-0045【虫愛づる王子様】/第2话 其实很胆小的前辈.csv	S卡	amao(麻央):9	amao:S卡	ttmr	9
+343	adv_csprt-2-0046_01	S卡 2-0046【ピコピコでポーン】/第1话 不用手下留情！.csv	S卡	shro(広):11	shro:S卡	hume	11
+344	adv_csprt-2-0046_02	S卡 2-0046【ピコピコでポーン】/第2话 学园宿舍的秘宝.csv	S卡	shro(広):11	shro:S卡	hume	11
+345	adv_csprt-2-0047_01	S卡 2-0047【奥義、三重とび！】/第1话 用双跳一决胜负！.csv	S卡	kllj(リーリヤ):10	kllj:S卡	hski	10
+346	adv_csprt-2-0047_02	S卡 2-0047【奥義、三重とび！】/第2话 姐姐的朋友.csv	S卡	kllj(リーリヤ):8	kllj:S卡	hski,hume	8
+347	adv_csprt-2-0048_01	S卡 2-0048【ガールズ♡トーク】/第1话 让我们变可爱吧！.csv	S卡	fktn(ことね):10; ssmk(清夏):10	fktn:S卡; ssmk:S卡		20
+348	adv_csprt-2-0048_02	S卡 2-0048【ガールズ♡トーク】/第2话 得意地咔嚓一拍♪.csv	S卡	fktn(ことね):9; ssmk(清夏):10	fktn:S卡; ssmk:S卡		19
+349	adv_csprt-2-0049_01	S卡 2-0049【屈辱の2位】/第1话 未完成也是美好的.csv	S卡	jsna(星南):6; atbm(燕):7	jsna:S卡; atbm:S卡		13
+350	adv_csprt-2-0049_02	S卡 2-0049【屈辱の2位】/第2话 优秀的学园No.2.csv	S卡	jsna(星南):6; atbm(燕):7	jsna:S卡; atbm:S卡	hume	13
+351	adv_csprt-2-0050_01	S卡 2-0050【2名様、ご案内～♪】/第1话 卡路里管理必不可少.csv	S卡	fktn(ことね):10	fktn:S卡	ttmr	10
+352	adv_csprt-2-0050_02	S卡 2-0050【2名様、ご案内～♪】/第2话 价格对比必不可少.csv	S卡	fktn(ことね):12	fktn:S卡	ttmr	12
+353	adv_csprt-2-0051_01	S卡 2-0051【主菓子、甘い、薄茶、渋み】/第1话 茶道的心得.csv	S卡	kcna(千奈):9	kcna:S卡	hmsz	9
+354	adv_csprt-2-0051_02	S卡 2-0051【主菓子、甘い、薄茶、渋み】/第2话 沉稳的原因.csv	S卡	kcna(千奈):10	kcna:S卡	hmsz	10
+355	adv_csprt-2-0052_01	S卡 2-0052【あん・どぅ・とろわっ！】/第1话 我非常尊敬哇！.csv	S卡	kcna(千奈):12; ssmk(清夏):8	kcna:S卡; ssmk:S卡		20
+356	adv_csprt-2-0052_02	S卡 2-0052【あん・どぅ・とろわっ！】/第2话 向往的芭蕾舞.csv	S卡	kcna(千奈):11; ssmk(清夏):8	kcna:S卡; ssmk:S卡		19
+357	adv_csprt-2-0053_01	S卡 2-0053【ばたんきゅー】/第1话 比才能更重要的东西.csv	S卡	kllj(リーリヤ):11; shro(広):9	kllj:S卡; shro:S卡		20
+358	adv_csprt-2-0053_02	S卡 2-0053【ばたんきゅー】/第2话 关于『美好』的探讨.csv	S卡	kllj(リーリヤ):12; shro(広):8	kllj:S卡; shro:S卡		20
+359	adv_csprt-2-0054_01	S卡 2-0054【むず×2ふぁっしょんしょー】/第1话 换装人偶.csv	S卡	amao(麻央):10; ssmk(清夏):10	amao:S卡; ssmk:S卡		20
+360	adv_csprt-2-0054_02	S卡 2-0054【むず×2ふぁっしょんしょー】/第2话 你在说什么啦！.csv	S卡	amao(麻央):12; ssmk(清夏):8	amao:S卡; ssmk:S卡		20
+361	adv_csprt-2-0056_01	S卡 2-0056【スパルタ＆スパイス】/第1话 更严格一点.csv	S卡	shro(広):7; atbm(燕):13	shro:S卡; atbm:S卡		20
+362	adv_csprt-2-0056_02	S卡 2-0056【スパルタ＆スパイス】/第2话 不搭的伙伴.csv	S卡	shro(広):8; atbm(燕):12	shro:S卡; atbm:S卡		20
+363	adv_csprt-2-0057_01	S卡 2-0057【威風堂々・お昼寝タイム】/第1话 后辈很喜欢睡午觉.csv	S卡	jsna(星南):15	jsna:S卡	hmsz	15
+364	adv_csprt-2-0057_02	S卡 2-0057【威風堂々・お昼寝タイム】/第2话 后辈有大人物气场.csv	S卡	jsna(星南):13	jsna:S卡	hmsz	13
+365	adv_csprt-2-0058_01	S卡 2-0058【ちべたなひととき】/第1话 只限现在，妹妹♡.csv	S卡	fktn(ことね):10; hrnm(莉波):10	fktn:S卡; hrnm:S卡		20
+366	adv_csprt-2-0058_02	S卡 2-0058【ちべたなひととき】/第2话 学姐是理想的女生.csv	S卡	fktn(ことね):10; hrnm(莉波):10	fktn:S卡; hrnm:S卡		20
+367	adv_csprt-2-0059_01	S卡 2-0059【師弟の修行】/第1话 请教我吧、麻央老师.csv	S卡	amao(麻央):11; shro(広):9	amao:S卡; shro:S卡		20
+368	adv_csprt-2-0059_02	S卡 2-0059【師弟の修行】/第2话 注意玩法深度.csv	S卡	amao(麻央):10; shro(広):9	amao:S卡; shro:S卡		19
+369	adv_csprt-2-0060_01	S卡 2-0060【トゲトゲ注意報】/第1话 捡栗子不太行.csv	S卡	shro(広):8; hrnm(莉波):12	shro:S卡; hrnm:S卡		20
+370	adv_csprt-2-0060_02	S卡 2-0060【トゲトゲ注意報】/第2话 莉波限定款蒙布朗一份♪.csv	S卡	shro(広):8; hrnm(莉波):12	shro:S卡; hrnm:S卡		20
+371	adv_csprt-2-0061_01	S卡 2-0061【腹筋で背筋で体幹キープ！】/第1话 夸奖伸展运动.csv	S卡	hrnm(莉波):9	hrnm:S卡	ttmr	9
+372	adv_csprt-2-0061_02	S卡 2-0061【腹筋で背筋で体幹キープ！】/第2话 变漂亮的理由是？.csv	S卡	hrnm(莉波):13	hrnm:S卡	ttmr	13
+373	adv_csprt-2-0062_01	S卡 2-0062【はっぴぃはろうぃ～～ん！】/第1话 选服装的恐怖体验.csv	S卡	fktn(ことね):9; amao(麻央):11	fktn:S卡; amao:S卡		20
+374	adv_csprt-2-0062_02	S卡 2-0062【はっぴぃはろうぃ～～ん！】/第2话 礼物是又苦又甜的果冻.csv	S卡	fktn(ことね):9; amao(麻央):11	fktn:S卡; amao:S卡		20
+375	adv_csprt-2-0064_01	S卡 2-0064【ごきげんような挨拶♪】/第1话 日安礼仪课.csv	S卡	kllj(リーリヤ):12; kcna(千奈):7	kllj:S卡; kcna:S卡		19
+376	adv_csprt-2-0064_02	S卡 2-0064【ごきげんような挨拶♪】/第2话 八卦的味道.csv	S卡	kllj(リーリヤ):9; kcna(千奈):8	kllj:S卡; kcna:S卡		17
+377	adv_csprt-2-0065_01	S卡 2-0065【眠れる森の王子様】/第1话 劳累的王子大人.csv	S卡	amao(麻央):13	amao:S卡	hmsz	13
+378	adv_csprt-2-0065_02	S卡 2-0065【眠れる森の王子様】/第2话 王子大人意外的一面.csv	S卡	amao(麻央):11	amao:S卡	hmsz	11
+379	adv_csprt-2-0066_01	S卡 2-0066【バディ？】/第1话 金光闪闪的龙.csv	S卡	amao(麻央):6; atbm(燕):10	amao:S卡; atbm:S卡		16
+380	adv_csprt-2-0066_02	S卡 2-0066【バディ？】/第2话 先作为偶像全力以赴.csv	S卡	amao(麻央):12; atbm(燕):8	amao:S卡; atbm:S卡		20
+381	adv_csprt-2-0068_01	S卡 2-0068【仲良しの証】/第1话 挑战，拌嘴吵架！.csv	S卡	kcna(千奈):9; shro(広):8	kcna:S卡; shro:S卡	hski,hume	17
+382	adv_csprt-2-0068_02	S卡 2-0068【仲良しの証】/第2话 两人正在大吵一架？.csv	S卡	kcna(千奈):6; shro(広):10	kcna:S卡; shro:S卡	hume	16
+383	adv_csprt-2-0069_01	S卡 2-0069【一番星と王子様】/第1话 甜蜜又开心的礼物.csv	S卡	amao(麻央):9; jsna(星南):7	amao:S卡; jsna:S卡		16
+384	adv_csprt-2-0069_02	S卡 2-0069【一番星と王子様】/第2话 能留在学园里的.csv	S卡	amao(麻央):10; jsna(星南):10	amao:S卡; jsna:S卡		20
+385	adv_csprt-2-0070_01	S卡 2-0070【洗濯物のバランスタワー】/第1话 哼哼哼！.csv	S卡	fktn(ことね):9	fktn:S卡	hume	9
+386	adv_csprt-2-0070_02	S卡 2-0070【洗濯物のバランスタワー】/第2话 告诉我吧！淑女的修养.csv	S卡	fktn(ことね):9	fktn:S卡	hume	9
+387	adv_csprt-2-0071_01	S卡 2-0071【お近づきの印☆】/第1话 笨拙的应援活动.csv	S卡	jsna(星南):11	jsna:S卡	ttmr	11
+388	adv_csprt-2-0071_02	S卡 2-0071【お近づきの印☆】/第2话 威严会长的意外一面.csv	S卡	jsna(星南):10	jsna:S卡	ttmr	10
+389	adv_csprt-2-0072_01	S卡 2-0072【騎士とおてんば姫】/第1话 作为演员的重大胜利.csv	S卡	amao(麻央):12	amao:S卡	hski	12
+390	adv_csprt-2-0072_02	S卡 2-0072【騎士とおてんば姫】/第2话 保持真实的你就好.csv	S卡	amao(麻央):12	amao:S卡	hski	12
+391	adv_csprt-2-0073_01	S卡 2-0073【ひっぱりじゅーなん】/第1话 我会跟上你的！.csv	S卡	kllj(リーリヤ):10; ssmk(清夏):10	kllj:S卡; ssmk:S卡		20
+392	adv_csprt-2-0073_02	S卡 2-0073【ひっぱりじゅーなん】/第2话 必须断舍离了！.csv	S卡	kllj(リーリヤ):9; ssmk(清夏):11	kllj:S卡; ssmk:S卡		20
+393	adv_csprt-2-0074_01	S卡 2-0074【のんびり美味しいひととき】/第1话 悠闲下午茶时光.csv	S卡	kcna(千奈):8	kcna:S卡	hmsz	8
+394	adv_csprt-2-0074_02	S卡 2-0074【のんびり美味しいひととき】/第2话 绝品柠檬蛋糕.csv	S卡	kcna(千奈):11	kcna:S卡	hmsz	11
+395	adv_csprt-2-0075_01	S卡 2-0075【ゆずれないもの】/第1话 意见虽不同，心意却一致.csv	S卡	amao(麻央):9; hrnm(莉波):10	amao:S卡; hrnm:S卡		19
+396	adv_csprt-2-0075_02	S卡 2-0075【ゆずれないもの】/第2话 两人一同走过的3年.csv	S卡	amao(麻央):7; hrnm(莉波):8	amao:S卡; hrnm:S卡		15
+397	adv_csprt-2-0076_01	S卡 2-0076【ゆるるんあくび顔】/第1话 要不要投资一下自己？.csv	S卡	fktn(ことね):11	fktn:S卡	hski	11
+398	adv_csprt-2-0076_02	S卡 2-0076【ゆるるんあくび顔】/第2话 小测验前大恐慌！？.csv	S卡	fktn(ことね):12	fktn:S卡	hski	12
+399	adv_csprt-2-0077_01	S卡 2-0077【ずっしりスイカでりしゃす】/第1话 说到夏天就是那个！.csv	S卡	jsna(星南):8	jsna:S卡	hume	8
+400	adv_csprt-2-0077_02	S卡 2-0077【ずっしりスイカでりしゃす】/第2话 西瓜，与回忆.csv	S卡	jsna(星南):9	jsna:S卡	hume	9
+401	adv_csprt-2-0078_01	S卡 2-0078【こんにゃくなきもだめし】/第1话 初星宿舍的传统活动.csv	S卡	amao(麻央):12	amao:S卡	ttmr	12
+402	adv_csprt-2-0078_02	S卡 2-0078【こんにゃくなきもだめし】/第2话 颤抖的双手.csv	S卡	amao(麻央):8	amao:S卡	ttmr	8
+403	adv_csprt-2-0079_01	S卡 2-0079【奇遇な必然】/第1话 粉丝们的相遇？.csv	S卡	fktn(ことね):7; atbm(燕):9	fktn:S卡; atbm:S卡		16
+404	adv_csprt-2-0079_02	S卡 2-0079【奇遇な必然】/第2话 既爱操心又温柔的前辈.csv	S卡	fktn(ことね):11; atbm(燕):9	fktn:S卡; atbm:S卡		20
+405	adv_csprt-2-0080_01	S卡 2-0080【激辛！　初星カレー！！】/第1话 幻之学生菜单.csv	S卡	kllj(リーリヤ):11; shro(広):9	kllj:S卡; shro:S卡		20
+406	adv_csprt-2-0080_02	S卡 2-0080【激辛！　初星カレー！！】/第2话 糊糊料理的继承者？.csv	S卡	kllj(リーリヤ):9; shro(広):11	kllj:S卡; shro:S卡		20
+407	adv_csprt-2-0081_01	S卡 2-0081【冬のお姫様と王子様】/第1话 心动的视线.csv	S卡	amao(麻央):9; kllj(リーリヤ):11	amao:S卡; kllj:S卡		20
+408	adv_csprt-2-0081_02	S卡 2-0081【冬のお姫様と王子様】/第2话 王子与公主.csv	S卡	amao(麻央):10; kllj(リーリヤ):10	amao:S卡; kllj:S卡		20
+409	adv_csprt-2-0082_01	S卡 2-0082【ふたりで衣装作り】/第1话 令人期待的服装准备.csv	S卡	hrnm(莉波):8	hrnm:S卡	hski,hume	8
+410	adv_csprt-2-0082_02	S卡 2-0082【ふたりで衣装作り】/第2话 万圣节快乐！.csv	S卡	hrnm(莉波):6	hrnm:S卡	hski,hume	6
+411	adv_csprt-3-0001_02	S卡 3-0001【何やってるんだろう、】/第2话 手毬的友情状况.csv	S卡	fktn(ことね):6	fktn:S卡	ttmr,hmsz	6
+412	adv_csprt-3-0002_01	S卡 3-0002【こいつらめんどくさー】/第1话 愤怒的理由——手毬篇——.csv	S卡	fktn(ことね):7	fktn:S卡	ttmr,hski	7
+413	adv_csprt-3-0002_03	S卡 3-0002【こいつらめんどくさー】/第3话 笨拙的温柔.csv	S卡	fktn(ことね):12	fktn:S卡	ttmr,hski	12
+414	adv_csprt-3-0003_03	S卡 3-0003【お姉ちゃんに任せなさい！】/第3话 躲避球对决！.csv	S卡	kcna(千奈):6	kcna:S卡	hski,hume	6
+415	adv_csprt-3-0005_01	S卡 3-0005【次の桜の季節には。】/第1话 麻央和莉波的相遇.csv	S卡	amao(麻央):7; hrnm(莉波):13	amao:S卡; hrnm:S卡		20
+416	adv_csprt-3-0005_02	S卡 3-0005【次の桜の季節には。】/第2话 可靠的前辈们.csv	S卡	hrnm(莉波):10	hrnm:S卡		10
+417	adv_csprt-3-0005_03	S卡 3-0005【次の桜の季節には。】/第3话 各自的方法.csv	S卡	amao(麻央):10; hrnm(莉波):10	amao:S卡; hrnm:S卡		20
+418	adv_csprt-3-0006_01	S卡 3-0006【お疲れ様、千奈ちゃん。】/第1话 未来的学生会长.csv	S卡	kcna(千奈):11; hrnm(莉波):9	kcna:S卡; hrnm:S卡		20
+419	adv_csprt-3-0006_02	S卡 3-0006【お疲れ様、千奈ちゃん。】/第2话 温柔的姐姐大人.csv	S卡	kcna(千奈):11; hrnm(莉波):9	kcna:S卡; hrnm:S卡		20
+420	adv_csprt-3-0006_03	S卡 3-0006【お疲れ様、千奈ちゃん。】/第3话 憧憬的前辈偶像.csv	S卡	kcna(千奈):13; hrnm(莉波):7	kcna:S卡; hrnm:S卡		20
+421	adv_csprt-3-0007_01	S卡 3-0007【まるで王子様みたいな】/第1话 像王子一样的前辈.csv	S卡	amao(麻央):6; kllj(リーリヤ):13	amao:S卡; kllj:S卡		19
+422	adv_csprt-3-0007_02	S卡 3-0007【まるで王子様みたいな】/第2话 王子的指引方向.csv	S卡	amao(麻央):9; kllj(リーリヤ):10	amao:S卡; kllj:S卡		19
+423	adv_csprt-3-0007_03	S卡 3-0007【まるで王子様みたいな】/第3话 大家都有自己的烦恼.csv	S卡	amao(麻央):8; kllj(リーリヤ):11	amao:S卡; kllj:S卡		19
+424	adv_csprt-3-0008_01	S卡 3-0008【おいしい顔、いただき～！】/第1话 小心突击拍照！.csv	S卡	kllj(リーリヤ):9; ssmk(清夏):11	kllj:S卡; ssmk:S卡		20
+425	adv_csprt-3-0008_02	S卡 3-0008【おいしい顔、いただき～！】/第2话 注意别太过头！.csv	S卡	kllj(リーリヤ):8; ssmk(清夏):10	kllj:S卡; ssmk:S卡		18
+426	adv_csprt-3-0008_03	S卡 3-0008【おいしい顔、いただき～！】/第3话 Let’s可丽饼派对！.csv	S卡	kllj(リーリヤ):8; ssmk(清夏):9	kllj:S卡; ssmk:S卡		17
+427	adv_csprt-3-0009_02	S卡 3-0009【わたしたち、やればできる】/第2话 房间拜访——广的房间——.csv	S卡	shro(広):10	shro:S卡	hume	10
+428	adv_csprt-3-0009_03	S卡 3-0009【わたしたち、やればできる】/第3话 房间拜访——佑芽的房间——.csv	S卡	kcna(千奈):6; shro(広):6	kcna:S卡; shro:S卡	hume	12
+429	adv_csprt-3-0010_01	S卡 3-0010【可愛いと可愛いで可愛い！】/第1话 房间拜访——千奈的房间——.csv	S卡	kcna(千奈):11	kcna:S卡	hume	11
+430	adv_csprt-3-0010_02	S卡 3-0010【可愛いと可愛いで可愛い！】/第2话 午休的日常.csv	S卡	kcna(千奈):9	kcna:S卡	hume	9
+431	adv_csprt-3-0010_03	S卡 3-0010【可愛いと可愛いで可愛い！】/第3话 训练结束后，精疲力竭.csv	S卡	kcna(千奈):9	kcna:S卡	hume	9
+432	adv_csprt-3-0011_02	S卡 3-0011【私の目に狂いはない】/第2话 难以驾驭的孩子.csv	S卡	jsna(星南):12	jsna:S卡	hmsz	12
+433	adv_csprt-3-0011_03	S卡 3-0011【私の目に狂いはない】/第3话 佑芽被招募的理由.csv	S卡	jsna(星南):11	jsna:S卡	hume	11
+434	adv_csprt-3-0013_01	S卡 3-0013【あら、奇遇ね】/第1话 真巧啊.csv	S卡	fktn(ことね):9; jsna(星南):9+anon0003	fktn:S卡; jsna:S卡		19
+435	adv_csprt-3-0013_02	S卡 3-0013【あら、奇遇ね】/第2话 招募要有耐心.csv	S卡	fktn(ことね):6; jsna(星南):13	fktn:S卡; jsna:S卡		19
+436	adv_csprt-3-0013_03	S卡 3-0013【あら、奇遇ね】/第3话 传闻的真相.csv	S卡	fktn(ことね):10; jsna(星南):10	fktn:S卡; jsna:S卡		20
+437	adv_csprt-3-0014_01	S卡 3-0014【まじか。】/第1话 虽然「一直」都尊敬你的.csv	S卡	fktn(ことね):12; jsna(星南):8	fktn:S卡; jsna:S卡		20
+438	adv_csprt-3-0014_02	S卡 3-0014【まじか。】/第2话 压力十足的劝说.csv	S卡	fktn(ことね):7; jsna(星南):13	fktn:S卡; jsna:S卡		20
+439	adv_csprt-3-0014_03	S卡 3-0014【まじか。】/第3话 主动来搭理我的人.csv	S卡	fktn(ことね):15	fktn:S卡		15
+440	adv_csprt-3-0015_01	S卡 3-0015【仕事のつもりで臨みなさい】/第1话 学生会的第一份工作.csv	S卡	jsna(星南):6	jsna:S卡	hmsz,hume	6
+441	adv_csprt-3-0015_02	S卡 3-0015【仕事のつもりで臨みなさい】/第2话 学生会的首次见面.csv	S卡	jsna(星南):10	jsna:S卡	hmsz,hume	10
+442	adv_csprt-3-0015_03	S卡 3-0015【仕事のつもりで臨みなさい】/第3话 学生会的野心.csv	S卡	jsna(星南):14	jsna:S卡	hmsz,hume	14
+443	adv_csprt-3-0016_01	S卡 3-0016【1人たりとも欠ける事なく】/第1话 移动教室任务！.csv	S卡	kcna(千奈):9	kcna:S卡	hmsz,hume	9
+444	adv_csprt-3-0016_02	S卡 3-0016【1人たりとも欠ける事なく】/第2话 一头雾水的两人.csv	S卡	shro(広):12	shro:S卡	hmsz	12
+445	adv_csprt-3-0016_03	S卡 3-0016【1人たりとも欠ける事なく】/第3话 罪魁祸首是美铃.csv	S卡	kcna(千奈):7; shro(広):7	kcna:S卡; shro:S卡	hmsz,hume	14
+446	adv_csprt-3-0017_01	S卡 3-0017【ほら、一緒に持と♪】/第1话 如果是两个人、的话.csv	S卡	kllj(リーリヤ):9; ssmk(清夏):10	kllj:S卡; ssmk:S卡		19
+447	adv_csprt-3-0017_02	S卡 3-0017【ほら、一緒に持と♪】/第2话 一起享受兴趣吧！.csv	S卡	kllj(リーリヤ):10; ssmk(清夏):10	kllj:S卡; ssmk:S卡		20
+448	adv_csprt-3-0017_03	S卡 3-0017【ほら、一緒に持と♪】/第3话 最喜欢的早餐.csv	S卡	kllj(リーリヤ):9; ssmk(清夏):11	kllj:S卡; ssmk:S卡		20
+449	adv_csprt-3-0022_01	S卡 3-0022【晴れたね】/第1话 完美主义与打扫高手.csv	S卡	fktn(ことね):10; amao(麻央):10	fktn:S卡; amao:S卡		20
+450	adv_csprt-3-0022_02	S卡 3-0022【晴れたね】/第2话 沾着水珠的小王子.csv	S卡	fktn(ことね):9; amao(麻央):11	fktn:S卡; amao:S卡		20
+451	adv_csprt-3-0022_03	S卡 3-0022【晴れたね】/第3话 这也是、舍长的职责.csv	S卡	fktn(ことね):8; amao(麻央):11	fktn:S卡; amao:S卡		19
+452	adv_csprt-3-0024_01	S卡 3-0024【「ア」じゃなくて「エ」！】/第1话 能互相帮忙的同伴？.csv	S卡	fktn(ことね):8	fktn:S卡	ttmr,hski	8
+453	adv_csprt-3-0024_02	S卡 3-0024【「ア」じゃなくて「エ」！】/第2话 靠得住的前辈？.csv	S卡	fktn(ことね):11; jsna(星南):6	fktn:S卡; jsna:S卡	hski	17
+454	adv_csprt-3-0024_03	S卡 3-0024【「ア」じゃなくて「エ」！】/第3话 关心后辈的前辈！.csv	S卡	fktn(ことね):8; hrnm(莉波):6; jsna(星南):6	fktn:S卡; hrnm:S卡; jsna:S卡		20
+455	adv_csprt-3-0025_01	S卡 3-0025【新たな挑戦の成功ですわ！】/第1话 一起挑战、共同成长.csv	S卡	kcna(千奈):7; shro(広):7	kcna:S卡; shro:S卡	hume	14
+456	adv_csprt-3-0025_02	S卡 3-0025【新たな挑戦の成功ですわ！】/第2话 佑芽的营养管理方法.csv	S卡	kcna(千奈):8	kcna:S卡	hume	8
+457	adv_csprt-3-0025_03	S卡 3-0025【新たな挑戦の成功ですわ！】/第3话 请教我吧，广老师！.csv	S卡	shro(広):13	shro:S卡	hume	13
+458	adv_csprt-3-0026_01	S卡 3-0026【もうっ！　冷たいよ！】/第1话 擅长应对的人.csv	S卡	kllj(リーリヤ):6; ssmk(清夏):14	kllj:S卡; ssmk:S卡		20
+459	adv_csprt-3-0026_02	S卡 3-0026【もうっ！　冷たいよ！】/第2话 打扫要认真哦！.csv	S卡	kllj(リーリヤ):7; ssmk(清夏):11	kllj:S卡; ssmk:S卡		18
+460	adv_csprt-3-0026_03	S卡 3-0026【もうっ！　冷たいよ！】/第3话 一直以来、始终.csv	S卡	kllj(リーリヤ):7; ssmk(清夏):13	kllj:S卡; ssmk:S卡		20
+461	adv_csprt-3-0027_01	S卡 3-0027【夏を楽しみましょう！】/第1话 度假时间！.csv	S卡	kcna(千奈):8	kcna:S卡	hume	8
+462	adv_csprt-3-0027_02	S卡 3-0027【夏を楽しみましょう！】/第2话 暑假的打算是？.csv	S卡	kcna(千奈):11	kcna:S卡	hume	11
+463	adv_csprt-3-0027_03	S卡 3-0027【夏を楽しみましょう！】/第3话 第一次的暑假.csv	S卡	kcna(千奈):7; shro(広):8	kcna:S卡; shro:S卡	hume	15
+464	adv_csprt-3-0029_01	S卡 3-0029【夏を満喫するわよ！】/第1话 自豪的回礼.csv	S卡	fktn(ことね):9	fktn:S卡	ttmr,hski	9
+465	adv_csprt-3-0029_03	S卡 3-0029【夏を満喫するわよ！】/第3话 炫耀好感情.csv	S卡	fktn(ことね):6	fktn:S卡	ttmr,hski,hume	6
+466	adv_csprt-3-0030_01	S卡 3-0030【あっちも行きたいですわ！】/第1话 第一次的祭典.csv	S卡	kcna(千奈):13; hrnm(莉波):7	kcna:S卡; hrnm:S卡		20
+467	adv_csprt-3-0030_02	S卡 3-0030【あっちも行きたいですわ！】/第2话 温柔的理由.csv	S卡	kcna(千奈):8; hrnm(莉波):12	kcna:S卡; hrnm:S卡		20
+468	adv_csprt-3-0030_03	S卡 3-0030【あっちも行きたいですわ！】/第3话 秘密的约定.csv	S卡	kcna(千奈):6; hrnm(莉波):14	kcna:S卡; hrnm:S卡		20
+469	adv_csprt-3-0031_01	S卡 3-0031【花火、やりませんか……？】/第1话 夏日风物诗.csv	S卡	kllj(リーリヤ):13	kllj:S卡	ttmr	13
+470	adv_csprt-3-0031_02	S卡 3-0031【花火、やりませんか……？】/第2话 手持烟花的玩法.csv	S卡	kllj(リーリヤ):10	kllj:S卡	ttmr	10
+471	adv_csprt-3-0031_03	S卡 3-0031【花火、やりませんか……？】/第3话 如果能一直持续.csv	S卡	kllj(リーリヤ):11	kllj:S卡	ttmr	11
+472	adv_csprt-3-0032_01	S卡 3-0032【プロデュースって大変ね】/第1话 全部都一个样.csv	S卡	hrnm(莉波):6; jsna(星南):13	hrnm:S卡; jsna:S卡	hmsz	19
+473	adv_csprt-3-0032_02	S卡 3-0032【プロデュースって大変ね】/第2话 可靠前辈的烦恼.csv	S卡	jsna(星南):12	jsna:S卡	hski,hume	12
+474	adv_csprt-3-0032_03	S卡 3-0032【プロデュースって大変ね】/第3话 交给我吧.csv	S卡	kcna(千奈):7; jsna(星南):9	kcna:S卡; jsna:S卡		16
+475	adv_csprt-3-0034_01	S卡 3-0034【二人ならあっという間だね】/第1话 彼此喜欢的地方.csv	S卡	amao(麻央):8; hrnm(莉波):12	amao:S卡; hrnm:S卡		20
+476	adv_csprt-3-0034_02	S卡 3-0034【二人ならあっという間だね】/第2话 说不完的话题.csv	S卡	amao(麻央):7; hrnm(莉波):13	amao:S卡; hrnm:S卡		20
+477	adv_csprt-3-0034_03	S卡 3-0034【二人ならあっという間だね】/第3话 一样的刺绣.csv	S卡	amao(麻央):9; hrnm(莉波):11	amao:S卡; hrnm:S卡		20
+478	adv_csprt-3-0036_01	S卡 3-0036【似合うんじゃない？】/第1话 万事皆是经验.csv	S卡	ssmk(清夏):9	ssmk:S卡	ttmr	9
+479	adv_csprt-3-0036_02	S卡 3-0036【似合うんじゃない？】/第2话 享受非日常的方法.csv	S卡	ssmk(清夏):10	ssmk:S卡	ttmr	10
+480	adv_csprt-3-0036_03	S卡 3-0036【似合うんじゃない？】/第3话 放松的表情.csv	S卡	ssmk(清夏):9	ssmk:S卡	ttmr	9
+481	adv_csprt-3-0037_01	S卡 3-0037【すっかり秋色ですわね！】/第1话 秋日的美食.csv	S卡	kcna(千奈):14; shro(広):6	kcna:S卡; shro:S卡		20
+482	adv_csprt-3-0037_02	S卡 3-0037【すっかり秋色ですわね！】/第2话 快乐的采购.csv	S卡	kcna(千奈):11; shro(広):9	kcna:S卡; shro:S卡		20
+483	adv_csprt-3-0037_03	S卡 3-0037【すっかり秋色ですわね！】/第3话 一定，永远.csv	S卡	kcna(千奈):11; shro(広):9	kcna:S卡; shro:S卡		20
+484	adv_csprt-3-0038_01	S卡 3-0038【会長、準備は万端です】/第1话 作为憧憬的存在.csv	S卡	jsna(星南):10	jsna:S卡		10
+485	adv_csprt-3-0038_02	S卡 3-0038【会長、準備は万端です】/第2话 其中一个对手.csv	S卡	hrnm(莉波):6; jsna(星南):11	hrnm:S卡; jsna:S卡		17
+486	adv_csprt-3-0038_03	S卡 3-0038【会長、準備は万端です】/第3话 偶尔也放松一下.csv	S卡	hrnm(莉波):6; jsna(星南):14	hrnm:S卡; jsna:S卡		20
+487	adv_csprt-3-0039_01	S卡 3-0039【ぜったい追いついてやる！】/第1话 惊人的圈速.csv	S卡	fktn(ことね):11; jsna(星南):9	fktn:S卡; jsna:S卡		20
+488	adv_csprt-3-0039_02	S卡 3-0039【ぜったい追いついてやる！】/第2话 『启明星』的步调.csv	S卡	fktn(ことね):12; jsna(星南):8	fktn:S卡; jsna:S卡		20
+489	adv_csprt-3-0039_03	S卡 3-0039【ぜったい追いついてやる！】/第3话 想追上的背影.csv	S卡	fktn(ことね):11; jsna(星南):7	fktn:S卡; jsna:S卡		18
+490	adv_csprt-3-0040_01	S卡 3-0040【そろそろ焼けたかな？】/第1话 梦寐以求的烤红薯.csv	S卡	amao(麻央):11; kllj(リーリヤ):8	amao:S卡; kllj:S卡		19
+491	adv_csprt-3-0040_02	S卡 3-0040【そろそろ焼けたかな？】/第2话 想让你品尝的味道.csv	S卡	amao(麻央):8; kllj(リーリヤ):12	amao:S卡; kllj:S卡		20
+492	adv_csprt-3-0040_03	S卡 3-0040【そろそろ焼けたかな？】/第3话 趁着没感冒之前.csv	S卡	amao(麻央):9; kllj(リーリヤ):11	amao:S卡; kllj:S卡		20
+493	adv_csprt-3-0041_01	S卡 3-0041【キラキラして綺麗～っ！】/第1话 闪耀的灯饰.csv	S卡	jsna(星南):6	jsna:S卡	hmsz,hume	6
+494	adv_csprt-3-0041_02	S卡 3-0041【キラキラして綺麗～っ！】/第2话 给会长的礼物.csv	S卡	jsna(星南):7	jsna:S卡	hmsz,hume	7
+495	adv_csprt-3-0041_03	S卡 3-0041【キラキラして綺麗～っ！】/第3话 想分享的风景.csv	S卡	jsna(星南):8	jsna:S卡	hmsz,hume	8
+496	adv_csprt-3-0042_01	S卡 3-0042【あったかいね】/第1话 久违的雪景.csv	S卡	kllj(リーリヤ):7; ssmk(清夏):13	kllj:S卡; ssmk:S卡		20
+497	adv_csprt-3-0042_02	S卡 3-0042【あったかいね】/第2话 初次相遇的那一刻.csv	S卡	kllj(リーリヤ):10; ssmk(清夏):10	kllj:S卡; ssmk:S卡		20
+498	adv_csprt-3-0042_03	S卡 3-0042【あったかいね】/第3话 无法忘记的话语.csv	S卡	kllj(リーリヤ):10; ssmk(清夏):10	kllj:S卡; ssmk:S卡		20
+499	adv_csprt-3-0043_01	S卡 3-0043【待ちなさーい！】/第1话 跑步对决！.csv	S卡	ssmk(清夏):11	ssmk:S卡	hski	11
+500	adv_csprt-3-0043_02	S卡 3-0043【待ちなさーい！】/第2话 游戏厅对决！.csv	S卡	ssmk(清夏):10	ssmk:S卡	hski	10
+501	adv_csprt-3-0043_03	S卡 3-0043【待ちなさーい！】/第3话 跳舞机对决！.csv	S卡	ssmk(清夏):11	ssmk:S卡	hski	11
+502	adv_csprt-3-0044_02	S卡 3-0044【もう一度、最初から！】/第2话 为了抓住机会.csv	S卡	amao(麻央):10	amao:S卡		10
+503	adv_csprt-3-0045_01	S卡 3-0045【はいっ、みんなも一緒に♪】/第1话 让未来绽放光芒！就是现在！.csv	S卡	kcna(千奈):6	kcna:S卡	hmsz,hume	6
+504	adv_csprt-3-0045_02	S卡 3-0045【はいっ、みんなも一緒に♪】/第2话 比起那时，现在一定会更加.csv	S卡	hrnm(莉波):8	hrnm:S卡	hmsz,hume	8
+505	adv_csprt-3-0045_03	S卡 3-0045【はいっ、みんなも一緒に♪】/第3话 笑着说能做到的！.csv	S卡	kcna(千奈):12; shro(広):8	kcna:S卡; shro:S卡		20
+506	adv_csprt-3-0046_01	S卡 3-0046【これが私達の、3年間】/第1话 我绝对要做到！.csv	S卡	hrnm(莉波):6	hrnm:S卡		6
+507	adv_csprt-3-0046_02	S卡 3-0046【これが私達の、3年間】/第2话 『启明星』仅此一人.csv	S卡	jsna(星南):10; atbm(燕):10	jsna:S卡; atbm:S卡		20
+508	adv_csprt-3-0046_03	S卡 3-0046【これが私達の、3年間】/第3话 把接力棒传下去.csv	S卡	amao(麻央):9; hrnm(莉波):10	amao:S卡; hrnm:S卡		19
+509	adv_csprt-3-0047_01	S卡 3-0047【バレンタイン♡会議中ーっ！】/第1话 秘密的商量.csv	S卡	hrnm(莉波):9	hrnm:S卡	hski,hume	9
+510	adv_csprt-3-0047_02	S卡 3-0047【バレンタイン♡会議中ーっ！】/第2话 讯息要发给谁呢？.csv	S卡	hrnm(莉波):6	hrnm:S卡	hski,hume	6
+511	adv_csprt-3-0047_03	S卡 3-0047【バレンタイン♡会議中ーっ！】/第3话 巧克力要送给谁呢？.csv	S卡	hrnm(莉波):8	hrnm:S卡	hume	8
+512	adv_csprt-3-0048_01	S卡 3-0048【絶対にお渡ししますわっ！】/第1话 情人节的超长队列.csv	S卡	kcna(千奈):14	kcna:S卡		14
+513	adv_csprt-3-0048_02	S卡 3-0048【絶対にお渡ししますわっ！】/第2话 千奈是特别的.csv	S卡	kcna(千奈):10; jsna(星南):10	kcna:S卡; jsna:S卡		20
+514	adv_csprt-3-0048_03	S卡 3-0048【絶対にお渡ししますわっ！】/第3话 传家宝巧克力.csv	S卡	kcna(千奈):9; jsna(星南):11	kcna:S卡; jsna:S卡		20
+515	adv_csprt-3-0049_01	S卡 3-0049【ひとりで立てますか？】/第1话 至少要一个人站起来！.csv	S卡	kllj(リーリヤ):12	kllj:S卡	ttmr	12
+516	adv_csprt-3-0049_02	S卡 3-0049【ひとりで立てますか？】/第2话 绝对不要放手！.csv	S卡	kllj(リーリヤ):9	kllj:S卡	ttmr	9
+517	adv_csprt-3-0049_03	S卡 3-0049【ひとりで立てますか？】/第3话 脱节的对话.csv	S卡	kllj(リーリヤ):11	kllj:S卡	ttmr	11
+518	adv_csprt-3-0050_01	S卡 3-0050【あなたたちのことが好き】/第1话 我们还差得远呢.csv	S卡	kcna(千奈):7; shro(広):9	kcna:S卡; shro:S卡	hume	16
+519	adv_csprt-3-0050_02	S卡 3-0050【あなたたちのことが好き】/第2话 再多一点点.csv	S卡	kcna(千奈):8; shro(広):7	kcna:S卡; shro:S卡	hume	15
+520	adv_csprt-3-0050_03	S卡 3-0050【あなたたちのことが好き】/第3话 一直是朋友.csv	S卡	shro(広):10	shro:S卡	hume	10
+521	adv_csprt-3-0051_01	S卡 3-0051【新生活のはじまりだね】/第1话 可靠的同级生.csv	S卡	amao(麻央):9; hrnm(莉波):10	amao:S卡; hrnm:S卡		19
+522	adv_csprt-3-0051_02	S卡 3-0051【新生活のはじまりだね】/第2话 难以抗拒的苦涩.csv	S卡	amao(麻央):12; hrnm(莉波):8	amao:S卡; hrnm:S卡		20
+523	adv_csprt-3-0051_03	S卡 3-0051【新生活のはじまりだね】/第3话 当花再次绽放之时.csv	S卡	amao(麻央):12; hrnm(莉波):8	amao:S卡; hrnm:S卡		20
+524	adv_csprt-3-0053_01	S卡 3-0053【さあ、もう一戦！】/第1话 玩游戏，真有趣啊.csv	S卡	jsna(星南):11	jsna:S卡		11
+525	adv_csprt-3-0053_02	S卡 3-0053【さあ、もう一戦！】/第2话 让人上瘾的汉堡.csv	S卡	jsna(星南):11	jsna:S卡		11
+526	adv_csprt-3-0053_03	S卡 3-0053【さあ、もう一戦！】/第3话 人生仅此一次的瞬间.csv	S卡	amao(麻央):6	amao:S卡		6
+527	adv_csprt-3-0054_01	S卡 3-0054【相手にとって不足なしよ！】/第1话 下次再一决胜负.csv	S卡	kllj(リーリヤ):9	kllj:S卡	hski	9
+528	adv_csprt-3-0054_02	S卡 3-0054【相手にとって不足なしよ！】/第2话 有趣的东西就是有趣！.csv	S卡	kllj(リーリヤ):8	kllj:S卡	hski	8
+529	adv_csprt-3-0054_03	S卡 3-0054【相手にとって不足なしよ！】/第3话 传奇猛犸同学.csv	S卡	kllj(リーリヤ):8	kllj:S卡	hski	8
+530	adv_csprt-3-0055_01	S卡 3-0055【ここから始まるんだね！】/第1话 作为入学纪念，茄子♪.csv	S卡	kllj(リーリヤ):8; ssmk(清夏):11	kllj:S卡; ssmk:S卡		19
+531	adv_csprt-3-0055_02	S卡 3-0055【ここから始まるんだね！】/第2话 亲友已沉入梦中.csv	S卡	kllj(リーリヤ):14	kllj:S卡		14
+532	adv_csprt-3-0055_03	S卡 3-0055【ここから始まるんだね！】/第3话 现在也依旧是，我的英雄.csv	S卡	kllj(リーリヤ):8; ssmk(清夏):12	kllj:S卡; ssmk:S卡		20
+533	adv_csprt-3-0056_01	S卡 3-0056【相変わらず不器用ね】/第1话 笨拙的青梅竹马.csv	S卡	jsna(星南):10; atbm(燕):10	jsna:S卡; atbm:S卡		20
+534	adv_csprt-3-0056_02	S卡 3-0056【相変わらず不器用ね】/第2话 自尊心强的对手.csv	S卡	jsna(星南):10; atbm(燕):10	jsna:S卡; atbm:S卡		20
+535	adv_csprt-3-0056_03	S卡 3-0056【相変わらず不器用ね】/第3话 可靠的副会长.csv	S卡	jsna(星南):9; atbm(燕):11	jsna:S卡; atbm:S卡		20
+536	adv_csprt-3-0057_01	S卡 3-0057【利用し合うのが友達！】/第1话 一流的偶像支援者.csv	S卡	fktn(ことね):6	fktn:S卡	ttmr,hski	6
+537	adv_csprt-3-0057_03	S卡 3-0057【利用し合うのが友達！】/第3话 才不要组成组合！.csv	S卡	fktn(ことね):6	fktn:S卡	ttmr,hski	6
+538	adv_csprt-3-0059_02	S卡 3-0059【すっかり仲良しって感じ♪】/第2话 请品尝曲奇！.csv	S卡	kllj(リーリヤ):8	kllj:S卡	hski	8
+539	adv_csprt-3-0059_03	S卡 3-0059【すっかり仲良しって感じ♪】/第3话 请详细告诉我.csv	S卡	ssmk(清夏):11	ssmk:S卡	ttmr	11
+540	adv_csprt-3-0060_02	S卡 3-0060【迷子のおしらせです】/第2话 不只是可爱.csv	S卡	shro(広):6	shro:S卡	hume	6
+541	adv_csprt-3-0060_03	S卡 3-0060【迷子のおしらせです】/第3话 永无止境的休息时间.csv	S卡	kcna(千奈):9	kcna:S卡	hmsz	9
+542	adv_csprt-3-0061_01	S卡 3-0061【みんなの意見を聞かせて♪】/第1话 已经停不下来了！.csv	S卡	jsna(星南):6	jsna:S卡		6
+543	adv_csprt-3-0061_02	S卡 3-0061【みんなの意見を聞かせて♪】/第2话 说教要适度.csv	S卡	hrnm(莉波):9; atbm(燕):11	hrnm:S卡; atbm:S卡		20
+544	adv_csprt-3-0061_03	S卡 3-0061【みんなの意見を聞かせて♪】/第3话 面食王子.csv	S卡	amao(麻央):11; jsna(星南):9	amao:S卡; jsna:S卡		20
+545	adv_csprt-3-0062_01	S卡 3-0062【よくやったな、倉本。】/第1话 无限的可能性.csv	S卡	kcna(千奈):10; atbm(燕):10	kcna:S卡; atbm:S卡		20
+546	adv_csprt-3-0062_02	S卡 3-0062【よくやったな、倉本。】/第2话 唯有毅力值得称道.csv	S卡	kcna(千奈):8; atbm(燕):12	kcna:S卡; atbm:S卡		20
+547	adv_csprt-3-0062_03	S卡 3-0062【よくやったな、倉本。】/第3话 师徒般的二人.csv	S卡	atbm(燕):9	atbm:S卡		9
+548	adv_csprt-3-0063_01	S卡 3-0063【推し活なひととき、だね！】/第1话 快乐的传教活动♪.csv	S卡	kllj(リーリヤ):8; kcna(千奈):10	kllj:S卡; kcna:S卡		18
+549	adv_csprt-3-0063_02	S卡 3-0063【推し活なひととき、だね！】/第2话 期待的动漫鉴赏会.csv	S卡	kllj(リーリヤ):9; kcna(千奈):10	kllj:S卡; kcna:S卡		19
+550	adv_csprt-3-0063_03	S卡 3-0063【推し活なひととき、だね！】/第3话 令人在意的Cosplay.csv	S卡	kllj(リーリヤ):9; kcna(千奈):11	kllj:S卡; kcna:S卡		20
+551	adv_csprt-3-0064_01	S卡 3-0064【いつも頑張ってるね。】/第1话 请把它忘掉……！.csv	S卡	ssmk(清夏):11; hrnm(莉波):9	ssmk:S卡; hrnm:S卡		20
+552	adv_csprt-3-0064_02	S卡 3-0064【いつも頑張ってるね。】/第2话 今天是欺骗日！.csv	S卡	ssmk(清夏):8; hrnm(莉波):12	ssmk:S卡; hrnm:S卡		20
+553	adv_csprt-3-0064_03	S卡 3-0064【いつも頑張ってるね。】/第3话 姐姐系角色？.csv	S卡	ssmk(清夏):10; hrnm(莉波):10	ssmk:S卡; hrnm:S卡		20
+554	adv_csprt-3-0065_01	S卡 3-0065【どんな関係なんですか？】/第1话 我爱的只是钱♪.csv	S卡	fktn(ことね):10	fktn:S卡	hmsz	10
+555	adv_csprt-3-0065_02	S卡 3-0065【どんな関係なんですか？】/第2话 亲切的解决方案.csv	S卡	fktn(ことね):10	fktn:S卡	hmsz	10
+556	adv_csprt-3-0065_03	S卡 3-0065【どんな関係なんですか？】/第3话 复杂的关系？.csv	S卡	fktn(ことね):12	fktn:S卡	ttmr	12
+557	adv_csprt-3-0066_01	S卡 3-0066【放っておけない気になる子】/第1话 既有趣又令人担心的孩子.csv	S卡	shro(広):8; jsna(星南):12	shro:S卡; jsna:S卡		20
+558	adv_csprt-3-0066_02	S卡 3-0066【放っておけない気になる子】/第2话 想要了解的秘密.csv	S卡	kcna(千奈):8; jsna(星南):12	kcna:S卡; jsna:S卡		20
+559	adv_csprt-3-0066_03	S卡 3-0066【放っておけない気になる子】/第3话 与人气相符的实力.csv	S卡	shro(広):8; jsna(星南):12	shro:S卡; jsna:S卡		20
+560	adv_csprt-3-0067_02	S卡 3-0067【わたしと美鈴、超仲良し】/第2话 如运动会一样的日常.csv	S卡	kcna(千奈):10	kcna:S卡	hume	10
+561	adv_csprt-3-0067_03	S卡 3-0067【わたしと美鈴、超仲良し】/第3话 下次在偶像上对决！.csv	S卡	ssmk(清夏):9	ssmk:S卡	hume	9
+562	adv_csprt-3-0068_01	S卡 3-0068【お母さんか！】/第1话 妈妈一样的叮嘱！.csv	S卡	fktn(ことね):6	fktn:S卡	ttmr,hski	6
+563	adv_csprt-3-0068_02	S卡 3-0068【お母さんか！】/第2话 ＞△＜.csv	S卡	fktn(ことね):7	fktn:S卡	ttmr,hski	7
+564	adv_csprt-3-0069_01	S卡 3-0069【いつまでも続けばいいのに】/第1话 2年份的工作.csv	S卡	jsna(星南):12	jsna:S卡	hmsz	12
+565	adv_csprt-3-0069_02	S卡 3-0069【いつまでも続けばいいのに】/第2话 美铃不擅长的东西.csv	S卡	jsna(星南):9	jsna:S卡	hmsz	9
+566	adv_csprt-3-0069_03	S卡 3-0069【いつまでも続けばいいのに】/第3话 会长不擅长的东西.csv	S卡	jsna(星南):7	jsna:S卡	hmsz,hume	7
+567	adv_csprt-3-0070_01	S卡 3-0070【おい、来てやったぞ！】/第1话 出乎意料的到店！？.csv	S卡	fktn(ことね):10	fktn:S卡	hume	10
+568	adv_csprt-3-0070_02	S卡 3-0070【おい、来てやったぞ！】/第2话 担心的副会长.csv	S卡	fktn(ことね):10; atbm(燕):6	fktn:S卡; atbm:S卡	hume	16
+569	adv_csprt-3-0070_03	S卡 3-0070【おい、来てやったぞ！】/第3话 关心的副会长.csv	S卡	fktn(ことね):11; atbm(燕):9	fktn:S卡; atbm:S卡		20
+570	adv_csprt-3-0071_01	S卡 3-0071【盛り上げてこー！】/第1话 气氛烘托准备OK！.csv	S卡	jsna(星南):7	jsna:S卡		7
+571	adv_csprt-3-0071_02	S卡 3-0071【盛り上げてこー！】/第2话 歌曲和甜点.csv	S卡	hrnm(莉波):10	hrnm:S卡		10
+572	adv_csprt-3-0071_03	S卡 3-0071【盛り上げてこー！】/第3话 会有人来看的.csv	S卡	atbm(燕):7	atbm:S卡		7
+573	adv_csprt-3-0072_01	S卡 3-0072【おっと、危ないよ】/第1话 楼梯冲刺注意！.csv	S卡	amao(麻央):9; kcna(千奈):11	amao:S卡; kcna:S卡		20
+574	adv_csprt-3-0072_02	S卡 3-0072【おっと、危ないよ】/第2话 管家的工作？.csv	S卡	amao(麻央):8; kcna(千奈):8	amao:S卡; kcna:S卡		16
+575	adv_csprt-3-0072_03	S卡 3-0072【おっと、危ないよ】/第3话 寻找传说中的菠萝包！.csv	S卡	amao(麻央):10; kcna(千奈):10	amao:S卡; kcna:S卡		20
+576	adv_csprt-3-0073_01	S卡 3-0073【ｖギャルピーーースッｖ】/第1话 全力享受♪.csv	S卡	kcna(千奈):7; ssmk(清夏):6; shro(広):7	kcna:S卡; ssmk:S卡; shro:S卡		20
+577	adv_csprt-3-0073_02	S卡 3-0073【ｖギャルピーーースッｖ】/第2话 目标是高中出道.csv	S卡	ssmk(清夏):9; shro(広):11	ssmk:S卡; shro:S卡		20
+578	adv_csprt-3-0073_03	S卡 3-0073【ｖギャルピーーースッｖ】/第3话 辣妹认证！.csv	S卡	ssmk(清夏):6; shro(広):11	ssmk:S卡; shro:S卡		17
+579	adv_csprt-3-0074_01	S卡 3-0074【ちょっと詳しいんです！】/第1话 发现同道中人？.csv	S卡	kllj(リーリヤ):10; hrnm(莉波):10	kllj:S卡; hrnm:S卡		20
+580	adv_csprt-3-0074_02	S卡 3-0074【ちょっと詳しいんです！】/第2话 很搭的发型.csv	S卡	kllj(リーリヤ):9; hrnm(莉波):11	kllj:S卡; hrnm:S卡		20
+581	adv_csprt-3-0074_03	S卡 3-0074【ちょっと詳しいんです！】/第3话 对遥远故乡的思念.csv	S卡	kllj(リーリヤ):10; hrnm(莉波):10	kllj:S卡; hrnm:S卡		20
+582	adv_csprt-3-0075_01	S卡 3-0075【これは――お城ッ！！】/第1话 心意交融的茶会.csv	S卡	fktn(ことね):10; kcna(千奈):10	fktn:S卡; kcna:S卡		20
+583	adv_csprt-3-0075_02	S卡 3-0075【これは――お城ッ！！】/第2话 欢迎来到仓本家♪.csv	S卡	fktn(ことね):8; kcna(千奈):12	fktn:S卡; kcna:S卡		20
+584	adv_csprt-3-0075_03	S卡 3-0075【これは――お城ッ！！】/第3话 不会无聊的学园.csv	S卡	kcna(千奈):9	kcna:S卡	ttmr,hski,hume	9
+585	adv_csprt-3-0076_02	S卡 3-0076【月村手毬、興味深いわね】/第2话 启明星与歌姬的和声.csv	S卡	jsna(星南):9	jsna:S卡	ttmr	9
+586	adv_csprt-3-0077_01	S卡 3-0077【クールダウンが大切よ！】/第1话 新作SSD……！？.csv	S卡	kcna(千奈):8	kcna:S卡	hski	8
+587	adv_csprt-3-0077_03	S卡 3-0077【クールダウンが大切よ！】/第3话 值得学习的态度.csv	S卡	kcna(千奈):7	kcna:S卡	hski	7
+588	adv_csprt-3-0078_02	S卡 3-0078【レディ・セット、ゴー！】/第2话 喜欢的东西就是喜欢.csv	S卡	amao(麻央):9	amao:S卡	hume	9
+589	adv_csprt-3-0078_03	S卡 3-0078【レディ・セット、ゴー！】/第3话 蔬菜搬运训练.csv	S卡	amao(麻央):11	amao:S卡	hume	11
+590	adv_csprt-3-0079_01	S卡 3-0079【やっと見つけたぞ！】/第1话 令人头疼却又能干的后辈.csv	S卡	atbm(燕):10	atbm:S卡	hmsz	10
+591	adv_csprt-3-0079_02	S卡 3-0079【やっと見つけたぞ！】/第2话 午睡与偶尔的训练.csv	S卡	jsna(星南):6; atbm(燕):8	jsna:S卡; atbm:S卡	hmsz	14
+592	adv_csprt-3-0079_03	S卡 3-0079【やっと見つけたぞ！】/第3话 副会长的请求.csv	S卡	atbm(燕):8	atbm:S卡	hmsz	8
+593	adv_csprt-3-0080_01	S卡 3-0080【ぜったいに取るんだ！】/第1话 抓娃娃达人——清夏.csv	S卡	kllj(リーリヤ):10; ssmk(清夏):10	kllj:S卡; ssmk:S卡		20
+594	adv_csprt-3-0080_02	S卡 3-0080【ぜったいに取るんだ！】/第2话 老练的冰之魔女.csv	S卡	kllj(リーリヤ):9; ssmk(清夏):6	kllj:S卡; ssmk:S卡		15
+595	adv_csprt-3-0080_03	S卡 3-0080【ぜったいに取るんだ！】/第3话 用动漫歌曲来决一胜负！.csv	S卡	kllj(リーリヤ):9; ssmk(清夏):11	kllj:S卡; ssmk:S卡		20
+596	adv_csprt-3-0082_01	S卡 3-0082【なぜこんなところにッ！？】/第1话 共鸣的粉丝之魂.csv	S卡	kllj(リーリヤ):10; atbm(燕):9	kllj:S卡; atbm:S卡		19
+597	adv_csprt-3-0082_02	S卡 3-0082【なぜこんなところにッ！？】/第2话 同好之人……？.csv	S卡	kllj(リーリヤ):10; atbm(燕):10	kllj:S卡; atbm:S卡		20
+598	adv_csprt-3-0082_03	S卡 3-0082【なぜこんなところにッ！？】/第3话 突然就心血来潮了！.csv	S卡	kllj(リーリヤ):7; atbm(燕):7	kllj:S卡; atbm:S卡		14
+599	adv_csprt-3-0083_01	S卡 3-0083【堂々とサボってる！？】/第1话 憧憬中的不良少女.csv	S卡	kllj(リーリヤ):9	kllj:S卡	ttmr,hmsz	9
+600	adv_csprt-3-0083_02	S卡 3-0083【堂々とサボってる！？】/第2话 拜师不良少女.csv	S卡	kllj(リーリヤ):11	kllj:S卡	hmsz	11
+601	adv_csprt-3-0083_03	S卡 3-0083【堂々とサボってる！？】/第3话 和不良少女一起训练.csv	S卡	kllj(リーリヤ):9	kllj:S卡	hmsz	9
+602	adv_csprt-3-0084_01	S卡 3-0084【手毬のリサイタル、だね】/第1话 感觉被载起来啦！.csv	S卡	kcna(千奈):7	kcna:S卡	ttmr	7
+603	adv_csprt-3-0084_02	S卡 3-0084【手毬のリサイタル、だね】/第2话 一起来解开吧.csv	S卡	shro(広):8	shro:S卡	ttmr	8
+604	adv_csprt-3-0085_01	S卡 3-0085【自分と向き合う時間だ】/第1话 理想的前后辈关系.csv	S卡	atbm(燕):9	atbm:S卡	hski,hume	9
+605	adv_csprt-3-0085_02	S卡 3-0085【自分と向き合う時間だ】/第2话 座右铭是？.csv	S卡	atbm(燕):10	atbm:S卡	hski,hume	10
+606	adv_csprt-3-0085_03	S卡 3-0085【自分と向き合う時間だ】/第3话 无论对手是谁.csv	S卡	atbm(燕):10	atbm:S卡	hski	10
+607	adv_csprt-3-0086_01	S卡 3-0086【貸せ、手本を見せてやる！】/第1话 超可爱大头贴挑战！.csv	S卡	jsna(星南):10; atbm(燕):10	jsna:S卡; atbm:S卡		20
+608	adv_csprt-3-0086_02	S卡 3-0086【貸せ、手本を見せてやる！】/第2话 超大圣代挑战！.csv	S卡	jsna(星南):10; atbm(燕):9	jsna:S卡; atbm:S卡		19
+609	adv_csprt-3-0086_03	S卡 3-0086【貸せ、手本を見せてやる！】/第3话 青梅竹马约会挑战！.csv	S卡	jsna(星南):10; atbm(燕):10	jsna:S卡; atbm:S卡		20
+610	adv_csprt-3-0087_01	S卡 3-0087【オシャレもメイクも♪】/第1话 换装要帅气可爱.csv	S卡	fktn(ことね):6; amao(麻央):6	fktn:S卡; amao:S卡		12
+611	adv_csprt-3-0087_02	S卡 3-0087【オシャレもメイクも♪】/第2话 章鱼烧小王子？.csv	S卡	amao(麻央):9	amao:S卡	ttmr,hski	9
+612	adv_csprt-3-0087_03	S卡 3-0087【オシャレもメイクも♪】/第3话 为了回报所受的恩情.csv	S卡	amao(麻央):10	amao:S卡		10
+613	adv_csprt-3-0088_01	S卡 3-0088【思い出の宝箱だ、ね】/第1话 两人的模仿秀.csv	S卡	kcna(千奈):5+anon0006; shro(広):5+anon0001	kcna:S卡; shro:S卡		12
+614	adv_csprt-3-0088_02	S卡 3-0088【思い出の宝箱だ、ね】/第2话 偶像的光辉.csv	S卡	kcna(千奈):8; shro(広):7	kcna:S卡; shro:S卡		15
+615	adv_csprt-3-0088_03	S卡 3-0088【思い出の宝箱だ、ね】/第3话 心底的你.csv	S卡	kcna(千奈):8; shro(広):6	kcna:S卡; shro:S卡	hume	14
+616	adv_csprt-3-0089_02	S卡 3-0089【かかってらっしゃい！】/第2话 姐姐检查时间！.csv	S卡	jsna(星南):9	jsna:S卡	hski,hume	9
+617	adv_csprt-3-0089_03	S卡 3-0089【かかってらっしゃい！】/第3话 交给后辈吧！.csv	S卡	jsna(星南):10	jsna:S卡	hski	10
+618	adv_csprt-3-0090_01	S卡 3-0090【みいつけた。】/第1话 喵喵喵？.csv	S卡	shro(広):16	shro:S卡	ttmr	16
+619	adv_csprt-3-0090_02	S卡 3-0090【みいつけた。】/第2话 恰到好处的刺激？.csv	S卡	shro(広):9	shro:S卡	ttmr	9
+620	adv_csprt-3-0090_03	S卡 3-0090【みいつけた。】/第3话 好啦好啦，大成功！.csv	S卡	shro(広):6	shro:S卡	ttmr	6
+621	adv_csprt-3-0091_01	S卡 3-0091【あたしの勝ち、ですね～！】/第1话 甜的・酸的・辣的.csv	S卡	jsna(星南):6	jsna:S卡	hmsz,hume	6
+622	adv_csprt-3-0091_02	S卡 3-0091【あたしの勝ち、ですね～！】/第2话 从头到尾！.csv	S卡	jsna(星南):7	jsna:S卡	hmsz,hume	7
+623	adv_csprt-3-0091_03	S卡 3-0091【あたしの勝ち、ですね～！】/第3话 即使毕业也会帮忙.csv	S卡	jsna(星南):8	jsna:S卡	hmsz,hume	8
+624	adv_csprt-3-0092_01	S卡 3-0092【進化したお弁当、気になる】/第1话 另一个妹妹？.csv	S卡	shro(広):7	shro:S卡	hski,hume	7
+625	adv_csprt-3-0092_02	S卡 3-0092【進化したお弁当、気になる】/第2话 可以打个招呼吗？.csv	S卡	shro(広):6	shro:S卡	hski,hume	6
+626	adv_csprt-3-0093_01	S卡 3-0093【長旅おつかれさま！】/第1话 时隔半年的重逢.csv	S卡	kllj(リーリヤ):9; ssmk(清夏):10	kllj:S卡; ssmk:S卡		19
+627	adv_csprt-3-0093_02	S卡 3-0093【長旅おつかれさま！】/第2话 考试前夜的二人.csv	S卡	kllj(リーリヤ):11; ssmk(清夏):9	kllj:S卡; ssmk:S卡		20
+628	adv_csprt-3-0093_03	S卡 3-0093【長旅おつかれさま！】/第3话 实现约定的第一步！.csv	S卡	kllj(リーリヤ):9; ssmk(清夏):10	kllj:S卡; ssmk:S卡		19
+629	adv_csprt-3-0094_01	S卡 3-0094【上かッ！！】/第1话 救助小猫.csv	S卡	atbm(燕):11	atbm:S卡	hume	11
+630	adv_csprt-3-0094_02	S卡 3-0094【上かッ！！】/第2话 小猫与副会长.csv	S卡	atbm(燕):9	atbm:S卡	hume	9
+631	adv_csprt-3-0094_03	S卡 3-0094【上かッ！！】/第3话 术业有专攻.csv	S卡	atbm(燕):9	atbm:S卡	hume	9
+632	adv_csprt-3-0095_01	S卡 3-0095【パーティー楽しみだねっ！】/第1话 同款环保购物袋.csv	S卡	kcna(千奈):6	kcna:S卡	hmsz,hume	6
+633	adv_csprt-3-0095_02	S卡 3-0095【パーティー楽しみだねっ！】/第2话 超市初体验.csv	S卡	kcna(千奈):10	kcna:S卡	hmsz,hume	10
+634	adv_csprt-3-0098_01	S卡 3-0098【大運動会、開催っ！】/第1话 心动的便当时间.csv	S卡	fktn(ことね):12; jsna(星南):8	fktn:S卡; jsna:S卡		20
+635	adv_csprt-3-0098_02	S卡 3-0098【大運動会、開催っ！】/第2话 便当配菜讨论.csv	S卡	amao(麻央):6; atbm(燕):10	amao:S卡; atbm:S卡		16
+636	adv_csprt-3-0098_03	S卡 3-0098【大運動会、開催っ！】/第3话 集大成的运动会.csv	S卡	jsna(星南):7	jsna:S卡		7
+637	adv_csprt-3-0101_01	S卡 3-0101【どーなっちゃうの～？】/第1话 珍宝般的心情.csv	S卡	amao(麻央):10; hrnm(莉波):10	amao:S卡; hrnm:S卡		20
+638	adv_csprt-3-0101_02	S卡 3-0101【どーなっちゃうの～？】/第2话 如果结成组合的话.csv	S卡	amao(麻央):8; hrnm(莉波):12	amao:S卡; hrnm:S卡		20
+639	adv_csprt-3-0101_03	S卡 3-0101【どーなっちゃうの～？】/第3话 只属于两人的空间.csv	S卡	amao(麻央):9; hrnm(莉波):9	amao:S卡; hrnm:S卡		18
+640	adv_csprt-3-0102_02	S卡 3-0102【おでん、通りま～すッ！】/第2话 该认真面对的是关东煮？.csv	S卡	fktn(ことね):6	fktn:S卡	ttmr,hski,hume	6
+641	adv_csprt-3-0103_01	S卡 3-0103【次の曲は～ッあの曲だ！！】/第1话 向着耀眼的星星前进！.csv	S卡	kcna(千奈):6	kcna:S卡	hume	6
+642	adv_csprt-3-0103_02	S卡 3-0103【次の曲は～ッあの曲だ！！】/第2话 传说中的公演鉴赏会.csv	S卡	shro(広):9	shro:S卡	hume	9
+643	adv_csprt-3-0103_03	S卡 3-0103【次の曲は～ッあの曲だ！！】/第3话 满载心意的应援团扇.csv	S卡	kcna(千奈):7	kcna:S卡	hume	7
+644	adv_csprt-3-0104_01	S卡 3-0104【インタビューお願いします】/第1话 去挑战顶点吧！.csv	S卡	jsna(星南):13	jsna:S卡		13
+645	adv_csprt-3-0104_02	S卡 3-0104【インタビューお願いします】/第2话 目标是成为『第一』之星.csv	S卡	atbm(燕):12	atbm:S卡		12
+646	adv_csprt-3-0104_03	S卡 3-0104【インタビューお願いします】/第3话 无理挑战之后的收获.csv	S卡	jsna(星南):6	jsna:S卡		6
+647	adv_csprt-3-0106_01	S卡 3-0106【食レポ、得意かも！】/第1话 把真挚的感动带给大家！.csv	S卡	hrnm(莉波):6	hrnm:S卡	ttmr	6
+648	adv_csprt-3-0106_02	S卡 3-0106【食レポ、得意かも！】/第2话 藏在笑容背后的积累.csv	S卡	hrnm(莉波):10	hrnm:S卡	ttmr	10
+649	adv_csprt-3-0106_03	S卡 3-0106【食レポ、得意かも！】/第3话 正因为喜欢偶像.csv	S卡	hrnm(莉波):10	hrnm:S卡	ttmr	10
+650	adv_csprt-3-0107_01	S卡 3-0107【大切な思い出、またひとつ】/第1话 这个夏天也要过出我们的风格.csv	S卡	shro(広):9	shro:S卡	hmsz	9
+651	adv_csprt-3-0107_02	S卡 3-0107【大切な思い出、またひとつ】/第2话 一起留下夏日回忆.csv	S卡	shro(広):12	shro:S卡	hmsz	12
+652	adv_csprt-3-0107_03	S卡 3-0107【大切な思い出、またひとつ】/第3话 吃辣、不擅长吗？.csv	S卡	shro(広):11	shro:S卡	hmsz	11
+653	adv_csprt-3-0108_01	S卡 3-0108【風紀が乱れるぞ！】/第1话 各自的讲究.csv	S卡	ssmk(清夏):9; atbm(燕):11	ssmk:S卡; atbm:S卡		20
+654	adv_csprt-3-0108_02	S卡 3-0108【風紀が乱れるぞ！】/第2话 并不可怕哦♪.csv	S卡	ssmk(清夏):9; atbm(燕):11	ssmk:S卡; atbm:S卡		20
+655	adv_csprt-3-0108_03	S卡 3-0108【風紀が乱れるぞ！】/第3话 这就是现在的我.csv	S卡	ssmk(清夏):8; atbm(燕):12	ssmk:S卡; atbm:S卡		20
+656	adv_csprt-3-0109_01	S卡 3-0109【わたしに、まかせて】/第1话 最强搭档？.csv	S卡	shro(広):10	shro:S卡	hume	10
+657	adv_csprt-3-0109_02	S卡 3-0109【わたしに、まかせて】/第2话 准备周全！.csv	S卡	shro(広):8	shro:S卡	hume	8
+658	adv_csprt-3-0109_03	S卡 3-0109【わたしに、まかせて】/第3话 赞美要两个人一起♪.csv	S卡	shro(広):7	shro:S卡	hume	7
+659	adv_csprt-3-0110_01	S卡 3-0110【イクラ～♪　ウニ～♪】/第1话 回转寿司奥妙无穷.csv	S卡	hrnm(莉波):10; atbm(燕):10	hrnm:S卡; atbm:S卡		20
+660	adv_csprt-3-0110_02	S卡 3-0110【イクラ～♪　ウニ～♪】/第2话 有时也要贪心一点！.csv	S卡	hrnm(莉波):9; atbm(燕):11	hrnm:S卡; atbm:S卡		20
+661	adv_csprt-3-0110_03	S卡 3-0110【イクラ～♪　ウニ～♪】/第3话 传承下来的传统.csv	S卡	jsna(星南):6	jsna:S卡	ttmr,hski	6
+662	adv_csprt-3-0111_01	S卡 3-0111【小悪魔になっちゃえ♪】/第1话 Cosplay？.csv	S卡	kllj(リーリヤ):8	kllj:S卡	hski	8
+663	adv_csprt-3-0111_02	S卡 3-0111【小悪魔になっちゃえ♪】/第2话 秘密的爱好.csv	S卡	kllj(リーリヤ):8; ssmk(清夏):6	kllj:S卡; ssmk:S卡	hski	14
+664	adv_csprt-3-0111_03	S卡 3-0111【小悪魔になっちゃえ♪】/第3话 先从进入角色开始！.csv	S卡	kllj(リーリヤ):10	kllj:S卡	hski	10
+665	adv_csprt-3-0113_01	S卡 3-0113【デ、デートのお誘い！？】/第1话 今天就是纪念日了！.csv	S卡	fktn(ことね):9; jsna(星南):11	fktn:S卡; jsna:S卡		20
+666	adv_csprt-3-0113_02	S卡 3-0113【デ、デートのお誘い！？】/第2话 温柔的支持鼓励.csv	S卡	fktn(ことね):12; hrnm(莉波):8	fktn:S卡; hrnm:S卡		20
+667	adv_csprt-3-0113_03	S卡 3-0113【デ、デートのお誘い！？】/第3话 以我的方式报恩.csv	S卡	fktn(ことね):8; jsna(星南):12	fktn:S卡; jsna:S卡		20
+668	adv_startup_2024_user-bd-01_amao-01	其他 startup/2024_user-bd-01_amao-01 制作人生日.csv	其他	amao(麻央):6	amao:其他		6
+669	adv_startup_2024_user-bd-01_kllj-01	其他 startup/2024_user-bd-01_kllj-01 制作人生日.csv	其他	kllj(リーリヤ):6	kllj:其他		6

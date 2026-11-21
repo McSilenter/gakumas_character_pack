@@ -1,0 +1,25 @@
+序号	stem	path	类别	要写的偶像	世界线	已有笔记	台词合计
+191	adv_event_028_main-01	活动 028/main-01 第1话.csv	活动	fktn(ことね):8; hrnm(莉波):17; atbm(燕):17	fktn:活动 028; hrnm:活动 028; atbm:活动 028		42
+192	adv_event_028_main-02	活动 028/main-02 第2话.csv	活动	amao(麻央):11; hrnm(莉波):21; atbm(燕):11	amao:活动 028; hrnm:活动 028; atbm:活动 028		43
+193	adv_event_028_main-03	活动 028/main-03 第3话.csv	活动	hrnm(莉波):32; jsna(星南):7; atbm(燕):27	hrnm:活动 028; jsna:活动 028; atbm:活动 028	hmsz,hume	66
+194	adv_event_028_main-04	活动 028/main-04 第4话.csv	活动	hrnm(莉波):38; atbm(燕):14	hrnm:活动 028; atbm:活动 028	ttmr	52
+195	adv_event_028_main-05	活动 028/main-05 第5话.csv	活动	hrnm(莉波):42; jsna(星南):6; atbm(燕):23	hrnm:活动 028; jsna:活动 028; atbm:活动 028	hski	71
+196	adv_event_030_main-01	活动 030/main-01 我是、小恶魔♡ 第1话.csv	活动	kllj(リーリヤ):30; jsna(星南):20	kllj:活动 030; jsna:活动 030	hski,hume	50
+197	adv_event_030_main-02	活动 030/main-02 我是、小恶魔♡ 第2话.csv	活动	kllj(リーリヤ):34	kllj:活动 030	hski,hume	34
+198	adv_event_030_main-03	活动 030/main-03 我是、小恶魔♡ 第3话.csv	活动	kllj(リーリヤ):21	kllj:活动 030	hski,hume	21
+199	adv_event_030_main-04	活动 030/main-04 我是、小恶魔♡ 第4话.csv	活动	kllj(リーリヤ):33	kllj:活动 030	hski,hume	33
+200	adv_event_030_main-05	活动 030/main-05 我是、小恶魔♡ 第5话.csv	活动	kllj(リーリヤ):25	kllj:活动 030	hski,hume	25
+201	adv_dear_hmsz_029	秦谷美鈴 亲爱度剧情/第29话.csv	别人亲爱度	jsna(星南):19	jsna:亲爱度（秦谷美鈴）	ttmr,hmsz	19
+202	adv_dear_hmsz_030	秦谷美鈴 亲爱度剧情/第30话.csv	别人亲爱度	jsna(星南):13	jsna:亲爱度（秦谷美鈴）	ttmr,hmsz	13
+203	adv_dear_hmsz_031	秦谷美鈴 亲爱度剧情/第31话.csv	别人亲爱度	jsna(星南):22	jsna:亲爱度（秦谷美鈴）	ttmr,hmsz	22
+204	adv_dear_hmsz_036	秦谷美鈴 亲爱度剧情/第36话.csv	别人亲爱度	jsna(星南):15	jsna:亲爱度（秦谷美鈴）	ttmr,hmsz	15
+205	adv_dear_hski_005	花海咲季 亲爱度剧情/第5话.csv	别人亲爱度	kcna(千奈):13	kcna:亲爱度（花海咲季）	hski,hume	13
+206	adv_dear_hski_024	花海咲季 亲爱度剧情/第24话.csv	别人亲爱度	jsna(星南):27	jsna:亲爱度（花海咲季）	hski	27
+207	adv_dear_hski_025	花海咲季 亲爱度剧情/第25话.csv	别人亲爱度	jsna(星南):35	jsna:亲爱度（花海咲季）	hski	35
+208	adv_dear_hski_026	花海咲季 亲爱度剧情/第26话.csv	别人亲爱度	jsna(星南):10	jsna:亲爱度（花海咲季）	hski	10
+209	adv_dear_hski_027	花海咲季 亲爱度剧情/第27话.csv	别人亲爱度	jsna(星南):10	jsna:亲爱度（花海咲季）	hski	10
+210	adv_dear_hski_029	花海咲季 亲爱度剧情/第29话.csv	别人亲爱度	atbm(燕):19	atbm:亲爱度（花海咲季）	hski	19
+211	adv_dear_hski_030	花海咲季 亲爱度剧情/第30话.csv	别人亲爱度	atbm(燕):43	atbm:亲爱度（花海咲季）	hski	43
+212	adv_dear_hski_031	花海咲季 亲爱度剧情/第31话.csv	别人亲爱度	atbm(燕):11	atbm:亲爱度（花海咲季）	hski	11
+213	adv_dear_hski_032	花海咲季 亲爱度剧情/第32话.csv	别人亲爱度	atbm(燕):40	atbm:亲爱度（花海咲季）	hski	40
+214	adv_dear_hski_034	花海咲季 亲爱度剧情/第34话.csv	别人亲爱度	jsna(星南):11	jsna:亲爱度（花海咲季）	hski	11

@@ -1,0 +1,443 @@
+group	stem	path	lines	anonymous	worldline
+own	adv_dear_fktn_001	藤田ことね 亲爱度剧情/第1话.csv	31		亲爱度（藤田ことね）
+own	adv_dear_fktn_002	藤田ことね 亲爱度剧情/第2话.csv	18		亲爱度（藤田ことね）
+own	adv_dear_fktn_003	藤田ことね 亲爱度剧情/第3话.csv	39		亲爱度（藤田ことね）
+own	adv_dear_fktn_004	藤田ことね 亲爱度剧情/第4话.csv	34		亲爱度（藤田ことね）
+own	adv_dear_fktn_005	藤田ことね 亲爱度剧情/第5话.csv	35		亲爱度（藤田ことね）
+own	adv_dear_fktn_006	藤田ことね 亲爱度剧情/第6话.csv	42		亲爱度（藤田ことね）
+own	adv_dear_fktn_007	藤田ことね 亲爱度剧情/第7话.csv	43		亲爱度（藤田ことね）
+own	adv_dear_fktn_008	藤田ことね 亲爱度剧情/第8话.csv	50		亲爱度（藤田ことね）
+own	adv_dear_fktn_009	藤田ことね 亲爱度剧情/第9话.csv	61		亲爱度（藤田ことね）
+own	adv_dear_fktn_010	藤田ことね 亲爱度剧情/第10话.csv	50		亲爱度（藤田ことね）
+own	adv_dear_fktn_010-01	藤田ことね 亲爱度剧情/第10.5话.csv	12		亲爱度（藤田ことね）
+own	adv_dear_fktn_011	藤田ことね 亲爱度剧情/第11话.csv	36		亲爱度（藤田ことね）
+own	adv_dear_fktn_012	藤田ことね 亲爱度剧情/第12话.csv	31		亲爱度（藤田ことね）
+own	adv_dear_fktn_013	藤田ことね 亲爱度剧情/第13话.csv	35		亲爱度（藤田ことね）
+own	adv_dear_fktn_014	藤田ことね 亲爱度剧情/第14话.csv	24		亲爱度（藤田ことね）
+own	adv_dear_fktn_015	藤田ことね 亲爱度剧情/第15话.csv	17		亲爱度（藤田ことね）
+own	adv_dear_fktn_016	藤田ことね 亲爱度剧情/第16话.csv	28		亲爱度（藤田ことね）
+own	adv_dear_fktn_017	藤田ことね 亲爱度剧情/第17话.csv	30		亲爱度（藤田ことね）
+own	adv_dear_fktn_018	藤田ことね 亲爱度剧情/第18话.csv	32		亲爱度（藤田ことね）
+own	adv_dear_fktn_019	藤田ことね 亲爱度剧情/第19话.csv	12		亲爱度（藤田ことね）
+own	adv_dear_fktn_020	藤田ことね 亲爱度剧情/第20话.csv	40		亲爱度（藤田ことね）
+own	adv_dear_fktn_021	藤田ことね 亲爱度剧情/第21话.csv	52		亲爱度（藤田ことね）
+own	adv_dear_fktn_022	藤田ことね 亲爱度剧情/第22话.csv	50		亲爱度（藤田ことね）
+own	adv_dear_fktn_023	藤田ことね 亲爱度剧情/第23话.csv	37		亲爱度（藤田ことね）
+own	adv_dear_fktn_024	藤田ことね 亲爱度剧情/第24话.csv	46		亲爱度（藤田ことね）
+own	adv_dear_fktn_025	藤田ことね 亲爱度剧情/第25话.csv	22		亲爱度（藤田ことね）
+own	adv_dear_fktn_026	藤田ことね 亲爱度剧情/第26话.csv	42		亲爱度（藤田ことね）
+own	adv_dear_fktn_027	藤田ことね 亲爱度剧情/第27话.csv	41		亲爱度（藤田ことね）
+own	adv_dear_fktn_028	藤田ことね 亲爱度剧情/第28话.csv	46		亲爱度（藤田ことね）
+own	adv_dear_fktn_029	藤田ことね 亲爱度剧情/第29话.csv	59		亲爱度（藤田ことね）
+own	adv_dear_fktn_030	藤田ことね 亲爱度剧情/第30话.csv	51		亲爱度（藤田ことね）
+own	adv_dear_fktn_031	藤田ことね 亲爱度剧情/第31话.csv	50		亲爱度（藤田ことね）
+own	adv_dear_fktn_032	藤田ことね 亲爱度剧情/第32话.csv	60		亲爱度（藤田ことね）
+own	adv_dear_fktn_033	藤田ことね 亲爱度剧情/第33话.csv	41		亲爱度（藤田ことね）
+own	adv_dear_fktn_034	藤田ことね 亲爱度剧情/第34话.csv	28		亲爱度（藤田ことね）
+own	adv_dear_fktn_035	藤田ことね 亲爱度剧情/第35话.csv	45	0040,0042,0044,0046	亲爱度（藤田ことね）
+own	adv_dear_fktn_036	藤田ことね 亲爱度剧情/第36话.csv	42		亲爱度（藤田ことね）
+own	adv_dear_fktn_037	藤田ことね 亲爱度剧情/第37话.csv	78		亲爱度（藤田ことね）
+own	adv_cidol-fktn-3-000_01	P卡 藤田ことね【世界第一可爱的我】/第1话 世界第一可爱的我 第1话.csv	28		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-000_02	P卡 藤田ことね【世界第一可爱的我】/第2话 世界第一可爱的我 第2话.csv	22		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-000_03	P卡 藤田ことね【世界第一可爱的我】/第3话 世界第一可爱的我 第3话.csv	26		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-001_01	P卡 藤田ことね【Yellow Big Bang！】/第1话 Yellow Big Bang！ 第1话.csv	29		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-001_02	P卡 藤田ことね【Yellow Big Bang！】/第2话 Yellow Big Bang！ 第2话.csv	24		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-001_03	P卡 藤田ことね【Yellow Big Bang！】/第3话 Yellow Big Bang！ 第3话.csv	42		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-002_01	P卡 藤田ことね【冠菊】/第1话 冠菊 第1话.csv	19		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-002_02	P卡 藤田ことね【冠菊】/第2话 冠菊 第2话.csv	20		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-002_03	P卡 藤田ことね【冠菊】/第3话 冠菊 第3话.csv	20		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-006_01	P卡 藤田ことね【White Night! White Wish!】/第1话 White Night! White Wish! 第1话.csv	24		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-006_02	P卡 藤田ことね【White Night! White Wish!】/第2话 White Night! White Wish! 第2话.csv	23		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-006_03	P卡 藤田ことね【White Night! White Wish!】/第3话 White Night! White Wish! 第3话.csv	40		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-007_01	P卡 藤田ことね【Campus mode!!】/第1话 Campus mode!! 第1话.csv	22		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-007_02	P卡 藤田ことね【Campus mode!!】/第2话 Campus mode!! 第2话.csv	32		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-007_03	P卡 藤田ことね【Campus mode!!】/第3话 Campus mode!! 第3话.csv	26		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-011_01	P卡 藤田ことね【雨后的鸢尾花】/第1话 雨后的鸢尾花 第1话.csv	28		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-011_02	P卡 藤田ことね【雨后的鸢尾花】/第2话 雨后的鸢尾花 第2话.csv	30		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-011_03	P卡 藤田ことね【雨后的鸢尾花】/第3话 雨后的鸢尾花 第3话.csv	31		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-013_01	P卡 藤田ことね【自我肯定感爆棚↑↑超爱琴音之歌】/第1话 自我肯定感爆棚↑↑超爱琴音之歌 第1话.csv	25	0006	亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-013_02	P卡 藤田ことね【自我肯定感爆棚↑↑超爱琴音之歌】/第2话 自我肯定感爆棚↑↑超爱琴音之歌 第2话.csv	24	0016,0017	亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-013_03	P卡 藤田ことね【自我肯定感爆棚↑↑超爱琴音之歌】/第3话 自我肯定感爆棚↑↑超爱琴音之歌 第3话.csv	22	0011,0012	亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-016_01	P卡 藤田ことね【全力以赴！】/第1话 全力以赴！ 第1话.csv	35		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-016_02	P卡 藤田ことね【全力以赴！】/第2话 全力以赴！ 第2话.csv	22		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-016_03	P卡 藤田ことね【全力以赴！】/第3话 全力以赴！ 第3话.csv	17		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-019_01	P卡 藤田ことね【GO MY WAY!!】/第1话 GO MY WAY!! 第1话.csv	24		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-019_02	P卡 藤田ことね【GO MY WAY!!】/第2话 GO MY WAY!! 第2话.csv	25		亲爱度（藤田ことね）·P卡
+own	adv_cidol-fktn-3-019_03	P卡 藤田ことね【GO MY WAY!!】/第3话 GO MY WAY!! 第3话.csv	27		亲爱度（藤田ことね）·P卡
+own	adv_pstory_001_fktn_after-audition-final-normal-01	藤田ことね 培育剧情 001/after-audition-final-normal-01 考试的结果是….csv	23		培育（藤田ことね）
+own	adv_pstory_001_fktn_after-audition-final-normal-02	藤田ことね 培育剧情 001/after-audition-final-normal-02 考试的结果是….csv	18		培育（藤田ことね）
+own	adv_pstory_001_fktn_after-audition-final-normal-03	藤田ことね 培育剧情 001/after-audition-final-normal-03 考试的结果是….csv	18		培育（藤田ことね）
+own	adv_pstory_001_fktn_after-audition-final-normal-04	藤田ことね 培育剧情 001/after-audition-final-normal-04 考试的结果是….csv	19		培育（藤田ことね）
+own	adv_pstory_001_fktn_after-audition-mid-normal-01	藤田ことね 培育剧情 001/after-audition-mid-normal-01 考试的结果是….csv	19		培育（藤田ことね）
+own	adv_pstory_001_fktn_after-audition-mid-normal-02	藤田ことね 培育剧情 001/after-audition-mid-normal-02 考试的结果是….csv	20		培育（藤田ことね）
+own	adv_pstory_001_fktn_after-audition-mid-normal-03	藤田ことね 培育剧情 001/after-audition-mid-normal-03 考试的结果是….csv	18		培育（藤田ことね）
+own	adv_pstory_001_fktn_after-audition-mid-normal-04	藤田ことね 培育剧情 001/after-audition-mid-normal-04 考试的结果是….csv	17		培育（藤田ことね）
+own	adv_pstory_001_fktn_after-step-1-normal-01	藤田ことね 培育剧情 001/after-step-1-normal-01 令人在意的样子.csv	16		培育（藤田ことね）
+own	adv_pstory_001_fktn_after-step-1-normal-02	藤田ことね 培育剧情 001/after-step-1-normal-02 令人在意的样子.csv	23		培育（藤田ことね）
+own	adv_pstory_001_fktn_after-step-1-normal-03	藤田ことね 培育剧情 001/after-step-1-normal-03 令人在意的样子.csv	15		培育（藤田ことね）
+own	adv_pstory_001_fktn_after-step-2-normal-01	藤田ことね 培育剧情 001/after-step-2-normal-01 令人在意的样子.csv	19		培育（藤田ことね）
+own	adv_pstory_001_fktn_after-step-2-normal-02	藤田ことね 培育剧情 001/after-step-2-normal-02 令人在意的样子.csv	21		培育（藤田ことね）
+own	adv_pstory_001_fktn_after-step-2-normal-03	藤田ことね 培育剧情 001/after-step-2-normal-03 令人在意的样子.csv	19		培育（藤田ことね）
+own	adv_pstory_001_fktn_before-audition-final-normal-01	藤田ことね 培育剧情 001/before-audition-final-normal-01 出发！ 迎接最终考试.csv	17		培育（藤田ことね）
+own	adv_pstory_001_fktn_before-audition-mid-normal-01	藤田ことね 培育剧情 001/before-audition-mid-normal-01 出发！参加期中考试.csv	26		培育（藤田ことね）
+own	adv_pstory_001_fktn_ending-normal-01	藤田ことね 培育剧情 001/ending-normal-01 【A End】用料理来表达感谢.csv	22		培育（藤田ことね）
+own	adv_pstory_001_fktn_ending-normal-02	藤田ことね 培育剧情 001/ending-normal-02 【B End】借了东西是要还的.csv	17		培育（藤田ことね）
+own	adv_pstory_001_fktn_ending-normal-03	藤田ことね 培育剧情 001/ending-normal-03 【C End】为了钱的话！.csv	14		培育（藤田ことね）
+own	adv_pstory_001_fktn_ending-normal-04	藤田ことね 培育剧情 001/ending-normal-04 【D End】将悔恨化为动力.csv	13		培育（藤田ことね）
+own	adv_pstory_001_fktn_ending-normal-05	藤田ことね 培育剧情 001/ending-normal-05 【E End】太阳照常升起.csv	16		培育（藤田ことね）
+own	adv_pstory_001_fktn_ending-true-01	藤田ことね 培育剧情 001/ending-true-01 True End.csv	34		培育（藤田ことね）
+own	adv_pstory_001_fktn_opening-normal-01	藤田ことね 培育剧情 001/opening-normal-01 培育开始！.csv	3		培育（藤田ことね）
+own	adv_pstory_001_fktn_opening-normal-02	藤田ことね 培育剧情 001/opening-normal-02 藤田琴音出发！.csv	3		培育（藤田ことね）
+own	adv_pstory_001_fktn_opening-normal-03	藤田ことね 培育剧情 001/opening-normal-03 藤田琴音出发！.csv	3		培育（藤田ことね）
+own	adv_pstory_001_fktn_opening-normal-04	藤田ことね 培育剧情 001/opening-normal-04 藤田琴音出发！.csv	4		培育（藤田ことね）
+own	adv_pstory_001_fktn_opening-normal-05	藤田ことね 培育剧情 001/opening-normal-05 藤田琴音出发！.csv	4		培育（藤田ことね）
+own	adv_pstory_001_fktn_opening-true-01	藤田ことね 培育剧情 001/opening-true-01 为了更接近梦想.csv	5		培育（藤田ことね）
+own	adv_pstory_001_fktn_opening-true-02	藤田ことね 培育剧情 001/opening-true-02 为了更接近梦想.csv	7		培育（藤田ことね）
+own	adv_pstory_002_fktn_after-audition-a-normal-02	藤田ことね 培育剧情 002/after-audition-a-normal-02 现在才刚要开始！.csv	11		培育（藤田ことね）
+own	adv_pstory_002_fktn_after-audition-a-normal-03	藤田ことね 培育剧情 002/after-audition-a-normal-03 现在才刚要开始.csv	13		培育（藤田ことね）
+own	adv_pstory_002_fktn_after-audition-b-normal-02	藤田ことね 培育剧情 002/after-audition-b-normal-02 更进一步！.csv	6		培育（藤田ことね）
+own	adv_pstory_002_fktn_after-audition-b-normal-03	藤田ことね 培育剧情 002/after-audition-b-normal-03 更进一步.csv	7		培育（藤田ことね）
+own	adv_pstory_002_fktn_after-audition-final-normal-01	藤田ことね 培育剧情 002/after-audition-final-normal-01 向更高峰！.csv	12		培育（藤田ことね）
+own	adv_pstory_002_fktn_before-audition-a-normal-01	藤田ことね 培育剧情 002/before-audition-a-normal-01 干劲十足吗？.csv	11		培育（藤田ことね）
+own	adv_pstory_002_fktn_before-audition-b-normal-01	藤田ことね 培育剧情 002/before-audition-b-normal-01 准备万全了吗？.csv	8		培育（藤田ことね）
+own	adv_pstory_002_fktn_ending-normal-02	藤田ことね 培育剧情 002/ending-normal-02 Normal End.csv	11		培育（藤田ことね）
+own	adv_pstory_002_fktn_opening-normal-02	藤田ことね 培育剧情 002/opening-normal-02 目标是称霸『N.I.A』！.csv	4		培育（藤田ことね）
+own	adv_pstory_003_fktn_final-normal-02	藤田ことね 培育剧情 003/final-normal-02 当天.csv	4		培育（藤田ことね）
+own	adv_pstory_003_fktn_selection-normal-02	藤田ことね 培育剧情 003/selection-normal-02 目标是，通过『选拔考试』！.csv	3		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_001	藤田ことね 培育事件 001 activity/001 话题素材.csv	9		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_002	藤田ことね 培育事件 001 activity/002 小孩子的玩耍场所.csv	13		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_003	藤田ことね 培育事件 001 activity/003 去哪儿呀？.csv	12		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_004	藤田ことね 培育事件 001 activity/004 现在，正在打工？.csv	13		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_005	藤田ことね 培育事件 001 activity/005 艺术之门.csv	13		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_006	藤田ことね 培育事件 001 activity/006 发卡.csv	12		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_007	藤田ことね 培育事件 001 activity/007 琴音的个性.csv	12		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_008	藤田ことね 培育事件 001 activity/008 奖牌是什么颜色？.csv	16		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_009	藤田ことね 培育事件 001 activity/009 意想不到的特长.csv	11		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_010	藤田ことね 培育事件 001 activity/010 肖像画.csv	15		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_011	藤田ことね 培育事件 001 activity/011 促销日.csv	12		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_012	藤田ことね 培育事件 001 activity/012 惯例的饮品.csv	12		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_013	藤田ことね 培育事件 001 activity/013 或许想试试当女仆.csv	12		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_014	藤田ことね 培育事件 001 activity/014 新发售的化妆品.csv	13		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_015	藤田ことね 培育事件 001 activity/015 尽管吩咐.csv	13		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_016	藤田ことね 培育事件 001 activity/016 给P的奖励.csv	15		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_017-01	藤田ことね 培育事件 001 activity/017-01 扭蛋挑战.csv	7		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_017-02	藤田ことね 培育事件 001 activity/017-02 扭蛋挑战.csv	12		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_018-01	藤田ことね 培育事件 001 activity/018-01 来合唱吧.csv	10		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_018-02	藤田ことね 培育事件 001 activity/018-02 来合唱吧.csv	11		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_019	藤田ことね 培育事件 001 activity/019 赚钱之道.csv	13		培育（藤田ことね）
+own	adv_pevent_001_fktn_activity_020	藤田ことね 培育事件 001 activity/020 喜欢哪种料理？.csv	12		培育（藤田ことね）
+own	adv_pevent_001_fktn_school_001	藤田ことね 培育事件 001 school/001 和琴音一起学习.csv	7		培育（藤田ことね）
+own	adv_pevent_001_fktn_school_002	藤田ことね 培育事件 001 school/002 疲惫的理由.csv	7		培育（藤田ことね）
+own	adv_pevent_001_fktn_school_003	藤田ことね 培育事件 001 school/003 琴音的才能.csv	10		培育（藤田ことね）
+own	adv_pevent_001_fktn_school_005	藤田ことね 培育事件 001 school/005 信长的草鞋.csv	8		培育（藤田ことね）
+own	adv_pevent_001_fktn_school_006	藤田ことね 培育事件 001 school/006 应援棒的颜色.csv	10		培育（藤田ことね）
+own	adv_pevent_001_fktn_school_008	藤田ことね 培育事件 001 school/008 兼职.csv	8		培育（藤田ことね）
+own	adv_pevent_001_fktn_school_009	藤田ことね 培育事件 001 school/009 睡眠质量.csv	8		培育（藤田ことね）
+own	adv_pevent_001_fktn_school_011	藤田ことね 培育事件 001 school/011 琴音的训练.csv	8		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_1-001-01	藤田ことね 培育事件 002 sales/1-001-01 街头宣传活动.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_1-001-02	藤田ことね 培育事件 002 sales/1-001-02 街头宣传活动.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_1-002-01	藤田ことね 培育事件 002 sales/1-002-01 咖啡馆活动PR.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_1-002-02	藤田ことね 培育事件 002 sales/1-002-02 咖啡馆活动PR.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_1-003-01	藤田ことね 培育事件 002 sales/1-003-01 采访者.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_1-003-02	藤田ことね 培育事件 002 sales/1-003-02 采访者.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_1-004-01	藤田ことね 培育事件 002 sales/1-004-01 英雄秀的主持人.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_1-004-02	藤田ことね 培育事件 002 sales/1-004-02 英雄秀的主持人.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_1-005-01	藤田ことね 培育事件 002 sales/1-005-01 试饮促销.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_1-005-02	藤田ことね 培育事件 002 sales/1-005-02 试饮促销.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_1-006-01	藤田ことね 培育事件 002 sales/1-006-01 密室逃脱PR.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_1-006-02	藤田ことね 培育事件 002 sales/1-006-02 密室逃脱PR.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_2-001-01	藤田ことね 培育事件 002 sales/2-001-01 清扫志愿者.csv	4		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_2-001-02	藤田ことね 培育事件 002 sales/2-001-02 清扫志愿者.csv	4		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_2-002-01	藤田ことね 培育事件 002 sales/2-002-01 商店街活动.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_2-002-02	藤田ことね 培育事件 002 sales/2-002-02 商店街活动.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_2-003-01	藤田ことね 培育事件 002 sales/2-003-01 天川观光大使.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_2-003-02	藤田ことね 培育事件 002 sales/2-003-02 天川观光大使.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_2-004-01	藤田ことね 培育事件 002 sales/2-004-01 广播的公开录制.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_2-004-02	藤田ことね 培育事件 002 sales/2-004-02 广播的公开录制.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_2-005-01	藤田ことね 培育事件 002 sales/2-005-01 小朋友的体操教室.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_2-005-02	藤田ことね 培育事件 002 sales/2-005-02 小朋友的体操教室.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_2-006-01	藤田ことね 培育事件 002 sales/2-006-01 天川礼仪小姐.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_2-006-02	藤田ことね 培育事件 002 sales/2-006-02 天川礼仪小姐.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_3-001-01	藤田ことね 培育事件 002 sales/3-001-01 森林浴场拍摄.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_3-001-02	藤田ことね 培育事件 002 sales/3-001-02 森林浴场拍摄.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_3-002-01	藤田ことね 培育事件 002 sales/3-002-01 SPA度假村PR.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_3-002-02	藤田ことね 培育事件 002 sales/3-002-02 SPA度假村PR.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_3-003-01	藤田ことね 培育事件 002 sales/3-003-01 录制水族馆导览.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_3-003-02	藤田ことね 培育事件 002 sales/3-003-02 录制水族馆导览.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_3-004-01	藤田ことね 培育事件 002 sales/3-004-01 瑜伽体验.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_3-004-02	藤田ことね 培育事件 002 sales/3-004-02 瑜伽体验.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_3-005-01	藤田ことね 培育事件 002 sales/3-005-01 温泉PR.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_3-005-02	藤田ことね 培育事件 002 sales/3-005-02 温泉PR.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_3-006-01	藤田ことね 培育事件 002 sales/3-006-01 露营场体验.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_3-006-02	藤田ことね 培育事件 002 sales/3-006-02 露营场体验.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_4-001-01	藤田ことね 培育事件 002 sales/4-001-01 迷你Live.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_4-001-02	藤田ことね 培育事件 002 sales/4-001-02 迷你Live.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_4-002-01	藤田ことね 培育事件 002 sales/4-002-01 脱口秀活动.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_4-002-02	藤田ことね 培育事件 002 sales/4-002-02 脱口秀活动.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_4-003-01	藤田ことね 培育事件 002 sales/4-003-01 握手会.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_4-003-02	藤田ことね 培育事件 002 sales/4-003-02 握手会.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_4-004-01	藤田ことね 培育事件 002 sales/4-004-01 电影上映活动.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_4-004-02	藤田ことね 培育事件 002 sales/4-004-02 电影上映活动.csv	6		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_4-005-01	藤田ことね 培育事件 002 sales/4-005-01 游戏体验.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_4-005-02	藤田ことね 培育事件 002 sales/4-005-02 游戏体验.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_4-006-01	藤田ことね 培育事件 002 sales/4-006-01 签名会.csv	5		培育（藤田ことね）
+own	adv_pevent_002_fktn_sales_4-006-02	藤田ことね 培育事件 002 sales/4-006-02 签名会.csv	5		培育（藤田ことね）
+own	adv_pevent_003_fktn_activity_021	藤田ことね 培育事件 003 activity/021 自由搭配的饮品.csv	15		培育（藤田ことね）
+own	adv_pevent_003_fktn_activity_022	藤田ことね 培育事件 003 activity/022 水族馆约会？.csv	13		培育（藤田ことね）
+own	adv_pgrowth_001_fktn_01	藤田ことね 成长剧情 001/01 生活改善.csv	1		培育（藤田ことね）
+own	adv_pgrowth_001_fktn_02	藤田ことね 成长剧情 001/02 才气焕发.csv	2		培育（藤田ことね）
+own	adv_pgrowth_001_fktn_03	藤田ことね 成长剧情 001/03 相信的力量.csv	2		培育（藤田ことね）
+other	adv_unit_01-01_03	主线 第1部 1章 欢迎来到初星学园/1章3话.csv	2	0060,0061	主线
+other	adv_unit_01-01_04	主线 第1部 1章 欢迎来到初星学园/1章4话.csv	24		主线
+other	adv_unit_01-01_05	主线 第1部 1章 欢迎来到初星学园/1章5话.csv	43		主线
+other	adv_unit_01-01_06	主线 第1部 1章 欢迎来到初星学园/1章6话.csv	27		主线
+other	adv_unit_01-01_07	主线 第1部 1章 欢迎来到初星学园/1章7话.csv	41		主线
+other	adv_unit_01-01_08	主线 第1部 1章 欢迎来到初星学园/1章8话.csv	27		主线
+other	adv_unit_01-01_09	主线 第1部 1章 欢迎来到初星学园/1章9话.csv	29		主线
+other	adv_unit_01-01_10	主线 第1部 1章 欢迎来到初星学园/1章10话.csv	18		主线
+other	adv_unit_01-01_13	主线 第1部 1章 欢迎来到初星学园/1章13话.csv	38		主线
+other	adv_unit_01-01_14	主线 第1部 1章 欢迎来到初星学园/1章14话.csv	22		主线
+other	adv_unit_01-02_01	主线 第1部 2章 偶像们的共同生活/2章1话.csv	10		主线
+other	adv_unit_01-02_02	主线 第1部 2章 偶像们的共同生活/2章2话.csv	20		主线
+other	adv_unit_01-02_03	主线 第1部 2章 偶像们的共同生活/2章3话.csv	27		主线
+other	adv_unit_01-02_04	主线 第1部 2章 偶像们的共同生活/2章4话.csv	27		主线
+other	adv_unit_01-02_05	主线 第1部 2章 偶像们的共同生活/2章5话.csv	45		主线
+other	adv_unit_01-02_06	主线 第1部 2章 偶像们的共同生活/2章6话.csv	29		主线
+other	adv_unit_01-02_07	主线 第1部 2章 偶像们的共同生活/2章7话.csv	41		主线
+other	adv_unit_01-02_08	主线 第1部 2章 偶像们的共同生活/2章8话.csv	13		主线
+other	adv_unit_01-02_09	主线 第1部 2章 偶像们的共同生活/2章9话.csv	33		主线
+other	adv_unit_01-02_10	主线 第1部 2章 偶像们的共同生活/2章10话.csv	13		主线
+other	adv_unit_01-02_11	主线 第1部 2章 偶像们的共同生活/2章11话.csv	15		主线
+other	adv_unit_01-02_12	主线 第1部 2章 偶像们的共同生活/2章12话.csv	17		主线
+other	adv_unit_01-02_13	主线 第1部 2章 偶像们的共同生活/2章13话.csv	39		主线
+other	adv_unit_01-02_14	主线 第1部 2章 偶像们的共同生活/2章14话.csv	9		主线
+other	adv_unit_01-02_15	主线 第1部 2章 偶像们的共同生活/2章15话.csv	20		主线
+other	adv_unit_01-03_01	主线 第1部 3章 我们是Re;IRIS/3章1话.csv	18		主线
+other	adv_unit_01-03_06	主线 第1部 3章 我们是Re;IRIS/3章6话.csv	11		主线
+other	adv_unit_01-03_07	主线 第1部 3章 我们是Re;IRIS/3章7话.csv	10		主线
+other	adv_unit_01-03_08	主线 第1部 3章 我们是Re;IRIS/3章8话.csv	8		主线
+other	adv_unit_01-03_09	主线 第1部 3章 我们是Re;IRIS/3章9话.csv	21		主线
+other	adv_unit_01-03_10	主线 第1部 3章 我们是Re;IRIS/3章10话.csv	21		主线
+other	adv_unit_01-03_11	主线 第1部 3章 我们是Re;IRIS/3章11话.csv	19		主线
+other	adv_unit_01-03_12	主线 第1部 3章 我们是Re;IRIS/3章12话.csv	11		主线
+other	adv_unit_01-04_01	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章1话.csv	22		主线
+other	adv_unit_01-04_04	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章4话.csv	28		主线
+other	adv_unit_01-04_05	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章5话.csv	16		主线
+other	adv_unit_01-04_07	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章7话.csv	4		主线
+other	adv_unit_01-04_09	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章9话.csv	16		主线
+other	adv_unit_01-04_10	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章10话.csv	22		主线
+other	adv_unit_01-04_11	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章11话.csv	5		主线
+other	adv_unit_01-04_12	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章12话.csv	7		主线
+other	adv_unit_01-04_13	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章13话.csv	22		主线
+other	adv_unit_01-04_15	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章15话.csv	35		主线
+other	adv_unit_01-04_17	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章17话.csv	20		主线
+other	adv_unit_01-04_18	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章18话.csv	6		主线
+other	adv_unit_01-04_20	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章20话.csv	10		主线
+other	adv_unit_01-04_22	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章22话.csv	19		主线
+other	adv_unit_01-04_24	主线 第1部 4章 Hatsuboshi IDOL FESTIVAL/4章24话.csv	14		主线
+other	adv_event_001_main-01	活动 001 1年级1班的偶像们/main-01 第1话.csv	4		活动 001
+other	adv_event_001_main-02	活动 001 1年级1班的偶像们/main-02 第2话.csv	2		活动 001
+other	adv_event_001_main-04	活动 001 1年级1班的偶像们/main-04 第4话.csv	19		活动 001
+other	adv_event_001_main-05	活动 001 1年级1班的偶像们/main-05 第5话.csv	13		活动 001
+other	adv_event_003_main-01	活动 003 1年级2班的偶像们/main-01 第1话.csv	10		活动 003
+other	adv_event_004_main-01	活动 004 学生会的偶像们/main-01 夏夜FACE OFF 第1话.csv	10		活动 004
+other	adv_event_004_main-02	活动 004 学生会的偶像们/main-02 夏夜FACE OFF 第2话.csv	26		活动 004
+other	adv_event_004_main-03	活动 004 学生会的偶像们/main-03 夏夜FACE OFF 第3话.csv	22		活动 004
+other	adv_event_004_main-04	活动 004 学生会的偶像们/main-04 夏夜FACE OFF 第4话.csv	26		活动 004
+other	adv_event_004_main-05	活动 004 学生会的偶像们/main-05 夏夜FACE OFF 第5话.csv	13		活动 004
+other	adv_event_005_main-04	活动 005/main-04 第4话.csv	1		活动 005
+other	adv_event_008_main-01	活动 008 3年级1班的日常/main-01 #Animate气氛活跃队 第1话.csv	20		活动 008
+other	adv_event_008_main-02	活动 008 3年级1班的日常/main-02 #Animate气氛活跃队 第2话.csv	19		活动 008
+other	adv_event_008_main-03	活动 008 3年级1班的日常/main-03 #Animate气氛活跃队 第3话.csv	17		活动 008
+other	adv_event_008_main-04	活动 008 3年级1班的日常/main-04 #Animate气氛活跃队 第4话.csv	31		活动 008
+other	adv_event_008_main-05	活动 008 3年级1班的日常/main-05 #Animate气氛活跃队 第5话.csv	26		活动 008
+other	adv_event_009_main-01	活动 009 莉莉娅与清夏的日常/main-01 蛋糕系起的友情圣诞节 第1话.csv	33		活动 009
+other	adv_event_009_main-02	活动 009 莉莉娅与清夏的日常/main-02 蛋糕系起的友情圣诞节 第2话.csv	17		活动 009
+other	adv_event_009_main-03	活动 009 莉莉娅与清夏的日常/main-03 蛋糕系起的友情圣诞节 第3话.csv	28		活动 009
+other	adv_event_009_main-04	活动 009 莉莉娅与清夏的日常/main-04 蛋糕系起的友情圣诞节 第4话.csv	28		活动 009
+other	adv_event_009_main-05	活动 009 莉莉娅与清夏的日常/main-05 蛋糕系起的友情圣诞节 第5话.csv	27		活动 009
+other	adv_event_010_main-05	活动 010 星南与燕的日常/main-05 情人节协奏曲 第5话.csv	3		活动 010
+other	adv_event_012_main-02	活动 012 手毬与广的日常/main-02 樱花飞舞的起跑线 第2话.csv	3		活动 012
+other	adv_event_012_main-03	活动 012 手毬与广的日常/main-03 樱花飞舞的起跑线 第3话.csv	1		活动 012
+other	adv_event_014_main-05	活动 014 学生会1年级的日常/main-05 第5话.csv	1		活动 014
+other	adv_event_016_main-01	活动 016/main-01 第1话.csv	12		活动 016
+other	adv_event_016_main-02	活动 016/main-02 第2话.csv	29		活动 016
+other	adv_event_016_main-03	活动 016/main-03 第3话.csv	4		活动 016
+other	adv_event_016_main-04	活动 016/main-04 第4话.csv	23		活动 016
+other	adv_event_016_main-05	活动 016/main-05 第5话.csv	15		活动 016
+other	adv_event_017_main-03	活动 017/main-03 第3话.csv	9		活动 017
+other	adv_event_019_main-01	活动 019/main-01 巡演活动 名古屋篇 第1话.csv	6		活动 019
+other	adv_event_019_main-02	活动 019/main-02 巡演活动 名古屋篇 第2话.csv	12		活动 019
+other	adv_event_019_main-03	活动 019/main-03 巡演活动 名古屋篇 第3话.csv	23		活动 019
+other	adv_event_019_main-04	活动 019/main-04 巡演活动 名古屋篇 第4话.csv	22		活动 019
+other	adv_event_019_main-05	活动 019/main-05 巡演活动 名古屋篇 第5话.csv	19		活动 019
+other	adv_event_022_main-01	活动 022/main-01 第1话.csv	28		活动 022
+other	adv_event_022_main-02	活动 022/main-02 第2话.csv	38		活动 022
+other	adv_event_022_main-03	活动 022/main-03 第3话.csv	28		活动 022
+other	adv_event_022_main-04	活动 022/main-04 第4话.csv	39		活动 022
+other	adv_event_022_main-05	活动 022/main-05 第5话.csv	31		活动 022
+other	adv_event_026_main-01	活动 026/main-01 ライブツアーイベント特別編 GO MY WAY!! 第1话.csv	16		活动 026
+other	adv_event_026_main-02	活动 026/main-02 ライブツアーイベント特別編 GO MY WAY!! 第2话.csv	19		活动 026
+other	adv_event_026_main-03	活动 026/main-03 ライブツアーイベント特別編 GO MY WAY!! 第3话.csv	10		活动 026
+other	adv_event_026_main-04	活动 026/main-04 ライブツアーイベント特別編 GO MY WAY!! 第4话.csv	11	0018	活动 026
+other	adv_event_026_main-05	活动 026/main-05 ライブツアーイベント特別編 GO MY WAY!! 第5话.csv	19		活动 026
+other	adv_event_028_main-01	活动 028/main-01 第1话.csv	8		活动 028
+other	adv_event_029_main-02	活动 029/main-02 来吧！迎接试镜.csv	4		活动 029
+other	adv_event_029_main-04	活动 029/main-04 True End.csv	2		活动 029
+other	adv_cidol-amao-3-001_03	P卡 有村麻央【与你共度的湛蓝夏日】/第3话 与你共度的湛蓝夏日 第3话.csv	2		亲爱度（有村麻央）·P卡
+other	adv_cidol-amao-3-007_02	P卡 有村麻央【Campus mode!!】/第2话 Campus mode!! 第2话.csv	19		亲爱度（有村麻央）·P卡
+other	adv_cidol-amao-3-009_03	P卡 有村麻央【雪融之时】/第3话 雪融之时 第3话.csv	14		亲爱度（有村麻央）·P卡
+other	adv_cidol-hrnm-3-012_02	P卡 姫崎莉波【Howling over the World】/第2话 Howling over the World 第2话.csv	2		亲爱度（姫崎莉波）·P卡
+other	adv_cidol-hski-3-012_02	P卡 花海咲季【雨后的鸢尾花】/第2话 雨后的鸢尾花 第2话.csv	13		亲爱度（花海咲季）·P卡
+other	adv_cidol-hski-3-015_03	P卡 花海咲季【全力以赴！】/第3话 全力以赴！ 第3话.csv	16		亲爱度（花海咲季）·P卡
+other	adv_cidol-jsna-3-006_02	P卡 十王星南【Our Chant】/第2话 Our Chant 第2话.csv	0	0003	亲爱度（十王星南）·P卡
+other	adv_cidol-jsna-3-015_03	P卡 十王星南【赤裸裸】/第3话 赤裸裸 第3话.csv	4		亲爱度（十王星南）·P卡
+other	adv_cidol-ssmk-3-018_01	P卡 紫雲清夏【标】/第1话 标 第1话.csv	2		亲爱度（紫雲清夏）·P卡
+other	adv_cidol-ttmr-3-000_01	P卡 月村手毬【Luna say maybe】/第1话 Luna say maybe 第1话.csv	9		亲爱度（月村手毬）·P卡
+other	adv_cidol-ttmr-3-000_02	P卡 月村手毬【Luna say maybe】/第2话 Luna say maybe 第2话.csv	8		亲爱度（月村手毬）·P卡
+other	adv_cidol-ttmr-3-002_01	P卡 月村手毬【变装狂想曲】/第1话 变装狂想曲 第1话.csv	1	0018	亲爱度（月村手毬）·P卡
+other	adv_dear_amao_002	有村麻央 亲爱度剧情/第2话.csv	7		亲爱度（有村麻央）
+other	adv_dear_amao_006	有村麻央 亲爱度剧情/第6话.csv	21		亲爱度（有村麻央）
+other	adv_dear_amao_012	有村麻央 亲爱度剧情/第12话.csv	23		亲爱度（有村麻央）
+other	adv_dear_amao_021	有村麻央 亲爱度剧情/第21话.csv	3		亲爱度（有村麻央）
+other	adv_dear_amao_022	有村麻央 亲爱度剧情/第22话.csv	5		亲爱度（有村麻央）
+other	adv_dear_amao_027	有村麻央 亲爱度剧情/第27话.csv	2		亲爱度（有村麻央）
+other	adv_dear_amao_032	有村麻央 亲爱度剧情/第32话.csv	19		亲爱度（有村麻央）
+other	adv_dear_atbm_021	雨夜燕 亲爱度剧情/第21话.csv	1		亲爱度（雨夜燕）
+other	adv_dear_atbm_022	雨夜燕 亲爱度剧情/第22话.csv	21		亲爱度（雨夜燕）
+other	adv_dear_atbm_023	雨夜燕 亲爱度剧情/第23话.csv	18		亲爱度（雨夜燕）
+other	adv_dear_atbm_024	雨夜燕 亲爱度剧情/第24话.csv	3		亲爱度（雨夜燕）
+other	adv_dear_atbm_026	雨夜燕 亲爱度剧情/第26话.csv	7		亲爱度（雨夜燕）
+other	adv_dear_atbm_033	雨夜燕 亲爱度剧情/第33话.csv	24		亲爱度（雨夜燕）
+other	adv_dear_hmsz_007	秦谷美鈴 亲爱度剧情/第7话.csv	2		亲爱度（秦谷美鈴）
+other	adv_dear_hrnm_005	姫崎莉波 亲爱度剧情/第5话.csv	19		亲爱度（姫崎莉波）
+other	adv_dear_hrnm_033	姫崎莉波 亲爱度剧情/第33话.csv	8		亲爱度（姫崎莉波）
+other	adv_dear_jsna_003	十王星南 亲爱度剧情/第3话.csv	7		亲爱度（十王星南）
+other	adv_dear_jsna_004	十王星南 亲爱度剧情/第4话.csv	33		亲爱度（十王星南）
+other	adv_dear_jsna_013	十王星南 亲爱度剧情/第13话.csv	25		亲爱度（十王星南）
+other	adv_dear_jsna_014	十王星南 亲爱度剧情/第14话.csv	9		亲爱度（十王星南）
+other	adv_dear_jsna_015	十王星南 亲爱度剧情/第15话.csv	9		亲爱度（十王星南）
+other	adv_dear_jsna_016	十王星南 亲爱度剧情/第16话.csv	35		亲爱度（十王星南）
+other	adv_dear_jsna_018	十王星南 亲爱度剧情/第18话.csv	24		亲爱度（十王星南）
+other	adv_dear_jsna_019	十王星南 亲爱度剧情/第19话.csv	6		亲爱度（十王星南）
+other	adv_dear_jsna_023	十王星南 亲爱度剧情/第23话.csv	32		亲爱度（十王星南）
+other	adv_dear_jsna_024	十王星南 亲爱度剧情/第24话.csv	21		亲爱度（十王星南）
+other	adv_dear_jsna_027	十王星南 亲爱度剧情/第27话.csv	34		亲爱度（十王星南）
+other	adv_dear_jsna_030	十王星南 亲爱度剧情/第30话.csv	14		亲爱度（十王星南）
+other	adv_dear_jsna_031	十王星南 亲爱度剧情/第31话.csv	4		亲爱度（十王星南）
+other	adv_dear_jsna_032	十王星南 亲爱度剧情/第32话.csv	19		亲爱度（十王星南）
+other	adv_dear_jsna_035	十王星南 亲爱度剧情/第35话.csv	10		亲爱度（十王星南）
+other	adv_dear_jsna_036	十王星南 亲爱度剧情/第36话.csv	18		亲爱度（十王星南）
+other	adv_dear_jsna_037	十王星南 亲爱度剧情/第37话.csv	1		亲爱度（十王星南）
+other	adv_dear_ttmr_013	月村手毬 亲爱度剧情/第13话.csv	9		亲爱度（月村手毬）
+other	adv_dear_ttmr_035	月村手毬 亲爱度剧情/第35话.csv	2		亲爱度（月村手毬）
+other	adv_csprt-1-0002_01	S卡 1-0002【枝毛をくるり】/第1话 注入活力的好方法.csv	11		S卡
+other	adv_csprt-1-0002_02	S卡 1-0002【枝毛をくるり】/第2话 捉迷藏.csv	9		S卡
+other	adv_csprt-1-0003_02	S卡 1-0003【王子様のひと呼吸】/第2话 街头追逐.csv	13		S卡
+other	adv_csprt-1-0006_01	S卡 1-0006【ひたむき居残りレッスン】/第1话 绕口令训练.csv	7		S卡
+other	adv_csprt-1-0007_02	S卡 1-0007【スイッチON！】/第2话 提起干劲的方法.csv	8		S卡
+other	adv_csprt-2-0001_01	S卡 2-0001【今はあえて、背を向けて】/第1话 感性的回忆.csv	9		S卡
+other	adv_csprt-2-0002_01	S卡 2-0002【のらりくらりしっかり】/第1话 即使着急也要脚踏实地.csv	6		S卡
+other	adv_csprt-2-0002_02	S卡 2-0002【のらりくらりしっかり】/第2话 食堂菜单的设计思路.csv	12		S卡
+other	adv_csprt-2-0011_01	S卡 2-0011【思惑とガクガク】/第1话 琴音的情况.csv	11		S卡
+other	adv_csprt-2-0011_02	S卡 2-0011【思惑とガクガク】/第2话 制作人星南.csv	8		S卡
+other	adv_csprt-2-0015_01	S卡 2-0015【イヤホンはんぶんこ】/第1话 迅速拉近的距离.csv	9		S卡
+other	adv_csprt-2-0015_02	S卡 2-0015【イヤホンはんぶんこ】/第2话 卡路里平分.csv	7		S卡
+other	adv_csprt-2-0016_01	S卡 2-0016【どりゃぎゃ】/第1话 突如其来的惊喜.csv	8		S卡
+other	adv_csprt-2-0016_02	S卡 2-0016【どりゃぎゃ】/第2话 自主训练后继续自主训练.csv	10		S卡
+other	adv_csprt-2-0025_01	S卡 2-0025【ふわふわなお面？】/第1话 意外的一面.csv	12		S卡
+other	adv_csprt-2-0025_02	S卡 2-0025【ふわふわなお面？】/第2话 即使受欢迎.csv	7		S卡
+other	adv_csprt-2-0027_02	S卡 2-0027【ブレイクタイムは珈琲で】/第2话 学生会长激烈的一面.csv	5		S卡
+other	adv_csprt-2-0028_01	S卡 2-0028【りっぱなすすき！】/第1话 芒草礼物.csv	11		S卡
+other	adv_csprt-2-0028_02	S卡 2-0028【りっぱなすすき！】/第2话 不愧是姐姐！.csv	5		S卡
+other	adv_csprt-2-0036_01	S卡 2-0036【きゅる〜んωポーズッ☆】/第1话 印象深刻的笑容.csv	10		S卡
+other	adv_csprt-2-0036_02	S卡 2-0036【きゅる〜んωポーズッ☆】/第2话 可爱的亲友.csv	6		S卡
+other	adv_csprt-2-0038_01	S卡 2-0038【目指すはテッペン】/第1话 对学生温柔的教练.csv	10		S卡
+other	adv_csprt-2-0038_02	S卡 2-0038【目指すはテッペン】/第2话 不愧是教练！.csv	10		S卡
+other	adv_csprt-2-0042_01	S卡 2-0042【まごころを込めて】/第1话 完美再现的可爱感.csv	2		S卡
+other	adv_csprt-2-0048_01	S卡 2-0048【ガールズ♡トーク】/第1话 让我们变可爱吧！.csv	10		S卡
+other	adv_csprt-2-0048_02	S卡 2-0048【ガールズ♡トーク】/第2话 得意地咔嚓一拍♪.csv	9		S卡
+other	adv_csprt-2-0050_01	S卡 2-0050【2名様、ご案内～♪】/第1话 卡路里管理必不可少.csv	10		S卡
+other	adv_csprt-2-0050_02	S卡 2-0050【2名様、ご案内～♪】/第2话 价格对比必不可少.csv	12		S卡
+other	adv_csprt-2-0058_01	S卡 2-0058【ちべたなひととき】/第1话 只限现在，妹妹♡.csv	10		S卡
+other	adv_csprt-2-0058_02	S卡 2-0058【ちべたなひととき】/第2话 学姐是理想的女生.csv	10		S卡
+other	adv_csprt-2-0062_01	S卡 2-0062【はっぴぃはろうぃ～～ん！】/第1话 选服装的恐怖体验.csv	9		S卡
+other	adv_csprt-2-0062_02	S卡 2-0062【はっぴぃはろうぃ～～ん！】/第2话 礼物是又苦又甜的果冻.csv	9		S卡
+other	adv_csprt-2-0070_01	S卡 2-0070【洗濯物のバランスタワー】/第1话 哼哼哼！.csv	9		S卡
+other	adv_csprt-2-0070_02	S卡 2-0070【洗濯物のバランスタワー】/第2话 告诉我吧！淑女的修养.csv	9		S卡
+other	adv_csprt-2-0076_01	S卡 2-0076【ゆるるんあくび顔】/第1话 要不要投资一下自己？.csv	11		S卡
+other	adv_csprt-2-0076_02	S卡 2-0076【ゆるるんあくび顔】/第2话 小测验前大恐慌！？.csv	12		S卡
+other	adv_csprt-2-0079_01	S卡 2-0079【奇遇な必然】/第1话 粉丝们的相遇？.csv	7		S卡
+other	adv_csprt-2-0079_02	S卡 2-0079【奇遇な必然】/第2话 既爱操心又温柔的前辈.csv	11		S卡
+other	adv_csprt-2-0082_02	S卡 2-0082【ふたりで衣装作り】/第2话 万圣节快乐！.csv	2		S卡
+other	adv_csprt-3-0000_01	S卡 3-0000【あなたにも作ってあげる！】/第1话 『朋友』午餐.csv	5		S卡
+other	adv_csprt-3-0000_02	S卡 3-0000【あなたにも作ってあげる！】/第2话 午餐的邀请.csv	4		S卡
+other	adv_csprt-3-0000_03	S卡 3-0000【あなたにも作ってあげる！】/第3话 如果我们组个组合的话.csv	5		S卡
+other	adv_csprt-3-0001_02	S卡 3-0001【何やってるんだろう、】/第2话 手毬的友情状况.csv	6		S卡
+other	adv_csprt-3-0002_01	S卡 3-0002【こいつらめんどくさー】/第1话 愤怒的理由——手毬篇——.csv	7		S卡
+other	adv_csprt-3-0002_02	S卡 3-0002【こいつらめんどくさー】/第2话 吵架的理由是.csv	5		S卡
+other	adv_csprt-3-0002_03	S卡 3-0002【こいつらめんどくさー】/第3话 笨拙的温柔.csv	12		S卡
+other	adv_csprt-3-0013_01	S卡 3-0013【あら、奇遇ね】/第1话 真巧啊.csv	9		S卡
+other	adv_csprt-3-0013_02	S卡 3-0013【あら、奇遇ね】/第2话 招募要有耐心.csv	6		S卡
+other	adv_csprt-3-0013_03	S卡 3-0013【あら、奇遇ね】/第3话 传闻的真相.csv	10		S卡
+other	adv_csprt-3-0014_01	S卡 3-0014【まじか。】/第1话 虽然「一直」都尊敬你的.csv	12		S卡
+other	adv_csprt-3-0014_02	S卡 3-0014【まじか。】/第2话 压力十足的劝说.csv	7		S卡
+other	adv_csprt-3-0014_03	S卡 3-0014【まじか。】/第3话 主动来搭理我的人.csv	15		S卡
+other	adv_csprt-3-0018_01	S卡 3-0018【第2回教室パーティー！】/第1话 第二次教室派对.csv	3		S卡
+other	adv_csprt-3-0018_02	S卡 3-0018【第2回教室パーティー！】/第2话 意志力，√.csv	1		S卡
+other	adv_csprt-3-0018_03	S卡 3-0018【第2回教室パーティー！】/第3话 不甘心的早餐.csv	3		S卡
+other	adv_csprt-3-0022_01	S卡 3-0022【晴れたね】/第1话 完美主义与打扫高手.csv	10		S卡
+other	adv_csprt-3-0022_02	S卡 3-0022【晴れたね】/第2话 沾着水珠的小王子.csv	9		S卡
+other	adv_csprt-3-0022_03	S卡 3-0022【晴れたね】/第3话 这也是、舍长的职责.csv	8		S卡
+other	adv_csprt-3-0024_01	S卡 3-0024【「ア」じゃなくて「エ」！】/第1话 能互相帮忙的同伴？.csv	8		S卡
+other	adv_csprt-3-0024_02	S卡 3-0024【「ア」じゃなくて「エ」！】/第2话 靠得住的前辈？.csv	11		S卡
+other	adv_csprt-3-0024_03	S卡 3-0024【「ア」じゃなくて「エ」！】/第3话 关心后辈的前辈！.csv	8		S卡
+other	adv_csprt-3-0029_01	S卡 3-0029【夏を満喫するわよ！】/第1话 自豪的回礼.csv	9		S卡
+other	adv_csprt-3-0029_02	S卡 3-0029【夏を満喫するわよ！】/第2话 尽情享受！玩水时间.csv	4		S卡
+other	adv_csprt-3-0029_03	S卡 3-0029【夏を満喫するわよ！】/第3话 炫耀好感情.csv	6		S卡
+other	adv_csprt-3-0033_03	S卡 3-0033【仲直りしましょう】/第3话 体重管理的秘密.csv	1		S卡
+other	adv_csprt-3-0039_01	S卡 3-0039【ぜったい追いついてやる！】/第1话 惊人的圈速.csv	11		S卡
+other	adv_csprt-3-0039_02	S卡 3-0039【ぜったい追いついてやる！】/第2话 『启明星』的步调.csv	12		S卡
+other	adv_csprt-3-0039_03	S卡 3-0039【ぜったい追いついてやる！】/第3话 想追上的背影.csv	11		S卡
+other	adv_csprt-3-0044_01	S卡 3-0044【もう一度、最初から！】/第1话 所需的是「觉悟」.csv	3		S卡
+other	adv_csprt-3-0044_03	S卡 3-0044【もう一度、最初から！】/第3话 我才是C位！.csv	5		S卡
+other	adv_csprt-3-0057_01	S卡 3-0057【利用し合うのが友達！】/第1话 一流的偶像支援者.csv	6		S卡
+other	adv_csprt-3-0057_02	S卡 3-0057【利用し合うのが友達！】/第2话 这样也算朋友吧.csv	4		S卡
+other	adv_csprt-3-0057_03	S卡 3-0057【利用し合うのが友達！】/第3话 才不要组成组合！.csv	6		S卡
+other	adv_csprt-3-0059_01	S卡 3-0059【すっかり仲良しって感じ♪】/第1话 关系超好的同班同学.csv	5		S卡
+other	adv_csprt-3-0059_02	S卡 3-0059【すっかり仲良しって感じ♪】/第2话 请品尝曲奇！.csv	5		S卡
+other	adv_csprt-3-0065_01	S卡 3-0065【どんな関係なんですか？】/第1话 我爱的只是钱♪.csv	10		S卡
+other	adv_csprt-3-0065_02	S卡 3-0065【どんな関係なんですか？】/第2话 亲切的解决方案.csv	10		S卡
+other	adv_csprt-3-0065_03	S卡 3-0065【どんな関係なんですか？】/第3话 复杂的关系？.csv	12		S卡
+other	adv_csprt-3-0068_01	S卡 3-0068【お母さんか！】/第1话 妈妈一样的叮嘱！.csv	6		S卡
+other	adv_csprt-3-0068_02	S卡 3-0068【お母さんか！】/第2话 ＞△＜.csv	7		S卡
+other	adv_csprt-3-0068_03	S卡 3-0068【お母さんか！】/第3话 妹妹的惊喜.csv	2		S卡
+other	adv_csprt-3-0070_01	S卡 3-0070【おい、来てやったぞ！】/第1话 出乎意料的到店！？.csv	10		S卡
+other	adv_csprt-3-0070_02	S卡 3-0070【おい、来てやったぞ！】/第2话 担心的副会长.csv	10		S卡
+other	adv_csprt-3-0070_03	S卡 3-0070【おい、来てやったぞ！】/第3话 关心的副会长.csv	11		S卡
+other	adv_csprt-3-0075_01	S卡 3-0075【これは――お城ッ！！】/第1话 心意交融的茶会.csv	10		S卡
+other	adv_csprt-3-0075_02	S卡 3-0075【これは――お城ッ！！】/第2话 欢迎来到仓本家♪.csv	8		S卡
+other	adv_csprt-3-0075_03	S卡 3-0075【これは――お城ッ！！】/第3话 不会无聊的学园.csv	4		S卡
+other	adv_csprt-3-0087_01	S卡 3-0087【オシャレもメイクも♪】/第1话 换装要帅气可爱.csv	6		S卡
+other	adv_csprt-3-0087_02	S卡 3-0087【オシャレもメイクも♪】/第2话 章鱼烧小王子？.csv	3		S卡
+other	adv_csprt-3-0087_03	S卡 3-0087【オシャレもメイクも♪】/第3话 为了回报所受的恩情.csv	5		S卡
+other	adv_csprt-3-0098_01	S卡 3-0098【大運動会、開催っ！】/第1话 心动的便当时间.csv	12		S卡
+other	adv_csprt-3-0102_01	S卡 3-0102【おでん、通りま～すッ！】/第1话 学习要从『锅』开始！.csv	4		S卡
+other	adv_csprt-3-0102_02	S卡 3-0102【おでん、通りま～すッ！】/第2话 该认真面对的是关东煮？.csv	6		S卡
+other	adv_csprt-3-0102_03	S卡 3-0102【おでん、通りま～すッ！】/第3话 融为一体的感觉，与羁绊相伴.csv	4		S卡
+other	adv_csprt-3-0113_01	S卡 3-0113【デ、デートのお誘い！？】/第1话 今天就是纪念日了！.csv	9		S卡
+other	adv_csprt-3-0113_02	S卡 3-0113【デ、デートのお誘い！？】/第2话 温柔的支持鼓励.csv	12		S卡
+other	adv_csprt-3-0113_03	S卡 3-0113【デ、デートのお誘い！？】/第3话 以我的方式报恩.csv	8		S卡
+other	adv_live_fktn_001_end-01-01	其他 live/fktn_001_end-01-01.csv	1		其他
+other	adv_live_fktn_001_end-02-01	其他 live/fktn_001_end-02-01.csv	2		其他
+other	adv_live_fktn_001_end-03-01	其他 live/fktn_001_end-03-01.csv	1		其他
+other	adv_live_fktn_001_end-04-01	其他 live/fktn_001_end-04-01.csv	3		其他
+other	adv_live_fktn_001_end-04-02	其他 live/fktn_001_end-04-02.csv	3		其他
+other	adv_live_fktn_001_start-01-01	其他 live/fktn_001_start-01-01.csv	1		其他
+other	adv_live_fktn_001_start-02-01	其他 live/fktn_001_start-02-01.csv	2		其他
+other	adv_live_fktn_001_start-03-01	其他 live/fktn_001_start-03-01.csv	1		其他
+other	adv_live_fktn_001_start-04-01	其他 live/fktn_001_start-04-01.csv	2		其他
+other	adv_startup_2024_user-bd-01_fktn-01	其他 startup/2024_user-bd-01_fktn-01 制作人生日.csv	5		其他
+other	adv_startup_2025_bd-01_fktn-01	其他 startup/2025_bd-01_fktn-01 藤田琴音生日.csv	4		其他
+other	adv_tutorial_first_fktn-01	其他 tutorial/first_fktn-01.csv	2		其他
+other	adv_tutorial_first_fktn-02	其他 tutorial/first_fktn-02.csv	2		其他

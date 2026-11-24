@@ -1,0 +1,78 @@
+# 读音（GLOSSARY.md「读音」）：角色名在角色的声音里怎么念。写法见 eidolon-sc 的 characters/readings.toml。
+# phonemes 空着：配好音色以后，在后端容器里运行 `eidolon reading draft` 补上音素。
+
+
+[[readings]]
+written = "月村手毬"
+kana = "つきむら てまり"
+phonemes = ""
+
+[[readings]]
+written = "花海咲季"
+kana = "はなみ さき"
+phonemes = ""
+
+[[readings]]
+written = "藤田ことね"
+kana = "ふじた ことね"
+phonemes = ""
+
+[[readings]]
+written = "有村麻央"
+kana = "ありむら まお"
+phonemes = ""
+
+[[readings]]
+written = "葛城リーリヤ"
+kana = "かつらぎ りーりや"
+phonemes = ""
+
+[[readings]]
+written = "倉本千奈"
+kana = "くらもと ちな"
+phonemes = ""
+
+[[readings]]
+written = "紫雲清夏"
+kana = "しうん すみか"
+phonemes = ""
+
+[[readings]]
+written = "篠澤広"
+kana = "しのさわ ひろ"
+phonemes = ""
+
+[[readings]]
+written = "姫崎莉波"
+kana = "ひめさき りなみ"
+phonemes = ""
+
+[[readings]]
+written = "花海佑芽"
+kana = "はなみ うめ"
+phonemes = ""
+
+[[readings]]
+written = "秦谷美鈴"
+kana = "はたや みすず"
+phonemes = ""
+
+[[readings]]
+written = "十王星南"
+kana = "じゅうおう せな"
+phonemes = ""
+
+[[readings]]
+written = "雨夜燕"
+kana = "あまや つばめ"
+phonemes = ""
+
+[[readings]]
+written = "氷渡香名江"
+kana = "ひわたり かなえ"
+phonemes = ""
+
+[[readings]]
+written = "初星学園"
+kana = "はつぼし がくえん"
+phonemes = ""

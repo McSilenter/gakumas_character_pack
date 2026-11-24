@@ -1,0 +1,69 @@
+# 学マス扩展包：在 eidolon-sc 旁边另起一套学マス实例。
+#   1. 复制 .env.example 为 .env，填好 EIDOLON_SC_DIR（本机 eidolon-sc 仓库的路径）
+#   2. docker compose up -d --build
+# 镜像用 eidolon-sc 的源码打上 overlay/ 里的补丁构建，原仓库的文件不会被改动。
+# 数据库、角色目录都在本项目（gakumas）自己的卷里，和 283 实例互不相干。
+
+name: gakumas
+
+services:
+  # 每次启动先组装角色目录：eidolon-sc 的通用清单 + 扩展包的学マス角色
+  characters-init:
+    image: python:3.11-slim
+    working_dir: /overlay
+    command:
+      - python
+      - build_characters.py
+      - --upstream=/upstream-characters
+      - --pack=/pack-characters
+      - --patches=/overlay/patches/characters.json
+      - --out=/characters
+    volumes:
+      - ${EIDOLON_SC_DIR:?请在 .env 里填写 EIDOLON_SC_DIR（eidolon-sc 仓库的路径）}/characters:/upstream-characters:ro
+      - ./characters:/pack-characters:ro
+      - ./overlay:/overlay:ro
+      - characters:/characters
+    restart: "no"
+
+  backend:
+    build:
+      context: ./overlay
+      dockerfile: backend.Dockerfile
+      additional_contexts:
+        upstream: ${EIDOLON_SC_DIR}/backend
+    image: gakumas-eidolon-backend
+    env_file:
+      - path: ${EIDOLON_SC_DIR}/.env
+        required: false
+      - path: .env
+        required: false
+    volumes:
+      - data:/data
+      - characters:/characters:ro
+      - ${GAKUMAS_CORPUS_DIR:-./corpus}:/corpus:ro
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    depends_on:
+      characters-init:
+        condition: service_completed_successfully
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./overlay
+      dockerfile: frontend.Dockerfile
+      additional_contexts:
+        upstream: ${EIDOLON_SC_DIR}/frontend
+    image: gakumas-eidolon-frontend
+    environment:
+      BACKEND_URL: http://backend:8000
+      EIDOLON_STAND_ASSETS_URL: ${EIDOLON_STAND_ASSETS_URL:-}
+    ports:
+      - "${GAKUMAS_PORT:-3001}:3000"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+volumes:
+  data:
+  characters:

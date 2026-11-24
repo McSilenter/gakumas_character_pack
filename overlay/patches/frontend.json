@@ -1,0 +1,81 @@
+{
+ "patches": [
+  {
+   "file": "src/i18n/zh.ts",
+   "old": "description: \"和 283 事务所的偶像说说话\"",
+   "new": "description: \"和初星学園的偶像说说话\"",
+   "count": 1,
+   "why": "站点描述"
+  },
+  {
+   "file": "src/i18n/zh.ts",
+   "old": "title: \"Eidolon-SC · 和 283 事务所的偶像说说话\"",
+   "new": "title: \"Eidolon-SC · 和初星学園的偶像说说话\"",
+   "count": 1,
+   "why": "站点标题"
+  },
+  {
+   "file": "src/i18n/zh.ts",
+   "old": "noUnit: \"283プロ\"",
+   "new": "noUnit: \"初星学園\"",
+   "count": 1,
+   "why": "没有组合的偶像那一组的名字"
+  },
+  {
+   "file": "src/i18n/zh.ts",
+   "old": "others: \"283プロ\"",
+   "new": "others: \"初星学園\"",
+   "count": 1,
+   "why": "落地页：没有组合的偶像那一段"
+  },
+  {
+   "file": "src/i18n/zh.ts",
+   "old": "和《偶像大师 闪耀色彩》283 事务所的偶像们打电话、说话。",
+   "new": "和《学园偶像大师》初星学園的偶像们打电话、说话。",
+   "count": 1,
+   "why": "落地页导语"
+  },
+  {
+   "file": "src/i18n/zh.ts",
+   "old": "角色来 VA-283 光顾",
+   "new": "角色来 VA-gakumas 光顾",
+   "count": 1,
+   "why": "酒吧设置说明"
+  },
+  {
+   "file": "src/i18n/zh.ts",
+   "old": "与《偶像大师 闪耀色彩》的版权方和官方没有任何关系。",
+   "new": "与《学园偶像大师》《偶像大师 闪耀色彩》的版权方和官方没有任何关系。",
+   "count": 1,
+   "why": "免责声明"
+  },
+  {
+   "file": "src/components/play/bar/BarSubpage.tsx",
+   "old": "?? \"VA-283\"",
+   "new": "?? \"VA-gakumas\"",
+   "count": 1,
+   "why": "酒吧店名"
+  },
+  {
+   "file": "src/components/conversations/ConversationList.tsx",
+   "old": "        <Link href=\"/group-chats\" className=\"inline-flex h-8 items-center rounded-md px-2 text-xs font-medium text-muted-foreground transition-colors hover:bg-muted hover:text-foreground\">\n          群聊\n        </Link>\n",
+   "new": "",
+   "count": 1,
+   "why": "学マス实例不开群聊：去掉入口"
+  },
+  {
+   "file": "src/components/conversations/ConversationList.tsx",
+   "old": "import Link from \"next/link\";\n",
+   "new": "",
+   "count": 1,
+   "why": "去掉群聊入口后不再用到 Link"
+  },
+  {
+   "file": "src/lib/backend.ts",
+   "old": "const SESSION_COOKIE = \"eidolon_session\";",
+   "new": "const SESSION_COOKIE = \"gakumas_session\";",
+   "count": 1,
+   "why": "登录 Cookie 改名（和后端一致）"
+  }
+ ]
+}

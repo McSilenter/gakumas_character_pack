@@ -1,0 +1,67 @@
+{
+ "patches": [
+  {
+   "file": "bar_visits.toml",
+   "old": "note = \"组合里的伙伴：最近和她们之间的事。\"\nnot_for = [\"hazuki\"]",
+   "new": "note = \"组合里的伙伴：最近和她们之间的事。\"\nnot_for = [\"saki\", \"temari\", \"kotone\", \"mao\", \"china\", \"hiro\", \"rinami\", \"ume\", \"misuzu\", \"sena\", \"tsubame\", \"kanae\"]",
+   "count": 1,
+   "why": "酒吧话题：只有『REVERSI』的两人有组合伙伴"
+  },
+  {
+   "file": "bar_visits.toml",
+   "old": "not_for = [\"hazuki\"]\n",
+   "new": "",
+   "count": 2,
+   "why": "酒吧来意：去掉只针对はづき的限制"
+  },
+  {
+   "file": "bar_visits.toml",
+   "old": "或者来事务所以前",
+   "new": "或者进初星学園以前",
+   "count": 1,
+   "why": "酒吧话题：过去的事"
+  },
+  {
+   "file": "bar_visits.toml",
+   "old": "note = \"事务所里的人和事：别的偶像、事务所里的日常。\"",
+   "new": "note = \"学园里的人和事：同学、前辈和学园里的日常。\"",
+   "count": 1,
+   "why": "酒吧话题：学园"
+  },
+  {
+   "file": "jobs.toml",
+   "old": "name = \"组合排练\"\nnote = \"和组合的伙伴们把整首歌从头到尾合几遍。\"",
+   "new": "name = \"合同排练\"\nnote = \"和一起上台的同学们把整首歌从头到尾合几遍。\"",
+   "count": 1,
+   "why": "工作：学マス的偶像大多是ソロ"
+  },
+  {
+   "file": "jobs.toml",
+   "old": "在事务所的频道上直播聊天",
+   "new": "在官方频道上直播聊天",
+   "count": 1,
+   "why": "工作"
+  },
+  {
+   "file": "jobs.toml",
+   "old": "给事务所的官方账号写近况",
+   "new": "给官方账号写近况",
+   "count": 1,
+   "why": "工作"
+  },
+  {
+   "file": "jobs.toml",
+   "old": "在事务所读粉丝的来信",
+   "new": "在学园读粉丝的来信",
+   "count": 1,
+   "why": "工作"
+  },
+  {
+   "file": "jobs.toml",
+   "old": "在事务所给周边和色纸签名",
+   "new": "在学园给周边和色纸签名",
+   "count": 1,
+   "why": "工作"
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+{
+ "tested_commit": "53c7fc090816e2428f4815a6a770356569f074ae (Sallyn0225/eidolon-sc, 2026-11-24)",
+ "dockerfiles": {
+  "backend": "ef3446d0e89e0624e3a6eb721d583f210c7f836af6bcedea23dd1bdd741734c0",
+  "frontend": "e38ee38ba3974d8881bf7596ec69807d62985708c125574751dac3cf632b4112"
+ }
+}

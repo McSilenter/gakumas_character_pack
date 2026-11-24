@@ -1,0 +1,172 @@
+{
+ "patches": [
+  {
+   "file": "src/eidolon/world.py",
+   "old": "        return World.from_json(data)\n",
+   "new": "        world = World.from_json(data)\n        setting = path.with_name(\"world-setting.md\")  # 学マス扩展包：世界设定正文\n        if setting.exists():\n            object.__setattr__(world, \"_setting_text\", setting.read_text(encoding=\"utf-8\").strip())\n        return world\n",
+   "count": 1,
+   "why": "世界设定：world.json 旁边有 world-setting.md 时读进来"
+  },
+  {
+   "file": "src/eidolon/world.py",
+   "old": "    def _setting_prompt(self, *, staff: bool = False) -> str:\n",
+   "new": "    def _setting_prompt(self, *, staff: bool = False) -> str:\n        if text := getattr(self, \"_setting_text\", None):  # 学マス扩展包\n            return text\n",
+   "count": 1,
+   "why": "世界设定：有 world-setting.md 就用它代替“事务所的组合和成员”那一段"
+  },
+  {
+   "file": "src/eidolon/world.py",
+   "old": "不是闪耀色彩的歌",
+   "new": "不是学マス的歌",
+   "count": 1,
+   "why": "演出曲目单的说明"
+  },
+  {
+   "file": "src/eidolon/producer.py",
+   "old": "和你对话的是你的制作人，也就是 283 事务所的制作人。",
+   "new": "和你对话的是你的制作人，也就是初星学園プロデューサー科的学生。",
+   "count": 1,
+   "why": "制作人的身份"
+  },
+  {
+   "file": "src/eidolon/memory.py",
+   "old": "你负责替《偶像大师 闪耀色彩》283 事务所的偶像们（还有事务员）记住关于制作人的事。",
+   "new": "你负责替《学园偶像大师》初星学園的偶像们（还有老师）记住关于制作人的事。",
+   "count": 1,
+   "why": "记忆整理"
+  },
+  {
+   "file": "src/eidolon/memory.py",
+   "old": "ANOTHER_IDOL = \"事务所的另一位偶像\"",
+   "new": "ANOTHER_IDOL = \"学园的另一位偶像\"",
+   "count": 1,
+   "why": "记忆里别的偶像的叫法"
+  },
+  {
+   "file": "src/eidolon/retrieval.py",
+   "old": "《偶像大师 闪耀色彩》283 事务所的偶像（或事务员）",
+   "new": "《学园偶像大师》初星学園的偶像（或老师）",
+   "count": 2,
+   "why": "检索判断"
+  },
+  {
+   "file": "src/eidolon/affinity_judge.py",
+   "old": "《偶像大师 闪耀色彩》283 事务所的偶像（或事务员）",
+   "new": "《学园偶像大师》初星学園的偶像（或老师）",
+   "count": 1,
+   "why": "好感判断"
+  },
+  {
+   "file": "src/eidolon/emotion.py",
+   "old": "《偶像大师 闪耀色彩》283 事务所的偶像（或事务员）",
+   "new": "《学园偶像大师》初星学園的偶像（或老师）",
+   "count": 1,
+   "why": "语气判断"
+  },
+  {
+   "file": "src/eidolon/photo_judge.py",
+   "old": "《偶像大师 闪耀色彩》283 事务所的偶像（或事务员）",
+   "new": "《学园偶像大师》初星学園的偶像（或老师）",
+   "count": 1,
+   "why": "照片判断"
+  },
+  {
+   "file": "src/eidolon/titles.py",
+   "old": "（283 事务所的偶像或事务员）",
+   "new": "（初星学園的偶像或老师）",
+   "count": 1,
+   "why": "对话标题"
+  },
+  {
+   "file": "src/eidolon/affinity.py",
+   "old": "你们在事务所里的关系",
+   "new": "你们在学园里的关系",
+   "count": 1,
+   "why": "好感规则"
+  },
+  {
+   "file": "src/eidolon/moment_prompt.py",
+   "old": "事务所的同伴、朋友和制作人都看得到",
+   "new": "学园的同学、朋友和制作人都看得到",
+   "count": 1,
+   "why": "朋友圈"
+  },
+  {
+   "file": "src/eidolon/engine.py",
+   "old": "练习、拍摄、事务所的工作这类平常的事",
+   "new": "上课、练习、拍摄这类平常的事",
+   "count": 1,
+   "why": "先开口"
+  },
+  {
+   "file": "src/eidolon/bar_prompt.py",
+   "old": "仍是 283 事务所的偶像",
+   "new": "仍是初星学園的偶像",
+   "count": 1,
+   "why": "酒吧 IF 设定"
+  },
+  {
+   "file": "src/eidolon/bar_prompt.py",
+   "old": "VA-283",
+   "new": "VA-gakumas",
+   "count": 4,
+   "why": "酒吧店名"
+  },
+  {
+   "file": "src/eidolon/bar.py",
+   "old": "bar_name = \"VA-283\"",
+   "new": "bar_name = \"VA-gakumas\"",
+   "count": 1,
+   "why": "酒吧店名"
+  },
+  {
+   "file": "src/eidolon/bar_settings.py",
+   "old": "DEFAULT_BAR_NAME = \"VA-283\"",
+   "new": "DEFAULT_BAR_NAME = \"VA-gakumas\"",
+   "count": 1,
+   "why": "酒吧默认店名"
+  },
+  {
+   "file": "src/eidolon/bar_settings.py",
+   "old": "DEFAULT 'VA-283'",
+   "new": "DEFAULT 'VA-gakumas'",
+   "count": 1,
+   "why": "酒吧默认店名（新建数据库）"
+  },
+  {
+   "file": "src/eidolon/sheet_draft.py",
+   "old": "《偶像大师 闪耀色彩》的偶像",
+   "new": "《学园偶像大师》的偶像",
+   "count": 2,
+   "why": "人设初稿命令"
+  },
+  {
+   "file": "src/eidolon/sheet_draft.py",
+   "old": "所属事务所",
+   "new": "所属学园",
+   "count": 1,
+   "why": "人设初稿命令"
+  },
+  {
+   "file": "src/eidolon/sessions.py",
+   "old": "SESSION_COOKIE = \"eidolon_session\"",
+   "new": "SESSION_COOKIE = \"gakumas_session\"",
+   "count": 1,
+   "why": "登录 Cookie 改名：和 283 实例开在同一台机器上时互不登出"
+  },
+  {
+   "file": "src/eidolon/account_api.py",
+   "old": "STATE_COOKIE = \"eidolon_oauth_state\"",
+   "new": "STATE_COOKIE = \"gakumas_oauth_state\"",
+   "count": 1,
+   "why": "登录流程的 Cookie 改名"
+  },
+  {
+   "file": "src/eidolon/story_import.py",
+   "old": "_CATEGORIES = [\n    (re.compile(r\"produce_events/2\"), \"P卡剧情\"),\n",
+   "new": "_CATEGORIES = [\n    # 学マス扩展包：学マス剧本编号的分类\n    (re.compile(r\"adv_dear_\"), \"亲爱度剧情\"),\n    (re.compile(r\"adv_cidol-\"), \"P卡剧情\"),\n    (re.compile(r\"adv_csprt-\"), \"S卡剧情\"),\n    (re.compile(r\"adv_p(?:story|event|growth)_\"), \"培育剧情\"),\n    (re.compile(r\"adv_event_\"), \"活动剧情\"),\n    (re.compile(r\"adv_unit_\"), \"主线剧情\"),\n    (re.compile(r\"produce_events/2\"), \"P卡剧情\"),\n",
+   "count": 1,
+   "why": "剧情库：学マス剧本编号的分类（亲爱度、P卡、S卡、培育、活动、主线）"
+  }
+ ]
+}

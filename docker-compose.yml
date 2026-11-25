@@ -34,7 +34,7 @@ services:
     image: gakumas-eidolon-backend
     env_file:
       - path: ${EIDOLON_SC_DIR}/.env
-        required: false
+        required: true # 模型等密钥都在这里；缺了直接报错，免得后端反复重启、只说某个变量没设
       - path: .env
         required: false
     volumes:
@@ -63,6 +63,25 @@ services:
     depends_on:
       - backend
     restart: unless-stopped
+
+  # 剧情库的下载和转换：平时不启动，由 story-sync.sh 用 docker compose run 运行一次就退出。
+  # 用后端镜像（里面有转换要的 PyYAML），剧情目录可写；导入由后端容器做。
+  story-sync:
+    profiles: ["tools"]
+    image: gakumas-eidolon-backend
+    entrypoint: ["python", "/story-sync/sync.py", "/corpus"]
+    env_file:
+      - path: ${EIDOLON_SC_DIR}/.env
+        required: true # 模型等密钥都在这里；缺了直接报错，免得后端反复重启、只说某个变量没设
+      - path: .env
+        required: false
+    environment:
+      PYTHONUNBUFFERED: "1"
+    volumes:
+      - ./tools/story_sync:/story-sync:ro
+      - ${GAKUMAS_CORPUS_DIR:-./corpus}:/corpus
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
 
 volumes:
   data:

@@ -50,25 +50,39 @@
    "why": "免责声明"
   },
   {
-   "file": "src/components/play/bar/BarSubpage.tsx",
-   "old": "?? \"VA-283\"",
-   "new": "?? \"VA-gakumas\"",
+   "file": "src/i18n/zh.ts",
+   "old": "name: \"VA-283\",",
+   "new": "name: \"VA-gakumas\",",
    "count": 1,
    "why": "酒吧店名"
   },
   {
-   "file": "src/components/conversations/ConversationList.tsx",
-   "old": "        <Link href=\"/group-chats\" className=\"inline-flex h-8 items-center rounded-md px-2 text-xs font-medium text-muted-foreground transition-colors hover:bg-muted hover:text-foreground\">\n          群聊\n        </Link>\n",
-   "new": "",
+   "file": "src/components/play/bar/BarDoor.tsx",
+   "old": "runs=\"VA-283\"",
+   "new": "runs=\"VA-学マス\"",
    "count": 1,
-   "why": "学マス实例不开群聊：去掉入口"
+   "why": "酒吧门口的像素招牌：只有 56 像素宽，放不下 VA-gakumas"
   },
   {
-   "file": "src/components/conversations/ConversationList.tsx",
-   "old": "import Link from \"next/link\";\n",
+   "file": "src/components/conversations/ListFilter.tsx",
+   "old": "/** 按组合分组的勾选清单：组标题前是三态勾选框，组内每人一行勾选框、小头像、名字。 */\nfunction Groups() {\n  const { characters, preferences, tidy } = useDirectory();\n  if (!characters) return null;\n  const hidden = preferences.hidden;\n  return (\n    <div className=\"flex flex-col gap-2\">\n      {unitsOf(characters).map(({ unit, members }) => {\n        const ids = members.map((c) => c.id);\n        const shownCount = ids.filter((id) => !hidden.includes(id)).length;\n        return (\n          <section key={unit ?? \"\"} className=\"flex flex-col\">\n            <label className=\"flex items-center gap-3 py-2 font-medium\">\n              <Checkbox\n                checked={shownCount === ids.length}\n                indeterminate={shownCount > 0 && shownCount < ids.length}\n                onCheckedChange={(checked) => tidy((p) => setShown(p, ids, checked))}\n              />\n              {unit ?? t.noUnit}\n            </label>\n            <ul>\n              {members.map((c) => (\n                <li key={c.id}>\n                  <label className=\"flex items-center gap-3 py-1.5 pl-7\">\n                    <Checkbox\n                      checked={!hidden.includes(c.id)}\n                      onCheckedChange={(checked) => tidy((p) => setShown(p, [c.id], checked))}\n                    />\n                    <span aria-hidden className=\"flex\">\n                      <MarkedAvatar name={c.name} src={c.avatar_url} size=\"sm\" />\n                    </span>\n                    <span className=\"min-w-0 truncate\">{c.name}</span>\n                  </label>\n                </li>\n              ))}\n            </ul>\n          </section>\n        );\n      })}\n    </div>\n  );\n}\n",
+   "new": "/** 学マス扩展包：不按组合分组，一人一行勾选框、小头像、名字，照角色的顺序。 */\nfunction Groups() {\n  const { characters, preferences, tidy } = useDirectory();\n  if (!characters) return null;\n  const hidden = preferences.hidden;\n  return (\n    <ul className=\"flex flex-col\">\n      {characters.map((c) => (\n        <li key={c.id}>\n          <label className=\"flex items-center gap-3 py-1.5\">\n            <Checkbox\n              checked={!hidden.includes(c.id)}\n              onCheckedChange={(checked) => tidy((p) => setShown(p, [c.id], checked))}\n            />\n            <span aria-hidden className=\"flex\">\n              <MarkedAvatar name={c.name} src={c.avatar_url} size=\"sm\" />\n            </span>\n            <span className=\"min-w-0 truncate\">{c.name}</span>\n          </label>\n        </li>\n      ))}\n    </ul>\n  );\n}\n",
+   "count": 1,
+   "why": "对话页的筛选面板不按组合分组：一人一行"
+  },
+  {
+   "file": "src/components/conversations/ListFilter.tsx",
+   "old": "import { unitsOf } from \"@/lib/conversationList\";\n",
    "new": "",
    "count": 1,
-   "why": "去掉群聊入口后不再用到 Link"
+   "why": "不分组以后不再用到 unitsOf"
+  },
+  {
+   "file": "src/components/conversations/ListFilter.tsx",
+   "old": "面板按组合分组列出所有人，组标题前是三态勾选框；",
+   "new": "面板一人一行列出所有人（学マス扩展包：不按组合分组）；",
+   "count": 1,
+   "why": "注释跟着改"
   },
   {
    "file": "src/lib/backend.ts",

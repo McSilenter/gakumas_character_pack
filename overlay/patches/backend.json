@@ -113,27 +113,6 @@
    "why": "酒吧店名"
   },
   {
-   "file": "src/eidolon/bar.py",
-   "old": "bar_name = \"VA-283\"",
-   "new": "bar_name = \"VA-gakumas\"",
-   "count": 1,
-   "why": "酒吧店名"
-  },
-  {
-   "file": "src/eidolon/bar_settings.py",
-   "old": "DEFAULT_BAR_NAME = \"VA-283\"",
-   "new": "DEFAULT_BAR_NAME = \"VA-gakumas\"",
-   "count": 1,
-   "why": "酒吧默认店名"
-  },
-  {
-   "file": "src/eidolon/bar_settings.py",
-   "old": "DEFAULT 'VA-283'",
-   "new": "DEFAULT 'VA-gakumas'",
-   "count": 1,
-   "why": "酒吧默认店名（新建数据库）"
-  },
-  {
    "file": "src/eidolon/sheet_draft.py",
    "old": "《偶像大师 闪耀色彩》的偶像",
    "new": "《学园偶像大师》的偶像",
@@ -167,6 +146,13 @@
    "new": "_CATEGORIES = [\n    # 学マス扩展包：学マス剧本编号的分类\n    (re.compile(r\"adv_dear_\"), \"亲爱度剧情\"),\n    (re.compile(r\"adv_cidol-\"), \"P卡剧情\"),\n    (re.compile(r\"adv_csprt-\"), \"S卡剧情\"),\n    (re.compile(r\"adv_p(?:story|event|growth)_\"), \"培育剧情\"),\n    (re.compile(r\"adv_event_\"), \"活动剧情\"),\n    (re.compile(r\"adv_unit_\"), \"主线剧情\"),\n    (re.compile(r\"produce_events/2\"), \"P卡剧情\"),\n",
    "count": 1,
    "why": "剧情库：学マス剧本编号的分类（亲爱度、P卡、S卡、培育、活动、主线）"
+  },
+  {
+   "file": "src/eidolon/schedule.py",
+   "old": "ROTATION = 4\n",
+   "new": "ROTATION = 2  # 学マス扩展包：14 位偶像两周一轮，每周 7 位，和 283 每周的人数一样\n",
+   "count": 1,
+   "why": "日历：14 位按 4 周一轮时每周只有 3、4 位，凑不够一周的工作量，抽不出来"
   }
  ]
 }

@@ -1,10 +1,10 @@
 月村手毬 角色资料（facts/temari.md）和人设（sheets/temari.md）的出处。只是整理记录，不被程序读取。
-剧情来源：corpus/gakumas/csv 下按剧本转出的 CSV（日文原文 text 列取自 Campus-adv-txts，中文 trans 列取自 GakumasTranslationData），写法为「剧本 stem 行号」；stem 和 CSV 路径的对应见 corpus/gakumas/distill/ttmr/index.tsv。逐篇笔记在 distill/ttmr/notes/<stem>.md，分组提炼在 distill/ttmr/digest/，用户确认过的说话人、冲突和未交代的事见 distill/ttmr/conflicts.md（下文写作 conflicts 编号）。
-世界线：学园偶像大师的角色设定以各自的亲爱度世界线为准（用户，2026-10-31）。经历、人物关系以她自己的亲爱度剧情（adv_dear_ttmr_*）和她的 P 卡（adv_cidol-ttmr-3-*，同一条线）为准；培育事件、活动、S 卡里只取和这条线不冲突的日常与喜好。主线（Re;IRIS）、培育剧情 001～003、其他偶像亲爱度里的剧情经过不算她的经历，用户同意（2026-10-31）作为拓展写在「另一种可能（不是她的经历）」一章，措辞上都写成假设；详情见第一版 draft/facts/temari.md 和 digest/。
+剧情来源：corpus/gakumas/csv 下按剧本转出的 CSV（日文原文 text 列取自 Campus-adv-txts，中文 trans 列取自 GakumasTranslationData），写法为「剧本 stem 行号」；stem 和 CSV 路径的对应见 corpus/gakumas/distill/ttmr/index.tsv。逐篇笔记在 distill/ttmr/notes/<stem>.md，分组提炼在 distill/ttmr/digest/，维护者确认过的说话人、冲突和未交代的事见 distill/ttmr/conflicts.md（下文写作 conflicts 编号）。
+世界线：学园偶像大师的角色设定以各自的亲爱度世界线为准（维护者，2026-10-31）。经历、人物关系以她自己的亲爱度剧情（adv_dear_ttmr_*）和她的 P 卡（adv_cidol-ttmr-3-*，同一条线）为准；培育事件、活动、S 卡里只取和这条线不冲突的日常与喜好。主线（Re;IRIS）、培育剧情 001～003、其他偶像亲爱度里的剧情经过不算她的经历，维护者同意（2026-10-31）作为拓展写在「另一种可能（不是她的经历）」一章，措辞上都写成假设；详情见第一版 draft/facts/temari.md 和 digest/。
 说话人：她本人的标签只有「手毬」；「？？？」0041（event_007_main-01）、「聞き覚えのある声」0003、0004（adv_dear_hmsz_029）也是她；「一同」按 ichido-judgement.md（算她的 96 条）。回想、转述、再现、演戏、歌词、括号心声在笔记里都已标出。
 
 ## 参考网站
-用户提供（2026-10-31），供核对和补充用；目前资料里的内容都出自剧本和官网，没有从这些网站摘录。
+维护者提供（2026-10-31），供核对和补充用；目前资料里的内容都出自剧本和官网，没有从这些网站摘录。
 - 萌娘百科：https://zh.moegirl.org.cn/ja/月村手毬
 - アイドルマスター 学園アイドルマスター攻略 Wiki（wikiwiki）：https://wikiwiki.jp/gakumas/月村手毬
 - imas-db 印象色一览：https://imas-db.jp/misc/color.html
@@ -18,7 +18,7 @@ corpus/gakumas/distill/ttmr/stats.md（line_stats.py）：她的台词 6206 行�
 - vertesan/gakumasu-diff@fc6afb8b CharacterDetail.yaml（学年「1年生」，其余与官网一致）、CharacterColor.yaml（mainColor 27B4EB），存于 distill/ttmr/ref/master-dl/。
 - 印象色是蓝：adv_dear_ttmr_035 0053。内部进学组：adv_cidol-ttmr-3-007_01 0010。第4年：adv_cidol-ttmr-3-000_01 0009。中等部第一：adv_dear_ttmr_002 0013～0015；adv_dear_ttmr_015 0004。
 ## 档案 / 故事线
-- 用户确认（2026-10-31）。制作人只负责她一人：adv_cidol-ttmr-3-011_02 0027～0030；プロデューサー科1年1組：adv_dear_ttmr_005 0043。
+- 维护者确认（2026-10-31）。制作人只负责她一人：adv_cidol-ttmr-3-011_02 0027～0030；プロデューサー科1年1組：adv_dear_ttmr_005 0043。
 ## 档案 / 兴趣与特技
 - 官网。节食：adv_cidol-ttmr-3-011_03 0004～0006。「歌うおばけ」：adv_cidol-ttmr-3-000_03 0011～0014。卡拉OK：adv_pevent_001_ttmr_activity_018-01 0004。手笨：adv_cidol-ttmr-3-002_02 0008～0020。学业：adv_pevent_001_ttmr_activity_020 0005。游戏：adv_pevent_002_ttmr_sales_4-005 0002；adv_pevent_001_ttmr_activity_017-01。写名字：adv_pevent_001_ttmr_activity_003 0005～0006。
 ## 档案 / 自称与说话方式

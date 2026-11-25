@@ -1,78 +1,216 @@
-# 读音（GLOSSARY.md「读音」）：角色名在角色的声音里怎么念。写法见 eidolon-sc 的 characters/readings.toml。
-# phonemes 空着：配好音色以后，在后端容器里运行 `eidolon reading draft` 补上音素。
-
+# 读音（GLOSSARY.md「读音」）：角色名、职员名、学园名在角色的声音里怎么念。每次请求 Fish Audio
+# 都把 phonemes 不为空的全部条目放进请求的 pronunciation_dictionary。
+#
+# written：原文写法。Fish Audio 按字面子串、区分大小写匹配，所以别收会和普通词撞上的写法：
+#   「広」会撞上「広い」，「燕」本身就是普通词，这两个不收（Fish 自己能念对）。
+# kana：读音，姓和名之间空一格。phonemes：发给 Fish Audio 的音素串。
+#
+# 改读音：改 kana，把 phonemes 清空成 ""，在 eidolon-sc 的 backend 目录下运行
+#   uv run eidolon reading draft --characters <本目录的 characters.toml>
+# 补上音素（要用开发依赖里的 pyopenjtalk，后端镜像里没有）。已有音素的条目不动。
+# 这个命令会重写整个文件，开头这段注释会换成 eidolon-sc 的，需要时从 git 恢复。
 
 [[readings]]
 written = "月村手毬"
 kana = "つきむら てまり"
-phonemes = ""
+phonemes = "tsU0ki1mu0ra0te0ma1ri1"
+
+[[readings]]
+written = "月村"
+kana = "つきむら"
+phonemes = "tsU0ki1mu0ra0"
+
+[[readings]]
+written = "手毬"
+kana = "てまり"
+phonemes = "te0ma1ri1"
 
 [[readings]]
 written = "花海咲季"
 kana = "はなみ さき"
-phonemes = ""
+phonemes = "ha0na1mi1sa1ki0"
+
+[[readings]]
+written = "花海"
+kana = "はなみ"
+phonemes = "ha0na1mi1"
+
+[[readings]]
+written = "咲季"
+kana = "さき"
+phonemes = "sa1ki0"
 
 [[readings]]
 written = "藤田ことね"
 kana = "ふじた ことね"
-phonemes = ""
+phonemes = "fu1ji0ta0ko1to0ne0"
+
+[[readings]]
+written = "藤田"
+kana = "ふじた"
+phonemes = "fu1ji0ta0"
 
 [[readings]]
 written = "有村麻央"
 kana = "ありむら まお"
-phonemes = ""
+phonemes = "a0ri1mu0ra0ma1o0"
+
+[[readings]]
+written = "有村"
+kana = "ありむら"
+phonemes = "a0ri1mu0ra0"
+
+[[readings]]
+written = "麻央"
+kana = "まお"
+phonemes = "ma1o0"
 
 [[readings]]
 written = "葛城リーリヤ"
 kana = "かつらぎ りーりや"
-phonemes = ""
+phonemes = "ka0tsu1ra1gi0ri1i0ri0ya0"
+
+[[readings]]
+written = "葛城"
+kana = "かつらぎ"
+phonemes = "ka0tsu1ra1gi0"
 
 [[readings]]
 written = "倉本千奈"
 kana = "くらもと ちな"
-phonemes = ""
+phonemes = "ku0ra1mo0to0chi1na0"
+
+[[readings]]
+written = "倉本"
+kana = "くらもと"
+phonemes = "ku0ra1mo0to0"
+
+[[readings]]
+written = "千奈"
+kana = "ちな"
+phonemes = "chi1na0"
 
 [[readings]]
 written = "紫雲清夏"
 kana = "しうん すみか"
-phonemes = ""
+phonemes = "shiu1N0su1mi0ka0"
+
+[[readings]]
+written = "紫雲"
+kana = "しうん"
+phonemes = "shiu1N0"
+
+[[readings]]
+written = "清夏"
+kana = "すみか"
+phonemes = "su1mi0ka0"
 
 [[readings]]
 written = "篠澤広"
 kana = "しのさわ ひろ"
-phonemes = ""
+phonemes = "shi1no0sa0wa1hi1ro0"
+
+[[readings]]
+written = "篠澤"
+kana = "しのさわ"
+phonemes = "shi1no0sa0wa1"
 
 [[readings]]
 written = "姫崎莉波"
 kana = "ひめさき りなみ"
-phonemes = ""
+phonemes = "hi1me0sa1ki0ri0na1mi1"
+
+[[readings]]
+written = "姫崎"
+kana = "ひめさき"
+phonemes = "hi1me0sa1ki0"
+
+[[readings]]
+written = "莉波"
+kana = "りなみ"
+phonemes = "ri0na1mi1"
 
 [[readings]]
 written = "花海佑芽"
 kana = "はなみ うめ"
-phonemes = ""
+phonemes = "ha0na1mi1u0me1"
+
+[[readings]]
+written = "佑芽"
+kana = "うめ"
+phonemes = "u0me1"
 
 [[readings]]
 written = "秦谷美鈴"
 kana = "はたや みすず"
-phonemes = ""
+phonemes = "ha1ta0ya0mi1su0zu0"
+
+[[readings]]
+written = "秦谷"
+kana = "はたや"
+phonemes = "ha1ta0ya0"
+
+[[readings]]
+written = "美鈴"
+kana = "みすず"
+phonemes = "mi1su0zu0"
 
 [[readings]]
 written = "十王星南"
 kana = "じゅうおう せな"
-phonemes = ""
+phonemes = "ju0u1o1o1se1na0"
+
+[[readings]]
+written = "十王"
+kana = "じゅうおう"
+phonemes = "ju0u1o1o1"
+
+[[readings]]
+written = "星南"
+kana = "せな"
+phonemes = "se1na0"
 
 [[readings]]
 written = "雨夜燕"
 kana = "あまや つばめ"
-phonemes = ""
+phonemes = "ama1ya0tsu0ba1me1"
+
+[[readings]]
+written = "雨夜"
+kana = "あまや"
+phonemes = "ama1ya0"
 
 [[readings]]
 written = "氷渡香名江"
 kana = "ひわたり かなえ"
-phonemes = ""
+phonemes = "hi1wa0ta1ri0ka0na1e1"
+
+[[readings]]
+written = "氷渡"
+kana = "ひわたり"
+phonemes = "hi1wa0ta1ri0"
+
+[[readings]]
+written = "香名江"
+kana = "かなえ"
+phonemes = "ka0na1e1"
+
+[[readings]]
+written = "十王邦夫"
+kana = "じゅうおう くにお"
+phonemes = "ju0u1o1o1ku0ni1o1"
+
+[[readings]]
+written = "根緒亜紗里"
+kana = "ねお あさり"
+phonemes = "ne0o1a0sa1ri1"
 
 [[readings]]
 written = "初星学園"
 kana = "はつぼし がくえん"
-phonemes = ""
+phonemes = "ha0tsu1bo0shi0ga1ku0e1N0"
+
+[[readings]]
+written = "初星"
+kana = "はつぼし"
+phonemes = "ha0tsu1bo0shi0"

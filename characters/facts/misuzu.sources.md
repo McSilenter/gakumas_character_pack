@@ -1,10 +1,10 @@
 秦谷美鈴 角色资料（facts/misuzu.md）和人设（sheets/misuzu.md）的出处。只是整理记录，不被程序读取。
-剧情来源：corpus/gakumas/csv 下按剧本转出的 CSV（日文原文 text 列取自 Campus-adv-txts，中文 trans 列取自 GakumasTranslationData），写法为「剧本 stem 行号」；stem 和 CSV 路径的对应见 corpus/gakumas/distill/hmsz/index.tsv。逐篇笔记在 distill/hmsz/notes/<stem>.md（384 篇），分组提炼在 distill/hmsz/digest/（O1-dear、O2-pcard、O3-pstory、O4-pevent、S1-main、S2-scard-a、S3-scard-b、S4-event、S5-others），用户确认过的说话人、冲突和未交代的事见 distill/hmsz/conflicts.md（下文写作 conflicts 编号）；和手毬共同出场的篇目照 distill/ttmr/conflicts.md 的结论。
-世界线：学园偶像大师的角色设定以各自的亲爱度世界线为准（用户，2026-10-31）。经历、人物关系以她自己的亲爱度剧情（adv_dear_hmsz_*）和她的 P 卡（adv_cidol-hmsz-3-*，同一条线）为准；这条线里制作人从第 1 话起认定的就是美鈴（conflicts 三·1）。培育事件、活动、S 卡、别的偶像的线里只取和这条线不冲突的日常与喜好（各 digest 里标「跨线通用」的条目）。主线（Begrazia）、培育剧情、其他偶像亲爱度、S 卡里的剧情经过不算她的经历，写在「另一种可能（不是她的经历）」一章，措辞都写成假设。
+剧情来源：corpus/gakumas/csv 下按剧本转出的 CSV（日文原文 text 列取自 Campus-adv-txts，中文 trans 列取自 GakumasTranslationData），写法为「剧本 stem 行号」；stem 和 CSV 路径的对应见 corpus/gakumas/distill/hmsz/index.tsv。逐篇笔记在 distill/hmsz/notes/<stem>.md（384 篇），分组提炼在 distill/hmsz/digest/（O1-dear、O2-pcard、O3-pstory、O4-pevent、S1-main、S2-scard-a、S3-scard-b、S4-event、S5-others），维护者确认过的说话人、冲突和未交代的事见 distill/hmsz/conflicts.md（下文写作 conflicts 编号）；和手毬共同出场的篇目照 distill/ttmr/conflicts.md 的结论。
+世界线：学园偶像大师的角色设定以各自的亲爱度世界线为准（维护者，2026-10-31）。经历、人物关系以她自己的亲爱度剧情（adv_dear_hmsz_*）和她的 P 卡（adv_cidol-hmsz-3-*，同一条线）为准；这条线里制作人从第 1 话起认定的就是美鈴（conflicts 三·1）。培育事件、活动、S 卡、别的偶像的线里只取和这条线不冲突的日常与喜好（各 digest 里标「跨线通用」的条目）。主线（Begrazia）、培育剧情、其他偶像亲爱度、S 卡里的剧情经过不算她的经历，写在「另一种可能（不是她的经历）」一章，措辞都写成假设。
 说话人：她本人的标签只有「美鈴」。adv_dear_hmsz_029 0003 是她、0004 是她和手毬齐声（conflicts 一·2）；adv_dear_hmsz_029/031、adv_dear_jsna_034 0039 里标「十王社長」「特別講師」、配音是她的台词按标签算，不是她的（conflicts 二·1）；星南重复她的话（adv_cidol-jsna-3-016_02 0026～0027）不算（二·2）；别人回忆里她说过的话算她的、标回想（二·3～6）。「一同」按 distill/hmsz/ichido-judgement.md（算她的 50 条）。主线 1章11话、13话、2章7话的「？？？」是手毬记忆里的她。
 
 ## 参考网站
-用户给手毬时提供的同一批网站（2026-10-31），按美鈴的名字套用；目前资料里的内容都出自剧本和官网，没有从这些网站摘录。
+维护者给手毬时提供的同一批网站（2026-10-31），按美鈴的名字套用；目前资料里的内容都出自剧本和官网，没有从这些网站摘录。
 - 萌娘百科：https://zh.moegirl.org.cn/ja/秦谷美鈴
 - wikiwiki：https://wikiwiki.jp/gakumas/秦谷美鈴
 - imas-db 印象色一览：https://imas-db.jp/misc/color.html
@@ -17,7 +17,7 @@
 - vertesan/gakumasu-diff CharacterDetail.yaml（学年「1年生」，其余与官网一致；Introduction 写「中等部ナンバーワンユニット「SyngUp!」の元メンバー。」）、CharacterColor.yaml（mainColor 6EA3FC），存于 distill/ttmr/ref/master-dl/。
 - 1年2組：adv_csprt-3-0015_02 0017（S 卡）；adv_pevent_001_hmsz_activity_014 0002；adv_event_002_main-05 0021；adv_dear_atbm_007 0003——各线一致，按跨线通用写。ソロアイドル：adv_cidol-hmsz-3-000_01 0013；adv_cidol-hmsz-3-010_02 0010。中等部第一组合：conflicts 一·1；adv_cidol-hmsz-3-005_01 0049～0050。
 ## 档案 / 故事线
-- 用户确认（2026-10-31，conflicts 三·1）。担当只有她：adv_dear_hmsz_028 0010；adv_dear_hmsz_033 0051。
+- 维护者确认（2026-10-31，conflicts 三·1）。担当只有她：adv_dear_hmsz_028 0010；adv_dear_hmsz_033 0051。
 ## 档案 / 兴趣与特技
 - 官网。午睡：adv_dear_hmsz_001 0018～0019；adv_dear_hmsz_002 0003～0012；adv_dear_hmsz_019 0010～0012。茶道室：adv_pevent_001_hmsz_activity_003 0001～0002。字：adv_pevent_001_hmsz_activity_004 0006。学业：adv_pevent_001_hmsz_activity_001 0005～0019。看书：adv_pevent_001_hmsz_activity_015 0006～0007。
 ## 档案 / 自称与说话方式
@@ -31,7 +31,7 @@
 ## 档案 / 宿舍与生活
 - adv_dear_hmsz_010 0002～0003；adv_dear_hmsz_013 0001；adv_dear_hmsz_014 0004；adv_csprt-3-0091_03 0004（S 卡）；adv_pevent_001_hmsz_activity_014 0003～0004；adv_dear_hmsz_002 0019；adv_dear_hmsz_005 0001～0004。
 ## 档案 / 学生会
-- adv_cidol-hmsz-3-010_01 0002、0024～0027；adv_cidol-hmsz-3-010_03 0023～0052（动机、会計監査 0036、道歉）；adv_cidol-hmsz-3-015_02 0009～0013；conflicts 三·5（用户结论：确认加入。那条里我写的“亲爱度和 P 卡里没说职务”有误，0036 就是职务，2026-11-01 提炼时发现）。
+- adv_cidol-hmsz-3-010_01 0002、0024～0027；adv_cidol-hmsz-3-010_03 0023～0052（动机、会計監査 0036、道歉）；adv_cidol-hmsz-3-015_02 0009～0013；conflicts 三·5（维护者结论：确认加入。那条里我写的“亲爱度和 P 卡里没说职务”有误，0036 就是职务，2026-11-01 提炼时发现）。
 ## 档案 / 体质与身体
 - adv_cidol-hmsz-3-020_02 0017～0019；adv_cidol-hmsz-3-020_03 0032；adv_dear_hmsz_024 0030～0034；adv_csprt-2-0017_01 0007（小食，S 卡）；adv_event_009_main-02 0043（怕冷，活动）；adv_csprt-3-0107_02 0018（热天，S 卡）；adv_csprt-3-0069_02 0007、0019（辣，S 卡）；adv_dear_hmsz_009 0001～0012；adv_dear_hmsz_021 0002。
 
@@ -102,7 +102,7 @@
 ## 另一种可能 / 加入星南的 Begrazia（主线）
 - adv_unit_01-03_12 0074～0080；adv_unit_01-04_01 0029；adv_unit_01-04_02 0021～0054；adv_unit_01-02_07 0048（「？？？」是她，conflicts 三·14）；adv_unit_01-04_08 0005～0055（邀手毬、约定，conflicts 三·12）；adv_unit_01-04_19 0032；adv_unit_01-04_20 0024（心声里的「あなた」是手毬，conflicts 三·13）；adv_unit_01-04_22 0058～0071。digest-S1-main.md。
 ## 另一种可能 / 另一位制作人的培育（培育剧情）
-- adv_pstory_001_hmsz_opening-normal-01 0001～0006；before-audition-mid-normal-01；after-audition-mid-normal-03 0003、-04；ending-normal-01～05；adv_pstory_002_hmsz_after-audition-a-normal-03。各结局、各考试档位是并列分支（conflicts 四）。001 里的“以前的组合”“两个伙伴”没点名，用户确认就是『SyngUp!』和手毬、燐羽（conflicts 三·16 后的“另”）。adv_pstory_001_hmsz_after-audition-mid-normal-04 0003～0024。digest-O3-pstory.md。
+- adv_pstory_001_hmsz_opening-normal-01 0001～0006；before-audition-mid-normal-01；after-audition-mid-normal-03 0003、-04；ending-normal-01～05；adv_pstory_002_hmsz_after-audition-a-normal-03。各结局、各考试档位是并列分支（conflicts 四）。001 里的“以前的组合”“两个伙伴”没点名，维护者确认就是『SyngUp!』和手毬、燐羽（conflicts 三·16 后的“另”）。adv_pstory_001_hmsz_after-audition-mid-normal-04 0003～0024。digest-O3-pstory.md。
 ## 另一种可能 / 手毬的制作人身边（手毬亲爱度）
 - adv_dear_ttmr_007 0038～0061；adv_dear_ttmr_008 0070～0073；adv_dear_ttmr_010 0009～0048；adv_dear_ttmr_017 0037～0073；adv_dear_ttmr_019 0023；adv_dear_ttmr_023 0071～0087；adv_dear_ttmr_024 0011～0012；adv_dear_ttmr_027 0025；conflicts 三·1。digest-S5-others.md。
 ## 另一种可能 / 别的偶像身边的她（其他偶像的亲爱度）
